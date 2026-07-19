@@ -1,0 +1,5986 @@
+[
+  {
+    "date": "2026-07-19",
+    "dow": 0,
+    "hebrew": "5 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-20",
+    "dow": 1,
+    "hebrew": "6 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-21",
+    "dow": 2,
+    "hebrew": "7 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-22",
+    "dow": 3,
+    "hebrew": "8 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Erev Tish'a B'Av",
+        "en": "Erev Tish’a B’Av",
+        "es": "Erev Tishá BeAv",
+        "cat": "erev"
+      }
+    ],
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2026-07-23",
+    "dow": 4,
+    "hebrew": "9 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Tish'a B'Av",
+        "en": "Tish’a B’Av",
+        "es": "Tishá BeAv",
+        "cat": "festividad_solemne"
+      }
+    ],
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2026-07-24",
+    "dow": 5,
+    "hebrew": "10 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:49",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-25",
+    "dow": 6,
+    "hebrew": "11 Av 5786",
+    "parasha": "Vaetchanan",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:48",
+    "events": [
+      {
+        "desc": "Shabbat Nachamu",
+        "en": "Shabbat Nachamu",
+        "es": "Shabat Najamú",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-07-26",
+    "dow": 0,
+    "hebrew": "12 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-27",
+    "dow": 1,
+    "hebrew": "13 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-28",
+    "dow": 2,
+    "hebrew": "14 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-29",
+    "dow": 3,
+    "hebrew": "15 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Tu B'Av",
+        "en": "Tu B’Av",
+        "es": "Tu BeAv",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-30",
+    "dow": 4,
+    "hebrew": "16 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-07-31",
+    "dow": 5,
+    "hebrew": "17 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:54",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-01",
+    "dow": 6,
+    "hebrew": "18 Av 5786",
+    "parasha": "Eikev",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:52",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-08-02",
+    "dow": 0,
+    "hebrew": "19 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-03",
+    "dow": 1,
+    "hebrew": "20 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-04",
+    "dow": 2,
+    "hebrew": "21 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-05",
+    "dow": 3,
+    "hebrew": "22 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-06",
+    "dow": 4,
+    "hebrew": "23 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-07",
+    "dow": 5,
+    "hebrew": "24 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:59",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-08",
+    "dow": 6,
+    "hebrew": "25 Av 5786",
+    "parasha": "Re’eh",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:57",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-08-09",
+    "dow": 0,
+    "hebrew": "26 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-10",
+    "dow": 1,
+    "hebrew": "27 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-11",
+    "dow": 2,
+    "hebrew": "28 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-12",
+    "dow": 3,
+    "hebrew": "29 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-13",
+    "dow": 4,
+    "hebrew": "30 Av 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Elul",
+        "en": "Rosh Chodesh Elul",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-14",
+    "dow": 5,
+    "hebrew": "1 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:04",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Hashana LaBehemot",
+        "en": "Rosh Hashana LaBehemot",
+        "es": "Rosh Hashaná de los animales",
+        "cat": "otro"
+      },
+      {
+        "desc": "Rosh Chodesh Elul",
+        "en": "Rosh Chodesh Elul",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-15",
+    "dow": 6,
+    "hebrew": "2 Elul 5786",
+    "parasha": "Shoftim",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:01",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-08-16",
+    "dow": 0,
+    "hebrew": "3 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-17",
+    "dow": 1,
+    "hebrew": "4 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-18",
+    "dow": 2,
+    "hebrew": "5 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-19",
+    "dow": 3,
+    "hebrew": "6 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-20",
+    "dow": 4,
+    "hebrew": "7 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-21",
+    "dow": 5,
+    "hebrew": "8 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:09",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-22",
+    "dow": 6,
+    "hebrew": "9 Elul 5786",
+    "parasha": "Ki Teitzei",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:06",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-08-23",
+    "dow": 0,
+    "hebrew": "10 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-24",
+    "dow": 1,
+    "hebrew": "11 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-25",
+    "dow": 2,
+    "hebrew": "12 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-26",
+    "dow": 3,
+    "hebrew": "13 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-27",
+    "dow": 4,
+    "hebrew": "14 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-28",
+    "dow": 5,
+    "hebrew": "15 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:14",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-29",
+    "dow": 6,
+    "hebrew": "16 Elul 5786",
+    "parasha": "Ki Tavo",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:11",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-08-30",
+    "dow": 0,
+    "hebrew": "17 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-08-31",
+    "dow": 1,
+    "hebrew": "18 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-01",
+    "dow": 2,
+    "hebrew": "19 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-02",
+    "dow": 3,
+    "hebrew": "20 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-03",
+    "dow": 4,
+    "hebrew": "21 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-04",
+    "dow": 5,
+    "hebrew": "22 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:19",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-05",
+    "dow": 6,
+    "hebrew": "23 Elul 5786",
+    "parasha": "Nitzavim-Vayeilech",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:15",
+    "events": [
+      {
+        "desc": "Leil Selichot",
+        "en": "Leil Selichot",
+        "es": "Noche de Selijot",
+        "cat": "preparacion"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-06",
+    "dow": 0,
+    "hebrew": "24 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-07",
+    "dow": 1,
+    "hebrew": "25 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-08",
+    "dow": 2,
+    "hebrew": "26 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-09",
+    "dow": 3,
+    "hebrew": "27 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-10",
+    "dow": 4,
+    "hebrew": "28 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-11",
+    "dow": 5,
+    "hebrew": "29 Elul 5786",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:24",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Erev Rosh Hashana",
+        "en": "Erev Rosh Hashana",
+        "es": "Erev Rosh Hashaná",
+        "cat": "erev"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-12",
+    "dow": 6,
+    "hebrew": "1 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:20",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Hashana 5787",
+        "en": "Rosh Hashana 5787",
+        "es": "Rosh Hashaná",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-13",
+    "dow": 0,
+    "hebrew": "2 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:21",
+    "events": [
+      {
+        "desc": "Rosh Hashana II",
+        "en": "Rosh Hashana II",
+        "es": "Rosh Hashaná",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-14",
+    "dow": 1,
+    "hebrew": "3 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Tzom Gedaliah",
+        "en": "Tzom Gedaliah",
+        "es": "Tzom Gedaliá",
+        "cat": "ayuno"
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2026-09-15",
+    "dow": 2,
+    "hebrew": "4 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-16",
+    "dow": 3,
+    "hebrew": "5 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-17",
+    "dow": 4,
+    "hebrew": "6 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-18",
+    "dow": 5,
+    "hebrew": "7 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:29",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-19",
+    "dow": 6,
+    "hebrew": "8 Tishrei 5787",
+    "parasha": "Ha’azinu",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:25",
+    "events": [
+      {
+        "desc": "Shabbat Shuva",
+        "en": "Shabbat Shuva",
+        "es": "Shabat Shuvá",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-20",
+    "dow": 0,
+    "hebrew": "9 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:30",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Erev Yom Kippur",
+        "en": "Erev Yom Kippur",
+        "es": "Erev Yom Kipur",
+        "cat": "erev"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-21",
+    "dow": 1,
+    "hebrew": "10 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:27",
+    "events": [
+      {
+        "desc": "Yom Kippur",
+        "en": "Yom Kippur",
+        "es": "Yom Kipur",
+        "cat": "festividad_solemne"
+      }
+    ],
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2026-09-22",
+    "dow": 2,
+    "hebrew": "11 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-23",
+    "dow": 3,
+    "hebrew": "12 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-24",
+    "dow": 4,
+    "hebrew": "13 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-25",
+    "dow": 5,
+    "hebrew": "14 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:34",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Erev Sukkot",
+        "en": "Erev Sukkot",
+        "es": "Erev Sucot",
+        "cat": "erev"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-26",
+    "dow": 6,
+    "hebrew": "15 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:30",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Sukkot I",
+        "en": "Sukkot I",
+        "es": "Sucot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-27",
+    "dow": 0,
+    "hebrew": "16 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:31",
+    "events": [
+      {
+        "desc": "Sukkot II",
+        "en": "Sukkot II",
+        "es": "Sucot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-28",
+    "dow": 1,
+    "hebrew": "17 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Sukkot III (CH''M)",
+        "en": "Sukkot III (CH’’M)",
+        "es": "Sucot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-29",
+    "dow": 2,
+    "hebrew": "18 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Sukkot IV (CH''M)",
+        "en": "Sukkot IV (CH’’M)",
+        "es": "Sucot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-30",
+    "dow": 3,
+    "hebrew": "19 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Sukkot V (CH''M)",
+        "en": "Sukkot V (CH’’M)",
+        "es": "Sucot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-01",
+    "dow": 4,
+    "hebrew": "20 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Sukkot VI (CH''M)",
+        "en": "Sukkot VI (CH’’M)",
+        "es": "Sucot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-02",
+    "dow": 5,
+    "hebrew": "21 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:39",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Sukkot VII (Hoshana Raba)",
+        "en": "Sukkot VII (Hoshana Raba)",
+        "es": "Sucot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-03",
+    "dow": 6,
+    "hebrew": "22 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:36",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Shmini Atzeret",
+        "en": "Shmini Atzeret",
+        "es": "Shminí Atzéret",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-10-04",
+    "dow": 0,
+    "hebrew": "23 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:37",
+    "events": [
+      {
+        "desc": "Simchat Torah",
+        "en": "Simchat Torah",
+        "es": "Simjat Torá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-10-05",
+    "dow": 1,
+    "hebrew": "24 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-06",
+    "dow": 2,
+    "hebrew": "25 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-07",
+    "dow": 3,
+    "hebrew": "26 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "October 7 massacre (2023)",
+        "en": "October 7 massacre (2023)",
+        "es": "Masacre del 7 de octubre (2023)",
+        "cat": "memorial",
+        "civil": true
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2026-10-08",
+    "dow": 4,
+    "hebrew": "27 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-09",
+    "dow": 5,
+    "hebrew": "28 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:44",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-10",
+    "dow": 6,
+    "hebrew": "29 Tishrei 5787",
+    "parasha": "Bereshit",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:42",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-10-11",
+    "dow": 0,
+    "hebrew": "30 Tishrei 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Cheshvan",
+        "en": "Rosh Chodesh Cheshvan",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-12",
+    "dow": 1,
+    "hebrew": "1 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Cheshvan",
+        "en": "Rosh Chodesh Cheshvan",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-13",
+    "dow": 2,
+    "hebrew": "2 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-14",
+    "dow": 3,
+    "hebrew": "3 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-15",
+    "dow": 4,
+    "hebrew": "4 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-16",
+    "dow": 5,
+    "hebrew": "5 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:50",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-17",
+    "dow": 6,
+    "hebrew": "6 Cheshvan 5787",
+    "parasha": "Noach",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:48",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-10-18",
+    "dow": 0,
+    "hebrew": "7 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-19",
+    "dow": 1,
+    "hebrew": "8 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-20",
+    "dow": 2,
+    "hebrew": "9 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-21",
+    "dow": 3,
+    "hebrew": "10 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-22",
+    "dow": 4,
+    "hebrew": "11 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-23",
+    "dow": 5,
+    "hebrew": "12 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:56",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-24",
+    "dow": 6,
+    "hebrew": "13 Cheshvan 5787",
+    "parasha": "Lech-Lecha",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:55",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-10-25",
+    "dow": 0,
+    "hebrew": "14 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-26",
+    "dow": 1,
+    "hebrew": "15 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-27",
+    "dow": 2,
+    "hebrew": "16 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-28",
+    "dow": 3,
+    "hebrew": "17 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-29",
+    "dow": 4,
+    "hebrew": "18 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-30",
+    "dow": 5,
+    "hebrew": "19 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:03",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-31",
+    "dow": 6,
+    "hebrew": "20 Cheshvan 5787",
+    "parasha": "Vayera",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:02",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-11-01",
+    "dow": 0,
+    "hebrew": "21 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-02",
+    "dow": 1,
+    "hebrew": "22 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-03",
+    "dow": 2,
+    "hebrew": "23 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-04",
+    "dow": 3,
+    "hebrew": "24 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-05",
+    "dow": 4,
+    "hebrew": "25 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-06",
+    "dow": 5,
+    "hebrew": "26 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:09",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-07",
+    "dow": 6,
+    "hebrew": "27 Cheshvan 5787",
+    "parasha": "Chayei Sara",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:09",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-11-08",
+    "dow": 0,
+    "hebrew": "28 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-09",
+    "dow": 1,
+    "hebrew": "29 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Sigd",
+        "en": "Sigd",
+        "es": null,
+        "cat": "otro"
+      },
+      {
+        "desc": "Kristallnacht (1938)",
+        "en": "Kristallnacht (1938)",
+        "es": "Kristallnacht — Noche de los Cristales Rotos (1938)",
+        "cat": "memorial",
+        "civil": true
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2026-11-10",
+    "dow": 2,
+    "hebrew": "30 Cheshvan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Kislev",
+        "en": "Rosh Chodesh Kislev",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-11",
+    "dow": 3,
+    "hebrew": "1 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Kislev",
+        "en": "Rosh Chodesh Kislev",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-12",
+    "dow": 4,
+    "hebrew": "2 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-13",
+    "dow": 5,
+    "hebrew": "3 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:16",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-14",
+    "dow": 6,
+    "hebrew": "4 Kislev 5787",
+    "parasha": "Toldot",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:17",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-11-15",
+    "dow": 0,
+    "hebrew": "5 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-16",
+    "dow": 1,
+    "hebrew": "6 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-17",
+    "dow": 2,
+    "hebrew": "7 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-18",
+    "dow": 3,
+    "hebrew": "8 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-19",
+    "dow": 4,
+    "hebrew": "9 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-20",
+    "dow": 5,
+    "hebrew": "10 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:23",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-21",
+    "dow": 6,
+    "hebrew": "11 Kislev 5787",
+    "parasha": "Vayetzei",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:25",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-11-22",
+    "dow": 0,
+    "hebrew": "12 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-23",
+    "dow": 1,
+    "hebrew": "13 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-24",
+    "dow": 2,
+    "hebrew": "14 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-25",
+    "dow": 3,
+    "hebrew": "15 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-26",
+    "dow": 4,
+    "hebrew": "16 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-27",
+    "dow": 5,
+    "hebrew": "17 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:30",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-28",
+    "dow": 6,
+    "hebrew": "18 Kislev 5787",
+    "parasha": "Vayishlach",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:32",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-11-29",
+    "dow": 0,
+    "hebrew": "19 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-11-30",
+    "dow": 1,
+    "hebrew": "20 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-01",
+    "dow": 2,
+    "hebrew": "21 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-02",
+    "dow": 3,
+    "hebrew": "22 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-03",
+    "dow": 4,
+    "hebrew": "23 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-04",
+    "dow": 5,
+    "hebrew": "24 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:36",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Chanukah: 1 Candle",
+        "en": "Chanukah: 1 Candle",
+        "es": "Janucá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-05",
+    "dow": 6,
+    "hebrew": "25 Kislev 5787",
+    "parasha": "Vayeshev",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:39",
+    "events": [
+      {
+        "desc": "Chanukah: 2 Candles",
+        "en": "Chanukah: 2 Candles",
+        "es": "Janucá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-12-06",
+    "dow": 0,
+    "hebrew": "26 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Chanukah: 3 Candles",
+        "en": "Chanukah: 3 Candles",
+        "es": "Janucá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-07",
+    "dow": 1,
+    "hebrew": "27 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Chanukah: 4 Candles",
+        "en": "Chanukah: 4 Candles",
+        "es": "Janucá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-08",
+    "dow": 2,
+    "hebrew": "28 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Chanukah: 5 Candles",
+        "en": "Chanukah: 5 Candles",
+        "es": "Janucá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-09",
+    "dow": 3,
+    "hebrew": "29 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Chanukah: 6 Candles",
+        "en": "Chanukah: 6 Candles",
+        "es": "Janucá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-10",
+    "dow": 4,
+    "hebrew": "30 Kislev 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Chag HaBanot",
+        "en": "Chag HaBanot",
+        "es": null,
+        "cat": "otro"
+      },
+      {
+        "desc": "Chanukah: 7 Candles",
+        "en": "Chanukah: 7 Candles",
+        "es": "Janucá",
+        "cat": "festividad"
+      },
+      {
+        "desc": "Rosh Chodesh Tevet",
+        "en": "Rosh Chodesh Tevet",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-11",
+    "dow": 5,
+    "hebrew": "1 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:41",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Chanukah: 8 Candles",
+        "en": "Chanukah: 8 Candles",
+        "es": "Janucá",
+        "cat": "festividad"
+      },
+      {
+        "desc": "Rosh Chodesh Tevet",
+        "en": "Rosh Chodesh Tevet",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-12",
+    "dow": 6,
+    "hebrew": "2 Tevet 5787",
+    "parasha": "Miketz",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:45",
+    "events": [
+      {
+        "desc": "Chanukah: 8th Day",
+        "en": "Chanukah: 8th Day",
+        "es": "Janucá",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-12-13",
+    "dow": 0,
+    "hebrew": "3 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-14",
+    "dow": 1,
+    "hebrew": "4 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-15",
+    "dow": 2,
+    "hebrew": "5 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-16",
+    "dow": 3,
+    "hebrew": "6 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-17",
+    "dow": 4,
+    "hebrew": "7 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-18",
+    "dow": 5,
+    "hebrew": "8 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:46",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-19",
+    "dow": 6,
+    "hebrew": "9 Tevet 5787",
+    "parasha": "Vayigash",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:49",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-12-20",
+    "dow": 0,
+    "hebrew": "10 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Asara B'Tevet",
+        "en": "Asara B’Tevet",
+        "es": "Asará BeTevet (10 de Tevet)",
+        "cat": "ayuno"
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2026-12-21",
+    "dow": 1,
+    "hebrew": "11 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-22",
+    "dow": 2,
+    "hebrew": "12 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-23",
+    "dow": 3,
+    "hebrew": "13 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-24",
+    "dow": 4,
+    "hebrew": "14 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-25",
+    "dow": 5,
+    "hebrew": "15 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:49",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-26",
+    "dow": 6,
+    "hebrew": "16 Tevet 5787",
+    "parasha": "Vayechi",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:53",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-12-27",
+    "dow": 0,
+    "hebrew": "17 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-28",
+    "dow": 1,
+    "hebrew": "18 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-29",
+    "dow": 2,
+    "hebrew": "19 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-30",
+    "dow": 3,
+    "hebrew": "20 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-31",
+    "dow": 4,
+    "hebrew": "21 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-01",
+    "dow": 5,
+    "hebrew": "22 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:51",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-02",
+    "dow": 6,
+    "hebrew": "23 Tevet 5787",
+    "parasha": "Shemot",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:54",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-01-03",
+    "dow": 0,
+    "hebrew": "24 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-04",
+    "dow": 1,
+    "hebrew": "25 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-05",
+    "dow": 2,
+    "hebrew": "26 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-06",
+    "dow": 3,
+    "hebrew": "27 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-07",
+    "dow": 4,
+    "hebrew": "28 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-08",
+    "dow": 5,
+    "hebrew": "29 Tevet 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:52",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-09",
+    "dow": 6,
+    "hebrew": "1 Sh'vat 5787",
+    "parasha": "Vaera",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:54",
+    "events": [
+      {
+        "desc": "Rosh Chodesh Sh'vat",
+        "en": "Rosh Chodesh Sh’vat",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-01-10",
+    "dow": 0,
+    "hebrew": "2 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-11",
+    "dow": 1,
+    "hebrew": "3 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-12",
+    "dow": 2,
+    "hebrew": "4 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-13",
+    "dow": 3,
+    "hebrew": "5 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-14",
+    "dow": 4,
+    "hebrew": "6 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-15",
+    "dow": 5,
+    "hebrew": "7 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:51",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-16",
+    "dow": 6,
+    "hebrew": "8 Sh'vat 5787",
+    "parasha": "Bo",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:52",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-01-17",
+    "dow": 0,
+    "hebrew": "9 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-18",
+    "dow": 1,
+    "hebrew": "10 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-19",
+    "dow": 2,
+    "hebrew": "11 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-20",
+    "dow": 3,
+    "hebrew": "12 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-21",
+    "dow": 4,
+    "hebrew": "13 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-22",
+    "dow": 5,
+    "hebrew": "14 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:48",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-23",
+    "dow": 6,
+    "hebrew": "15 Sh'vat 5787",
+    "parasha": "Beshalach",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:48",
+    "events": [
+      {
+        "desc": "Tu BiShvat",
+        "en": "Tu BiShvat",
+        "es": "Tu BiShvat",
+        "cat": "festividad"
+      },
+      {
+        "desc": "Shabbat Shirah",
+        "en": "Shabbat Shirah",
+        "es": "Shabat Shirá",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-01-24",
+    "dow": 0,
+    "hebrew": "16 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-25",
+    "dow": 1,
+    "hebrew": "17 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-26",
+    "dow": 2,
+    "hebrew": "18 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-27",
+    "dow": 3,
+    "hebrew": "19 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Intl. Holocaust Remembrance Day",
+        "en": "Intl. Holocaust Remembrance Day",
+        "es": "Día Internacional en Memoria del Holocausto",
+        "cat": "memorial",
+        "civil": true
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-01-28",
+    "dow": 4,
+    "hebrew": "20 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-29",
+    "dow": 5,
+    "hebrew": "21 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:44",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-01-30",
+    "dow": 6,
+    "hebrew": "22 Sh'vat 5787",
+    "parasha": "Yitro",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:43",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-01-31",
+    "dow": 0,
+    "hebrew": "23 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-01",
+    "dow": 1,
+    "hebrew": "24 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-02",
+    "dow": 2,
+    "hebrew": "25 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-03",
+    "dow": 3,
+    "hebrew": "26 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-04",
+    "dow": 4,
+    "hebrew": "27 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-05",
+    "dow": 5,
+    "hebrew": "28 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:38",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-06",
+    "dow": 6,
+    "hebrew": "29 Sh'vat 5787",
+    "parasha": "Mishpatim",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:36",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-02-07",
+    "dow": 0,
+    "hebrew": "30 Sh'vat 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Adar I",
+        "en": "Rosh Chodesh Adar I",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-08",
+    "dow": 1,
+    "hebrew": "1 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Adar I",
+        "en": "Rosh Chodesh Adar I",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-09",
+    "dow": 2,
+    "hebrew": "2 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-10",
+    "dow": 3,
+    "hebrew": "3 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-11",
+    "dow": 4,
+    "hebrew": "4 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-12",
+    "dow": 5,
+    "hebrew": "5 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:32",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-13",
+    "dow": 6,
+    "hebrew": "6 Adar I 5787",
+    "parasha": "Terumah",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:29",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-02-14",
+    "dow": 0,
+    "hebrew": "7 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-15",
+    "dow": 1,
+    "hebrew": "8 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-16",
+    "dow": 2,
+    "hebrew": "9 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-17",
+    "dow": 3,
+    "hebrew": "10 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-18",
+    "dow": 4,
+    "hebrew": "11 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-19",
+    "dow": 5,
+    "hebrew": "12 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:24",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-20",
+    "dow": 6,
+    "hebrew": "13 Adar I 5787",
+    "parasha": "Tetzaveh",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:20",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-02-21",
+    "dow": 0,
+    "hebrew": "14 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Purim Katan",
+        "en": "Purim Katan",
+        "es": "Purim Katán",
+        "cat": "otro"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-22",
+    "dow": 1,
+    "hebrew": "15 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Shushan Purim Katan",
+        "en": "Shushan Purim Katan",
+        "es": "Shushán Purim",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-23",
+    "dow": 2,
+    "hebrew": "16 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-24",
+    "dow": 3,
+    "hebrew": "17 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-25",
+    "dow": 4,
+    "hebrew": "18 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-26",
+    "dow": 5,
+    "hebrew": "19 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:16",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-02-27",
+    "dow": 6,
+    "hebrew": "20 Adar I 5787",
+    "parasha": "Ki Tisa",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:11",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-02-28",
+    "dow": 0,
+    "hebrew": "21 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-01",
+    "dow": 1,
+    "hebrew": "22 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-02",
+    "dow": 2,
+    "hebrew": "23 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-03",
+    "dow": 3,
+    "hebrew": "24 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-04",
+    "dow": 4,
+    "hebrew": "25 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-05",
+    "dow": 5,
+    "hebrew": "26 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "19:07",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-06",
+    "dow": 6,
+    "hebrew": "27 Adar I 5787",
+    "parasha": "Vayakhel",
+    "omer": null,
+    "candle": null,
+    "havdalah": "20:02",
+    "events": [
+      {
+        "desc": "Shabbat Shekalim",
+        "en": "Shabbat Shekalim",
+        "es": "Shabat Shekalim",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-03-07",
+    "dow": 0,
+    "hebrew": "28 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-08",
+    "dow": 1,
+    "hebrew": "29 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-09",
+    "dow": 2,
+    "hebrew": "30 Adar I 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Adar II",
+        "en": "Rosh Chodesh Adar II",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-10",
+    "dow": 3,
+    "hebrew": "1 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Adar II",
+        "en": "Rosh Chodesh Adar II",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-11",
+    "dow": 4,
+    "hebrew": "2 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-12",
+    "dow": 5,
+    "hebrew": "3 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:57",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-13",
+    "dow": 6,
+    "hebrew": "4 Adar II 5787",
+    "parasha": "Pekudei",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:52",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-03-14",
+    "dow": 0,
+    "hebrew": "5 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-15",
+    "dow": 1,
+    "hebrew": "6 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-16",
+    "dow": 2,
+    "hebrew": "7 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-17",
+    "dow": 3,
+    "hebrew": "8 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Israeli Embassy bombing, Buenos Aires (1992)",
+        "en": "Israeli Embassy bombing, Buenos Aires (1992)",
+        "es": "Atentado a la Embajada de Israel (Buenos Aires, 1992)",
+        "cat": "memorial",
+        "civil": true
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-03-18",
+    "dow": 4,
+    "hebrew": "9 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-19",
+    "dow": 5,
+    "hebrew": "10 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:48",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-20",
+    "dow": 6,
+    "hebrew": "11 Adar II 5787",
+    "parasha": "Vayikra",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:42",
+    "events": [
+      {
+        "desc": "Shabbat Zachor",
+        "en": "Shabbat Zachor",
+        "es": "Shabat Zajor",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-03-21",
+    "dow": 0,
+    "hebrew": "12 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-22",
+    "dow": 1,
+    "hebrew": "13 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Ta'anit Esther",
+        "en": "Ta’anit Esther",
+        "es": "Taanit Ester",
+        "cat": "ayuno"
+      },
+      {
+        "desc": "Erev Purim",
+        "en": "Erev Purim",
+        "es": "Erev Purim",
+        "cat": "erev"
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-03-23",
+    "dow": 2,
+    "hebrew": "14 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Purim",
+        "en": "Purim",
+        "es": "Purim",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-24",
+    "dow": 3,
+    "hebrew": "15 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Shushan Purim",
+        "en": "Shushan Purim",
+        "es": "Shushán Purim",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-25",
+    "dow": 4,
+    "hebrew": "16 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-26",
+    "dow": 5,
+    "hebrew": "17 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:38",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-27",
+    "dow": 6,
+    "hebrew": "18 Adar II 5787",
+    "parasha": "Tzav",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:32",
+    "events": [
+      {
+        "desc": "Shabbat Parah",
+        "en": "Shabbat Parah",
+        "es": "Shabat Pará",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-03-28",
+    "dow": 0,
+    "hebrew": "19 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-29",
+    "dow": 1,
+    "hebrew": "20 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-30",
+    "dow": 2,
+    "hebrew": "21 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-31",
+    "dow": 3,
+    "hebrew": "22 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-01",
+    "dow": 4,
+    "hebrew": "23 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-02",
+    "dow": 5,
+    "hebrew": "24 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:28",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-03",
+    "dow": 6,
+    "hebrew": "25 Adar II 5787",
+    "parasha": "Shmini",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:23",
+    "events": [
+      {
+        "desc": "Shabbat HaChodesh",
+        "en": "Shabbat HaChodesh",
+        "es": "Shabat HaJodesh",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-04",
+    "dow": 0,
+    "hebrew": "26 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-05",
+    "dow": 1,
+    "hebrew": "27 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-06",
+    "dow": 2,
+    "hebrew": "28 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-07",
+    "dow": 3,
+    "hebrew": "29 Adar II 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-08",
+    "dow": 4,
+    "hebrew": "1 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Nisan",
+        "en": "Rosh Chodesh Nisan",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-09",
+    "dow": 5,
+    "hebrew": "2 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:19",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-10",
+    "dow": 6,
+    "hebrew": "3 Nisan 5787",
+    "parasha": "Tazria",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:14",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-11",
+    "dow": 0,
+    "hebrew": "4 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-12",
+    "dow": 1,
+    "hebrew": "5 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-13",
+    "dow": 2,
+    "hebrew": "6 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-14",
+    "dow": 3,
+    "hebrew": "7 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-15",
+    "dow": 4,
+    "hebrew": "8 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-16",
+    "dow": 5,
+    "hebrew": "9 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:10",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-17",
+    "dow": 6,
+    "hebrew": "10 Nisan 5787",
+    "parasha": "Metzora",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:05",
+    "events": [
+      {
+        "desc": "Shabbat HaGadol",
+        "en": "Shabbat HaGadol",
+        "es": "Shabat HaGadol",
+        "cat": "shabat_especial"
+      },
+      {
+        "desc": "Yom HaAliyah",
+        "en": "Yom HaAliyah",
+        "es": null,
+        "cat": "otro"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-18",
+    "dow": 0,
+    "hebrew": "11 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-19",
+    "dow": 1,
+    "hebrew": "12 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-20",
+    "dow": 2,
+    "hebrew": "13 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-21",
+    "dow": 3,
+    "hebrew": "14 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:04",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Ta'anit Bechorot",
+        "en": "Ta’anit Bechorot",
+        "es": "Taanit Bejorot",
+        "cat": "ayuno"
+      },
+      {
+        "desc": "Finish eating chametz",
+        "en": "Finish eating chametz: 11:02",
+        "es": null,
+        "cat": "otro"
+      },
+      {
+        "desc": "Biur Chametz",
+        "en": "Biur Chametz: 11:57",
+        "es": null,
+        "cat": "otro"
+      },
+      {
+        "desc": "Erev Pesach",
+        "en": "Erev Pesach",
+        "es": "Erev Pésaj",
+        "cat": "erev"
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-04-22",
+    "dow": 4,
+    "hebrew": "15 Nisan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:59",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Pesach I",
+        "en": "Pesach I",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-23",
+    "dow": 5,
+    "hebrew": "16 Nisan 5787",
+    "parasha": null,
+    "omer": 1,
+    "candle": "18:02",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Pesach II",
+        "en": "Pesach II",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-24",
+    "dow": 6,
+    "hebrew": "17 Nisan 5787",
+    "parasha": null,
+    "omer": 2,
+    "candle": null,
+    "havdalah": "18:57",
+    "events": [
+      {
+        "desc": "Pesach III (CH''M)",
+        "en": "Pesach III (CH’’M)",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-25",
+    "dow": 0,
+    "hebrew": "18 Nisan 5787",
+    "parasha": null,
+    "omer": 3,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Pesach IV (CH''M)",
+        "en": "Pesach IV (CH’’M)",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-26",
+    "dow": 1,
+    "hebrew": "19 Nisan 5787",
+    "parasha": null,
+    "omer": 4,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Pesach V (CH''M)",
+        "en": "Pesach V (CH’’M)",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-27",
+    "dow": 2,
+    "hebrew": "20 Nisan 5787",
+    "parasha": null,
+    "omer": 5,
+    "candle": "17:57",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Pesach VI (CH''M)",
+        "en": "Pesach VI (CH’’M)",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-28",
+    "dow": 3,
+    "hebrew": "21 Nisan 5787",
+    "parasha": null,
+    "omer": 6,
+    "candle": "18:53",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Pesach VII",
+        "en": "Pesach VII",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-29",
+    "dow": 4,
+    "hebrew": "22 Nisan 5787",
+    "parasha": null,
+    "omer": 7,
+    "candle": null,
+    "havdalah": "18:52",
+    "events": [
+      {
+        "desc": "Pesach VIII",
+        "en": "Pesach VIII",
+        "es": "Pésaj",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-30",
+    "dow": 5,
+    "hebrew": "23 Nisan 5787",
+    "parasha": null,
+    "omer": 8,
+    "candle": "17:54",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-01",
+    "dow": 6,
+    "hebrew": "24 Nisan 5787",
+    "parasha": "Achrei Mot",
+    "omer": 9,
+    "candle": null,
+    "havdalah": "18:50",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-05-02",
+    "dow": 0,
+    "hebrew": "25 Nisan 5787",
+    "parasha": null,
+    "omer": 10,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-03",
+    "dow": 1,
+    "hebrew": "26 Nisan 5787",
+    "parasha": null,
+    "omer": 11,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-04",
+    "dow": 2,
+    "hebrew": "27 Nisan 5787",
+    "parasha": null,
+    "omer": 12,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Yom HaShoah",
+        "en": "Yom HaShoah",
+        "es": "Yom HaShoá",
+        "cat": "memorial"
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-05-05",
+    "dow": 3,
+    "hebrew": "28 Nisan 5787",
+    "parasha": null,
+    "omer": 13,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-06",
+    "dow": 4,
+    "hebrew": "29 Nisan 5787",
+    "parasha": null,
+    "omer": 14,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-07",
+    "dow": 5,
+    "hebrew": "30 Nisan 5787",
+    "parasha": null,
+    "omer": 15,
+    "candle": "17:47",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Iyyar",
+        "en": "Rosh Chodesh Iyyar",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-08",
+    "dow": 6,
+    "hebrew": "1 Iyyar 5787",
+    "parasha": "Kedoshim",
+    "omer": 16,
+    "candle": null,
+    "havdalah": "18:44",
+    "events": [
+      {
+        "desc": "Rosh Chodesh Iyyar",
+        "en": "Rosh Chodesh Iyyar",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-05-09",
+    "dow": 0,
+    "hebrew": "2 Iyyar 5787",
+    "parasha": null,
+    "omer": 17,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-10",
+    "dow": 1,
+    "hebrew": "3 Iyyar 5787",
+    "parasha": null,
+    "omer": 18,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-11",
+    "dow": 2,
+    "hebrew": "4 Iyyar 5787",
+    "parasha": null,
+    "omer": 19,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Yom HaZikaron",
+        "en": "Yom HaZikaron",
+        "es": "Yom HaZikarón",
+        "cat": "memorial"
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-05-12",
+    "dow": 3,
+    "hebrew": "5 Iyyar 5787",
+    "parasha": null,
+    "omer": 20,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Yom HaAtzma'ut",
+        "en": "Yom HaAtzma’ut",
+        "es": "Yom Ha’atzmaut",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-13",
+    "dow": 4,
+    "hebrew": "6 Iyyar 5787",
+    "parasha": null,
+    "omer": 21,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-14",
+    "dow": 5,
+    "hebrew": "7 Iyyar 5787",
+    "parasha": null,
+    "omer": 22,
+    "candle": "17:42",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-15",
+    "dow": 6,
+    "hebrew": "8 Iyyar 5787",
+    "parasha": "Emor",
+    "omer": 23,
+    "candle": null,
+    "havdalah": "18:39",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-05-16",
+    "dow": 0,
+    "hebrew": "9 Iyyar 5787",
+    "parasha": null,
+    "omer": 24,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-17",
+    "dow": 1,
+    "hebrew": "10 Iyyar 5787",
+    "parasha": null,
+    "omer": 25,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-18",
+    "dow": 2,
+    "hebrew": "11 Iyyar 5787",
+    "parasha": null,
+    "omer": 26,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-19",
+    "dow": 3,
+    "hebrew": "12 Iyyar 5787",
+    "parasha": null,
+    "omer": 27,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-20",
+    "dow": 4,
+    "hebrew": "13 Iyyar 5787",
+    "parasha": null,
+    "omer": 28,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-21",
+    "dow": 5,
+    "hebrew": "14 Iyyar 5787",
+    "parasha": null,
+    "omer": 29,
+    "candle": "17:37",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Pesach Sheni",
+        "en": "Pesach Sheni",
+        "es": "Pésaj Shení",
+        "cat": "otro"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-22",
+    "dow": 6,
+    "hebrew": "15 Iyyar 5787",
+    "parasha": "Behar",
+    "omer": 30,
+    "candle": null,
+    "havdalah": "18:35",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-05-23",
+    "dow": 0,
+    "hebrew": "16 Iyyar 5787",
+    "parasha": null,
+    "omer": 31,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-24",
+    "dow": 1,
+    "hebrew": "17 Iyyar 5787",
+    "parasha": null,
+    "omer": 32,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-25",
+    "dow": 2,
+    "hebrew": "18 Iyyar 5787",
+    "parasha": null,
+    "omer": 33,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Lag BaOmer",
+        "en": "Lag BaOmer",
+        "es": "Lag BaÓmer",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-26",
+    "dow": 3,
+    "hebrew": "19 Iyyar 5787",
+    "parasha": null,
+    "omer": 34,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-27",
+    "dow": 4,
+    "hebrew": "20 Iyyar 5787",
+    "parasha": null,
+    "omer": 35,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-28",
+    "dow": 5,
+    "hebrew": "21 Iyyar 5787",
+    "parasha": null,
+    "omer": 36,
+    "candle": "17:34",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-29",
+    "dow": 6,
+    "hebrew": "22 Iyyar 5787",
+    "parasha": "Bechukotai",
+    "omer": 37,
+    "candle": null,
+    "havdalah": "18:32",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-05-30",
+    "dow": 0,
+    "hebrew": "23 Iyyar 5787",
+    "parasha": null,
+    "omer": 38,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-31",
+    "dow": 1,
+    "hebrew": "24 Iyyar 5787",
+    "parasha": null,
+    "omer": 39,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-01",
+    "dow": 2,
+    "hebrew": "25 Iyyar 5787",
+    "parasha": null,
+    "omer": 40,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-02",
+    "dow": 3,
+    "hebrew": "26 Iyyar 5787",
+    "parasha": null,
+    "omer": 41,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-03",
+    "dow": 4,
+    "hebrew": "27 Iyyar 5787",
+    "parasha": null,
+    "omer": 42,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-04",
+    "dow": 5,
+    "hebrew": "28 Iyyar 5787",
+    "parasha": null,
+    "omer": 43,
+    "candle": "17:32",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Yom Yerushalayim",
+        "en": "Yom Yerushalayim",
+        "es": "Yom Yerushalayim",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-05",
+    "dow": 6,
+    "hebrew": "29 Iyyar 5787",
+    "parasha": "Bamidbar",
+    "omer": 44,
+    "candle": null,
+    "havdalah": "18:31",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-06-06",
+    "dow": 0,
+    "hebrew": "1 Sivan 5787",
+    "parasha": null,
+    "omer": 45,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Sivan",
+        "en": "Rosh Chodesh Sivan",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-07",
+    "dow": 1,
+    "hebrew": "2 Sivan 5787",
+    "parasha": null,
+    "omer": 46,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-08",
+    "dow": 2,
+    "hebrew": "3 Sivan 5787",
+    "parasha": null,
+    "omer": 47,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-09",
+    "dow": 3,
+    "hebrew": "4 Sivan 5787",
+    "parasha": null,
+    "omer": 48,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-10",
+    "dow": 4,
+    "hebrew": "5 Sivan 5787",
+    "parasha": null,
+    "omer": 49,
+    "candle": "17:31",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Erev Shavuot",
+        "en": "Erev Shavuot",
+        "es": "Erev Shavuot",
+        "cat": "erev"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-11",
+    "dow": 5,
+    "hebrew": "6 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:31",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Shavuot I",
+        "en": "Shavuot I",
+        "es": "Shavuot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-06-12",
+    "dow": 6,
+    "hebrew": "7 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:30",
+    "events": [
+      {
+        "desc": "Shavuot II",
+        "en": "Shavuot II",
+        "es": "Shavuot",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-06-13",
+    "dow": 0,
+    "hebrew": "8 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-14",
+    "dow": 1,
+    "hebrew": "9 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-15",
+    "dow": 2,
+    "hebrew": "10 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-16",
+    "dow": 3,
+    "hebrew": "11 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-17",
+    "dow": 4,
+    "hebrew": "12 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-18",
+    "dow": 5,
+    "hebrew": "13 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:31",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-19",
+    "dow": 6,
+    "hebrew": "14 Sivan 5787",
+    "parasha": "Nasso",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:31",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-06-20",
+    "dow": 0,
+    "hebrew": "15 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-21",
+    "dow": 1,
+    "hebrew": "16 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-22",
+    "dow": 2,
+    "hebrew": "17 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-23",
+    "dow": 3,
+    "hebrew": "18 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-24",
+    "dow": 4,
+    "hebrew": "19 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-25",
+    "dow": 5,
+    "hebrew": "20 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:33",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-26",
+    "dow": 6,
+    "hebrew": "21 Sivan 5787",
+    "parasha": "Beha’alotcha",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:33",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-06-27",
+    "dow": 0,
+    "hebrew": "22 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-28",
+    "dow": 1,
+    "hebrew": "23 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-29",
+    "dow": 2,
+    "hebrew": "24 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-30",
+    "dow": 3,
+    "hebrew": "25 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-01",
+    "dow": 4,
+    "hebrew": "26 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-02",
+    "dow": 5,
+    "hebrew": "27 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:36",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-03",
+    "dow": 6,
+    "hebrew": "28 Sivan 5787",
+    "parasha": "Sh’lach",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:36",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-07-04",
+    "dow": 0,
+    "hebrew": "29 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-05",
+    "dow": 1,
+    "hebrew": "30 Sivan 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Tamuz",
+        "en": "Rosh Chodesh Tamuz",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-06",
+    "dow": 2,
+    "hebrew": "1 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Tamuz",
+        "en": "Rosh Chodesh Tamuz",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-07",
+    "dow": 3,
+    "hebrew": "2 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-08",
+    "dow": 4,
+    "hebrew": "3 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-09",
+    "dow": 5,
+    "hebrew": "4 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:39",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-10",
+    "dow": 6,
+    "hebrew": "5 Tamuz 5787",
+    "parasha": "Korach",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:39",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-07-11",
+    "dow": 0,
+    "hebrew": "6 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-12",
+    "dow": 1,
+    "hebrew": "7 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-13",
+    "dow": 2,
+    "hebrew": "8 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-14",
+    "dow": 3,
+    "hebrew": "9 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-15",
+    "dow": 4,
+    "hebrew": "10 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-16",
+    "dow": 5,
+    "hebrew": "11 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:43",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-17",
+    "dow": 6,
+    "hebrew": "12 Tamuz 5787",
+    "parasha": "Chukat-Balak",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:43",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-07-18",
+    "dow": 0,
+    "hebrew": "13 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "AMIA bombing, Buenos Aires (1994)",
+        "en": "AMIA bombing, Buenos Aires (1994)",
+        "es": "Atentado a la AMIA (Buenos Aires, 1994)",
+        "cat": "memorial",
+        "civil": true
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-07-19",
+    "dow": 1,
+    "hebrew": "14 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-20",
+    "dow": 2,
+    "hebrew": "15 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-21",
+    "dow": 3,
+    "hebrew": "16 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-22",
+    "dow": 4,
+    "hebrew": "17 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Tzom Tammuz",
+        "en": "Tzom Tammuz",
+        "es": "Ayuno del 17 de Tamuz",
+        "cat": "ayuno"
+      }
+    ],
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-07-23",
+    "dow": 5,
+    "hebrew": "18 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:48",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-24",
+    "dow": 6,
+    "hebrew": "19 Tamuz 5787",
+    "parasha": "Pinchas",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:47",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-07-25",
+    "dow": 0,
+    "hebrew": "20 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-26",
+    "dow": 1,
+    "hebrew": "21 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-27",
+    "dow": 2,
+    "hebrew": "22 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-28",
+    "dow": 3,
+    "hebrew": "23 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-29",
+    "dow": 4,
+    "hebrew": "24 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-30",
+    "dow": 5,
+    "hebrew": "25 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:53",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-07-31",
+    "dow": 6,
+    "hebrew": "26 Tamuz 5787",
+    "parasha": "Matot-Masei",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:51",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-08-01",
+    "dow": 0,
+    "hebrew": "27 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-02",
+    "dow": 1,
+    "hebrew": "28 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-03",
+    "dow": 2,
+    "hebrew": "29 Tamuz 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-04",
+    "dow": 3,
+    "hebrew": "1 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Av",
+        "en": "Rosh Chodesh Av",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-05",
+    "dow": 4,
+    "hebrew": "2 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-06",
+    "dow": 5,
+    "hebrew": "3 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "17:58",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-07",
+    "dow": 6,
+    "hebrew": "4 Av 5787",
+    "parasha": "Devarim",
+    "omer": null,
+    "candle": null,
+    "havdalah": "18:56",
+    "events": [
+      {
+        "desc": "Shabbat Chazon",
+        "en": "Shabbat Chazon",
+        "es": "Shabat Jazón",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-08-08",
+    "dow": 0,
+    "hebrew": "5 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-09",
+    "dow": 1,
+    "hebrew": "6 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-10",
+    "dow": 2,
+    "hebrew": "7 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-11",
+    "dow": 3,
+    "hebrew": "8 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Erev Tish'a B'Av",
+        "en": "Erev Tish’a B’Av",
+        "es": "Erev Tishá BeAv",
+        "cat": "erev"
+      }
+    ],
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2027-08-12",
+    "dow": 4,
+    "hebrew": "9 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Tish'a B'Av",
+        "en": "Tish’a B’Av",
+        "es": "Tishá BeAv",
+        "cat": "festividad_solemne"
+      }
+    ],
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2027-08-13",
+    "dow": 5,
+    "hebrew": "10 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:03",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-14",
+    "dow": 6,
+    "hebrew": "11 Av 5787",
+    "parasha": "Vaetchanan",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:01",
+    "events": [
+      {
+        "desc": "Shabbat Nachamu",
+        "en": "Shabbat Nachamu",
+        "es": "Shabat Najamú",
+        "cat": "shabat_especial"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-08-15",
+    "dow": 0,
+    "hebrew": "12 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-16",
+    "dow": 1,
+    "hebrew": "13 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-17",
+    "dow": 2,
+    "hebrew": "14 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-18",
+    "dow": 3,
+    "hebrew": "15 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Tu B'Av",
+        "en": "Tu B’Av",
+        "es": "Tu BeAv",
+        "cat": "festividad"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-19",
+    "dow": 4,
+    "hebrew": "16 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-20",
+    "dow": 5,
+    "hebrew": "17 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:08",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-21",
+    "dow": 6,
+    "hebrew": "18 Av 5787",
+    "parasha": "Eikev",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:05",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-08-22",
+    "dow": 0,
+    "hebrew": "19 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-23",
+    "dow": 1,
+    "hebrew": "20 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-24",
+    "dow": 2,
+    "hebrew": "21 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-25",
+    "dow": 3,
+    "hebrew": "22 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-26",
+    "dow": 4,
+    "hebrew": "23 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-27",
+    "dow": 5,
+    "hebrew": "24 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:13",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-28",
+    "dow": 6,
+    "hebrew": "25 Av 5787",
+    "parasha": "Re’eh",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:10",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-08-29",
+    "dow": 0,
+    "hebrew": "26 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-30",
+    "dow": 1,
+    "hebrew": "27 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-08-31",
+    "dow": 2,
+    "hebrew": "28 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-01",
+    "dow": 3,
+    "hebrew": "29 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-02",
+    "dow": 4,
+    "hebrew": "30 Av 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Chodesh Elul",
+        "en": "Rosh Chodesh Elul",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-03",
+    "dow": 5,
+    "hebrew": "1 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:18",
+    "havdalah": null,
+    "events": [
+      {
+        "desc": "Rosh Hashana LaBehemot",
+        "en": "Rosh Hashana LaBehemot",
+        "es": "Rosh Hashaná de los animales",
+        "cat": "otro"
+      },
+      {
+        "desc": "Rosh Chodesh Elul",
+        "en": "Rosh Chodesh Elul",
+        "es": "Rosh Jodesh",
+        "cat": "rosh_jodesh"
+      }
+    ],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-04",
+    "dow": 6,
+    "hebrew": "2 Elul 5787",
+    "parasha": "Shoftim",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:15",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-09-05",
+    "dow": 0,
+    "hebrew": "3 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-06",
+    "dow": 1,
+    "hebrew": "4 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-07",
+    "dow": 2,
+    "hebrew": "5 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-08",
+    "dow": 3,
+    "hebrew": "6 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-09",
+    "dow": 4,
+    "hebrew": "7 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-10",
+    "dow": 5,
+    "hebrew": "8 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:23",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-11",
+    "dow": 6,
+    "hebrew": "9 Elul 5787",
+    "parasha": "Ki Teitzei",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:19",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-09-12",
+    "dow": 0,
+    "hebrew": "10 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-13",
+    "dow": 1,
+    "hebrew": "11 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-14",
+    "dow": 2,
+    "hebrew": "12 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-15",
+    "dow": 3,
+    "hebrew": "13 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-16",
+    "dow": 4,
+    "hebrew": "14 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-17",
+    "dow": 5,
+    "hebrew": "15 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:28",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-18",
+    "dow": 6,
+    "hebrew": "16 Elul 5787",
+    "parasha": "Ki Tavo",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:24",
+    "events": [],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-09-19",
+    "dow": 0,
+    "hebrew": "17 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-20",
+    "dow": 1,
+    "hebrew": "18 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-21",
+    "dow": 2,
+    "hebrew": "19 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-22",
+    "dow": 3,
+    "hebrew": "20 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-23",
+    "dow": 4,
+    "hebrew": "21 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-24",
+    "dow": 5,
+    "hebrew": "22 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": "18:33",
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-25",
+    "dow": 6,
+    "hebrew": "23 Elul 5787",
+    "parasha": "Nitzavim-Vayeilech",
+    "omer": null,
+    "candle": null,
+    "havdalah": "19:29",
+    "events": [
+      {
+        "desc": "Leil Selichot",
+        "en": "Leil Selichot",
+        "es": "Noche de Selijot",
+        "cat": "preparacion"
+      }
+    ],
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-09-26",
+    "dow": 0,
+    "hebrew": "24 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-27",
+    "dow": 1,
+    "hebrew": "25 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-28",
+    "dow": 2,
+    "hebrew": "26 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-09-29",
+    "dow": 3,
+    "hebrew": "27 Elul 5787",
+    "parasha": null,
+    "omer": null,
+    "candle": null,
+    "havdalah": null,
+    "events": [],
+    "blocked": false,
+    "sober": false
+  }
+]

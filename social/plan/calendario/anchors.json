@@ -1,0 +1,578 @@
+[
+  {
+    "date": "2026-07-22",
+    "dow": "mié",
+    "es": "Erev Tishá BeAv",
+    "cat": "erev",
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2026-07-23",
+    "dow": "jue",
+    "es": "Tishá BeAv",
+    "cat": "festividad_solemne",
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2026-07-25",
+    "dow": "sáb",
+    "es": "Shabat Najamú",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-07-29",
+    "dow": "mié",
+    "es": "Tu BeAv",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-11",
+    "dow": "vie",
+    "es": "Erev Rosh Hashaná",
+    "cat": "erev",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-12",
+    "dow": "sáb",
+    "es": "Rosh Hashaná",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-13",
+    "dow": "dom",
+    "es": "Rosh Hashaná",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-14",
+    "dow": "lun",
+    "es": "Tzom Gedaliá",
+    "cat": "ayuno",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2026-09-19",
+    "dow": "sáb",
+    "es": "Shabat Shuvá",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-20",
+    "dow": "dom",
+    "es": "Erev Yom Kipur",
+    "cat": "erev",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-21",
+    "dow": "lun",
+    "es": "Yom Kipur",
+    "cat": "festividad_solemne",
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2026-09-25",
+    "dow": "vie",
+    "es": "Erev Sucot",
+    "cat": "erev",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-26",
+    "dow": "sáb",
+    "es": "Sucot",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-27",
+    "dow": "dom",
+    "es": "Sucot",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-09-28",
+    "dow": "lun",
+    "es": "Sucot",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-29",
+    "dow": "mar",
+    "es": "Sucot",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-09-30",
+    "dow": "mié",
+    "es": "Sucot",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-01",
+    "dow": "jue",
+    "es": "Sucot",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-02",
+    "dow": "vie",
+    "es": "Sucot",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-10-03",
+    "dow": "sáb",
+    "es": "Shminí Atzéret",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-10-04",
+    "dow": "dom",
+    "es": "Simjat Torá",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-10-07",
+    "dow": "mié",
+    "es": "Masacre del 7 de octubre (2023)",
+    "cat": "memorial",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2026-11-09",
+    "dow": "lun",
+    "es": "Kristallnacht — Noche de los Cristales Rotos (1938)",
+    "cat": "memorial",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2026-12-04",
+    "dow": "vie",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-05",
+    "dow": "sáb",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-12-06",
+    "dow": "dom",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-07",
+    "dow": "lun",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-08",
+    "dow": "mar",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-09",
+    "dow": "mié",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-10",
+    "dow": "jue",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-11",
+    "dow": "vie",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2026-12-12",
+    "dow": "sáb",
+    "es": "Janucá",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2026-12-20",
+    "dow": "dom",
+    "es": "Asará BeTevet (10 de Tevet)",
+    "cat": "ayuno",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-01-23",
+    "dow": "sáb",
+    "es": "Tu BiShvat",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-01-23",
+    "dow": "sáb",
+    "es": "Shabat Shirá",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-01-27",
+    "dow": "mié",
+    "es": "Día Internacional en Memoria del Holocausto",
+    "cat": "memorial",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-02-22",
+    "dow": "lun",
+    "es": "Shushán Purim",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-06",
+    "dow": "sáb",
+    "es": "Shabat Shekalim",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-03-17",
+    "dow": "mié",
+    "es": "Atentado a la Embajada de Israel (Buenos Aires, 1992)",
+    "cat": "memorial",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-03-20",
+    "dow": "sáb",
+    "es": "Shabat Zajor",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-03-22",
+    "dow": "lun",
+    "es": "Taanit Ester",
+    "cat": "ayuno",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-03-22",
+    "dow": "lun",
+    "es": "Erev Purim",
+    "cat": "erev",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-03-23",
+    "dow": "mar",
+    "es": "Purim",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-24",
+    "dow": "mié",
+    "es": "Shushán Purim",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-03-27",
+    "dow": "sáb",
+    "es": "Shabat Pará",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-03",
+    "dow": "sáb",
+    "es": "Shabat HaJodesh",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-17",
+    "dow": "sáb",
+    "es": "Shabat HaGadol",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-21",
+    "dow": "mié",
+    "es": "Taanit Bejorot",
+    "cat": "ayuno",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-04-21",
+    "dow": "mié",
+    "es": "Erev Pésaj",
+    "cat": "erev",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-04-22",
+    "dow": "jue",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-23",
+    "dow": "vie",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-24",
+    "dow": "sáb",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-25",
+    "dow": "dom",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-26",
+    "dow": "lun",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-27",
+    "dow": "mar",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-04-28",
+    "dow": "mié",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-04-29",
+    "dow": "jue",
+    "es": "Pésaj",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-05-04",
+    "dow": "mar",
+    "es": "Yom HaShoá",
+    "cat": "memorial",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-05-11",
+    "dow": "mar",
+    "es": "Yom HaZikarón",
+    "cat": "memorial",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-05-12",
+    "dow": "mié",
+    "es": "Yom Ha’atzmaut",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-05-25",
+    "dow": "mar",
+    "es": "Lag BaÓmer",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-04",
+    "dow": "vie",
+    "es": "Yom Yerushalayim",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-10",
+    "dow": "jue",
+    "es": "Erev Shavuot",
+    "cat": "erev",
+    "blocked": false,
+    "sober": false
+  },
+  {
+    "date": "2027-06-11",
+    "dow": "vie",
+    "es": "Shavuot",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-06-12",
+    "dow": "sáb",
+    "es": "Shavuot",
+    "cat": "festividad",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-07-18",
+    "dow": "dom",
+    "es": "Atentado a la AMIA (Buenos Aires, 1994)",
+    "cat": "memorial",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-07-22",
+    "dow": "jue",
+    "es": "Ayuno del 17 de Tamuz",
+    "cat": "ayuno",
+    "blocked": false,
+    "sober": true
+  },
+  {
+    "date": "2027-08-07",
+    "dow": "sáb",
+    "es": "Shabat Jazón",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-08-11",
+    "dow": "mié",
+    "es": "Erev Tishá BeAv",
+    "cat": "erev",
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2027-08-12",
+    "dow": "jue",
+    "es": "Tishá BeAv",
+    "cat": "festividad_solemne",
+    "blocked": true,
+    "sober": true
+  },
+  {
+    "date": "2027-08-14",
+    "dow": "sáb",
+    "es": "Shabat Najamú",
+    "cat": "shabat_especial",
+    "blocked": true,
+    "sober": false
+  },
+  {
+    "date": "2027-08-18",
+    "dow": "mié",
+    "es": "Tu BeAv",
+    "cat": "festividad",
+    "blocked": false,
+    "sober": false
+  }
+]

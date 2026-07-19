@@ -1,0 +1,5018 @@
+[
+  {
+    "date": "2026-07-19",
+    "dow": "dom",
+    "hebrew": "5 Av 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2026-07-20",
+    "dow": "lun",
+    "hebrew": "6 Av 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2026-07-21",
+    "dow": "mar",
+    "hebrew": "7 Av 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2026-07-22",
+    "dow": "mié",
+    "hebrew": "8 Av 5786",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Erev Tishá BeAv"
+    ],
+    "sober": true,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2026-07-23",
+    "dow": "jue",
+    "hebrew": "9 Av 5786",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Tishá BeAv"
+    ],
+    "sober": true,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2026-07-24",
+    "dow": "vie",
+    "hebrew": "10 Av 5786",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2026-07-25",
+    "dow": "sáb",
+    "hebrew": "11 Av 5786",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat Najamú"
+    ],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2026-07-26",
+    "dow": "dom",
+    "hebrew": "12 Av 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2026-07-27",
+    "dow": "lun",
+    "hebrew": "13 Av 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2026-07-28",
+    "dow": "mar",
+    "hebrew": "14 Av 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2026-07-29",
+    "dow": "mié",
+    "hebrew": "15 Av 5786",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Tu BeAv"
+    ],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2026-07-30",
+    "dow": "jue",
+    "hebrew": "16 Av 5786",
+    "publish": true,
+    "feed": "Parashá **Eikev** — bajada a la semana",
+    "story": "Parashá Eikev: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2026-07-31",
+    "dow": "vie",
+    "hebrew": "17 Av 5786",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2026-08-01",
+    "dow": "sáb",
+    "hebrew": "18 Av 5786",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2026-08-02",
+    "dow": "dom",
+    "hebrew": "19 Av 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2026-08-03",
+    "dow": "lun",
+    "hebrew": "20 Av 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2026-08-04",
+    "dow": "mar",
+    "hebrew": "21 Av 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2026-08-05",
+    "dow": "mié",
+    "hebrew": "22 Av 5786",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2026-08-06",
+    "dow": "jue",
+    "hebrew": "23 Av 5786",
+    "publish": true,
+    "feed": "Parashá **Re’eh** — bajada a la semana",
+    "story": "Parashá Re’eh: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2026-08-07",
+    "dow": "vie",
+    "hebrew": "24 Av 5786",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2026-08-08",
+    "dow": "sáb",
+    "hebrew": "25 Av 5786",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2026-08-09",
+    "dow": "dom",
+    "hebrew": "26 Av 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2026-08-10",
+    "dow": "lun",
+    "hebrew": "27 Av 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2026-08-11",
+    "dow": "mar",
+    "hebrew": "28 Av 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2026-08-12",
+    "dow": "mié",
+    "hebrew": "29 Av 5786",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2026-08-13",
+    "dow": "jue",
+    "hebrew": "30 Av 5786",
+    "publish": true,
+    "feed": "Parashá **Shoftim** — bajada a la semana",
+    "story": "Parashá Shoftim: \"¿qué detalle te incomoda?\" · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2026-08-14",
+    "dow": "vie",
+    "hebrew": "1 Elul 5786",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Hashaná de los animales",
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2026-08-15",
+    "dow": "sáb",
+    "hebrew": "2 Elul 5786",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2026-08-16",
+    "dow": "dom",
+    "hebrew": "3 Elul 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2026-08-17",
+    "dow": "lun",
+    "hebrew": "4 Elul 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2026-08-18",
+    "dow": "mar",
+    "hebrew": "5 Elul 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2026-08-19",
+    "dow": "mié",
+    "hebrew": "6 Elul 5786",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2026-08-20",
+    "dow": "jue",
+    "hebrew": "7 Elul 5786",
+    "publish": true,
+    "feed": "Parashá **Ki Teitzei** — bajada a la semana",
+    "story": "Parashá Ki Teitzei: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2026-08-21",
+    "dow": "vie",
+    "hebrew": "8 Elul 5786",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2026-08-22",
+    "dow": "sáb",
+    "hebrew": "9 Elul 5786",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2026-08-23",
+    "dow": "dom",
+    "hebrew": "10 Elul 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2026-08-24",
+    "dow": "lun",
+    "hebrew": "11 Elul 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2026-08-25",
+    "dow": "mar",
+    "hebrew": "12 Elul 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2026-08-26",
+    "dow": "mié",
+    "hebrew": "13 Elul 5786",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2026-08-27",
+    "dow": "jue",
+    "hebrew": "14 Elul 5786",
+    "publish": true,
+    "feed": "Parashá **Ki Tavo** — bajada a la semana",
+    "story": "Parashá Ki Tavo: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2026-08-28",
+    "dow": "vie",
+    "hebrew": "15 Elul 5786",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2026-08-29",
+    "dow": "sáb",
+    "hebrew": "16 Elul 5786",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2026-08-30",
+    "dow": "dom",
+    "hebrew": "17 Elul 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2026-08-31",
+    "dow": "lun",
+    "hebrew": "18 Elul 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2026-09-01",
+    "dow": "mar",
+    "hebrew": "19 Elul 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2026-09-02",
+    "dow": "mié",
+    "hebrew": "20 Elul 5786",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2026-09-03",
+    "dow": "jue",
+    "hebrew": "21 Elul 5786",
+    "publish": true,
+    "feed": "Parashá **Nitzavim-Vayeilech** — bajada a la semana",
+    "story": "Parashá Nitzavim-Vayeilech: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2026-09-04",
+    "dow": "vie",
+    "hebrew": "22 Elul 5786",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2026-09-05",
+    "dow": "sáb",
+    "hebrew": "23 Elul 5786",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Noche de Selijot"
+    ],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2026-09-06",
+    "dow": "dom",
+    "hebrew": "24 Elul 5786",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-07",
+    "dow": "lun",
+    "hebrew": "25 Elul 5786",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-08",
+    "dow": "mar",
+    "hebrew": "26 Elul 5786",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-09",
+    "dow": "mié",
+    "hebrew": "27 Elul 5786",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-10",
+    "dow": "jue",
+    "hebrew": "28 Elul 5786",
+    "publish": true,
+    "feed": "Parashá **Ha’azinu** — bajada a la semana",
+    "story": "Parashá Ha’azinu: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-11",
+    "dow": "vie",
+    "hebrew": "29 Elul 5786",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Erev Rosh Hashaná"
+    ],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-12",
+    "dow": "sáb",
+    "hebrew": "1 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Rosh Hashaná"
+    ],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-13",
+    "dow": "dom",
+    "hebrew": "2 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Rosh Hashaná"
+    ],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-14",
+    "dow": "lun",
+    "hebrew": "3 Tishrei 5787",
+    "publish": true,
+    "feed": "Ayuno — reflexión sobria y breve",
+    "story": "Nota sobria (sin encuesta festiva)",
+    "anchors": [
+      "Tzom Gedaliá"
+    ],
+    "sober": true,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-15",
+    "dow": "mar",
+    "hebrew": "4 Tishrei 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-16",
+    "dow": "mié",
+    "hebrew": "5 Tishrei 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-17",
+    "dow": "jue",
+    "hebrew": "6 Tishrei 5787",
+    "publish": true,
+    "feed": "Parashá **Ha’azinu** — bajada a la semana",
+    "story": "Parashá Ha’azinu: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-18",
+    "dow": "vie",
+    "hebrew": "7 Tishrei 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-19",
+    "dow": "sáb",
+    "hebrew": "8 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat Shuvá"
+    ],
+    "sober": false,
+    "parasha": "Ha’azinu"
+  },
+  {
+    "date": "2026-09-20",
+    "dow": "dom",
+    "hebrew": "9 Tishrei 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Erev Yom Kipur"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-21",
+    "dow": "lun",
+    "hebrew": "10 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Yom Kipur"
+    ],
+    "sober": true,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-22",
+    "dow": "mar",
+    "hebrew": "11 Tishrei 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-23",
+    "dow": "mié",
+    "hebrew": "12 Tishrei 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-24",
+    "dow": "jue",
+    "hebrew": "13 Tishrei 5787",
+    "publish": true,
+    "feed": "Parashá **Bereshit** — bajada a la semana",
+    "story": "Parashá Bereshit: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-25",
+    "dow": "vie",
+    "hebrew": "14 Tishrei 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Erev Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-26",
+    "dow": "sáb",
+    "hebrew": "15 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-27",
+    "dow": "dom",
+    "hebrew": "16 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-28",
+    "dow": "lun",
+    "hebrew": "17 Tishrei 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-29",
+    "dow": "mar",
+    "hebrew": "18 Tishrei 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-09-30",
+    "dow": "mié",
+    "hebrew": "19 Tishrei 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-01",
+    "dow": "jue",
+    "hebrew": "20 Tishrei 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-02",
+    "dow": "vie",
+    "hebrew": "21 Tishrei 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Sucot"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-03",
+    "dow": "sáb",
+    "hebrew": "22 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shminí Atzéret"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-04",
+    "dow": "dom",
+    "hebrew": "23 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Simjat Torá"
+    ],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-05",
+    "dow": "lun",
+    "hebrew": "24 Tishrei 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-06",
+    "dow": "mar",
+    "hebrew": "25 Tishrei 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-07",
+    "dow": "mié",
+    "hebrew": "26 Tishrei 5787",
+    "publish": true,
+    "feed": "MEMORIAL — reflexión sobria (ner neshamá)",
+    "story": "\"Enciende una vela por su memoria\" (sin gamificar)",
+    "anchors": [
+      "Masacre del 7 de octubre (2023)"
+    ],
+    "sober": true,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-08",
+    "dow": "jue",
+    "hebrew": "27 Tishrei 5787",
+    "publish": true,
+    "feed": "Parashá **Bereshit** — bajada a la semana",
+    "story": "Parashá Bereshit: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-09",
+    "dow": "vie",
+    "hebrew": "28 Tishrei 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-10",
+    "dow": "sáb",
+    "hebrew": "29 Tishrei 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bereshit"
+  },
+  {
+    "date": "2026-10-11",
+    "dow": "dom",
+    "hebrew": "30 Tishrei 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Noach"
+  },
+  {
+    "date": "2026-10-12",
+    "dow": "lun",
+    "hebrew": "1 Cheshvan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Noach"
+  },
+  {
+    "date": "2026-10-13",
+    "dow": "mar",
+    "hebrew": "2 Cheshvan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Noach"
+  },
+  {
+    "date": "2026-10-14",
+    "dow": "mié",
+    "hebrew": "3 Cheshvan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Noach"
+  },
+  {
+    "date": "2026-10-15",
+    "dow": "jue",
+    "hebrew": "4 Cheshvan 5787",
+    "publish": true,
+    "feed": "Parashá **Noach** — bajada a la semana",
+    "story": "Parashá Noach: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Noach"
+  },
+  {
+    "date": "2026-10-16",
+    "dow": "vie",
+    "hebrew": "5 Cheshvan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Noach"
+  },
+  {
+    "date": "2026-10-17",
+    "dow": "sáb",
+    "hebrew": "6 Cheshvan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Noach"
+  },
+  {
+    "date": "2026-10-18",
+    "dow": "dom",
+    "hebrew": "7 Cheshvan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Lech-Lecha"
+  },
+  {
+    "date": "2026-10-19",
+    "dow": "lun",
+    "hebrew": "8 Cheshvan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Lech-Lecha"
+  },
+  {
+    "date": "2026-10-20",
+    "dow": "mar",
+    "hebrew": "9 Cheshvan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Lech-Lecha"
+  },
+  {
+    "date": "2026-10-21",
+    "dow": "mié",
+    "hebrew": "10 Cheshvan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Lech-Lecha"
+  },
+  {
+    "date": "2026-10-22",
+    "dow": "jue",
+    "hebrew": "11 Cheshvan 5787",
+    "publish": true,
+    "feed": "Parashá **Lech-Lecha** — bajada a la semana",
+    "story": "Parashá Lech-Lecha: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Lech-Lecha"
+  },
+  {
+    "date": "2026-10-23",
+    "dow": "vie",
+    "hebrew": "12 Cheshvan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Lech-Lecha"
+  },
+  {
+    "date": "2026-10-24",
+    "dow": "sáb",
+    "hebrew": "13 Cheshvan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Lech-Lecha"
+  },
+  {
+    "date": "2026-10-25",
+    "dow": "dom",
+    "hebrew": "14 Cheshvan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayera"
+  },
+  {
+    "date": "2026-10-26",
+    "dow": "lun",
+    "hebrew": "15 Cheshvan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayera"
+  },
+  {
+    "date": "2026-10-27",
+    "dow": "mar",
+    "hebrew": "16 Cheshvan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayera"
+  },
+  {
+    "date": "2026-10-28",
+    "dow": "mié",
+    "hebrew": "17 Cheshvan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayera"
+  },
+  {
+    "date": "2026-10-29",
+    "dow": "jue",
+    "hebrew": "18 Cheshvan 5787",
+    "publish": true,
+    "feed": "Parashá **Vayera** — bajada a la semana",
+    "story": "Parashá Vayera: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayera"
+  },
+  {
+    "date": "2026-10-30",
+    "dow": "vie",
+    "hebrew": "19 Cheshvan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayera"
+  },
+  {
+    "date": "2026-10-31",
+    "dow": "sáb",
+    "hebrew": "20 Cheshvan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayera"
+  },
+  {
+    "date": "2026-11-01",
+    "dow": "dom",
+    "hebrew": "21 Cheshvan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chayei Sara"
+  },
+  {
+    "date": "2026-11-02",
+    "dow": "lun",
+    "hebrew": "22 Cheshvan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chayei Sara"
+  },
+  {
+    "date": "2026-11-03",
+    "dow": "mar",
+    "hebrew": "23 Cheshvan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chayei Sara"
+  },
+  {
+    "date": "2026-11-04",
+    "dow": "mié",
+    "hebrew": "24 Cheshvan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chayei Sara"
+  },
+  {
+    "date": "2026-11-05",
+    "dow": "jue",
+    "hebrew": "25 Cheshvan 5787",
+    "publish": true,
+    "feed": "Parashá **Chayei Sara** — bajada a la semana",
+    "story": "Parashá Chayei Sara: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chayei Sara"
+  },
+  {
+    "date": "2026-11-06",
+    "dow": "vie",
+    "hebrew": "26 Cheshvan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chayei Sara"
+  },
+  {
+    "date": "2026-11-07",
+    "dow": "sáb",
+    "hebrew": "27 Cheshvan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chayei Sara"
+  },
+  {
+    "date": "2026-11-08",
+    "dow": "dom",
+    "hebrew": "28 Cheshvan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Toldot"
+  },
+  {
+    "date": "2026-11-09",
+    "dow": "lun",
+    "hebrew": "29 Cheshvan 5787",
+    "publish": true,
+    "feed": "MEMORIAL — reflexión sobria (ner neshamá)",
+    "story": "\"Enciende una vela por su memoria\" (sin gamificar)",
+    "anchors": [
+      "Sigd",
+      "Kristallnacht — Noche de los Cristales Rotos (1938)"
+    ],
+    "sober": true,
+    "parasha": "Toldot"
+  },
+  {
+    "date": "2026-11-10",
+    "dow": "mar",
+    "hebrew": "30 Cheshvan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca) · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Toldot"
+  },
+  {
+    "date": "2026-11-11",
+    "dow": "mié",
+    "hebrew": "1 Kislev 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Toldot"
+  },
+  {
+    "date": "2026-11-12",
+    "dow": "jue",
+    "hebrew": "2 Kislev 5787",
+    "publish": true,
+    "feed": "Parashá **Toldot** — bajada a la semana",
+    "story": "Parashá Toldot: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Toldot"
+  },
+  {
+    "date": "2026-11-13",
+    "dow": "vie",
+    "hebrew": "3 Kislev 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Toldot"
+  },
+  {
+    "date": "2026-11-14",
+    "dow": "sáb",
+    "hebrew": "4 Kislev 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Toldot"
+  },
+  {
+    "date": "2026-11-15",
+    "dow": "dom",
+    "hebrew": "5 Kislev 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayetzei"
+  },
+  {
+    "date": "2026-11-16",
+    "dow": "lun",
+    "hebrew": "6 Kislev 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayetzei"
+  },
+  {
+    "date": "2026-11-17",
+    "dow": "mar",
+    "hebrew": "7 Kislev 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayetzei"
+  },
+  {
+    "date": "2026-11-18",
+    "dow": "mié",
+    "hebrew": "8 Kislev 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayetzei"
+  },
+  {
+    "date": "2026-11-19",
+    "dow": "jue",
+    "hebrew": "9 Kislev 5787",
+    "publish": true,
+    "feed": "Parashá **Vayetzei** — bajada a la semana",
+    "story": "Parashá Vayetzei: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayetzei"
+  },
+  {
+    "date": "2026-11-20",
+    "dow": "vie",
+    "hebrew": "10 Kislev 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayetzei"
+  },
+  {
+    "date": "2026-11-21",
+    "dow": "sáb",
+    "hebrew": "11 Kislev 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayetzei"
+  },
+  {
+    "date": "2026-11-22",
+    "dow": "dom",
+    "hebrew": "12 Kislev 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayishlach"
+  },
+  {
+    "date": "2026-11-23",
+    "dow": "lun",
+    "hebrew": "13 Kislev 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayishlach"
+  },
+  {
+    "date": "2026-11-24",
+    "dow": "mar",
+    "hebrew": "14 Kislev 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayishlach"
+  },
+  {
+    "date": "2026-11-25",
+    "dow": "mié",
+    "hebrew": "15 Kislev 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayishlach"
+  },
+  {
+    "date": "2026-11-26",
+    "dow": "jue",
+    "hebrew": "16 Kislev 5787",
+    "publish": true,
+    "feed": "Parashá **Vayishlach** — bajada a la semana",
+    "story": "Parashá Vayishlach: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayishlach"
+  },
+  {
+    "date": "2026-11-27",
+    "dow": "vie",
+    "hebrew": "17 Kislev 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayishlach"
+  },
+  {
+    "date": "2026-11-28",
+    "dow": "sáb",
+    "hebrew": "18 Kislev 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayishlach"
+  },
+  {
+    "date": "2026-11-29",
+    "dow": "dom",
+    "hebrew": "19 Kislev 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayeshev"
+  },
+  {
+    "date": "2026-11-30",
+    "dow": "lun",
+    "hebrew": "20 Kislev 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayeshev"
+  },
+  {
+    "date": "2026-12-01",
+    "dow": "mar",
+    "hebrew": "21 Kislev 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayeshev"
+  },
+  {
+    "date": "2026-12-02",
+    "dow": "mié",
+    "hebrew": "22 Kislev 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayeshev"
+  },
+  {
+    "date": "2026-12-03",
+    "dow": "jue",
+    "hebrew": "23 Kislev 5787",
+    "publish": true,
+    "feed": "Parashá **Vayeshev** — bajada a la semana",
+    "story": "Parashá Vayeshev: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayeshev"
+  },
+  {
+    "date": "2026-12-04",
+    "dow": "vie",
+    "hebrew": "24 Kislev 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Janucá"
+    ],
+    "sober": false,
+    "parasha": "Vayeshev"
+  },
+  {
+    "date": "2026-12-05",
+    "dow": "sáb",
+    "hebrew": "25 Kislev 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Janucá"
+    ],
+    "sober": false,
+    "parasha": "Vayeshev"
+  },
+  {
+    "date": "2026-12-06",
+    "dow": "dom",
+    "hebrew": "26 Kislev 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Janucá"
+    ],
+    "sober": false,
+    "parasha": "Miketz"
+  },
+  {
+    "date": "2026-12-07",
+    "dow": "lun",
+    "hebrew": "27 Kislev 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Janucá"
+    ],
+    "sober": false,
+    "parasha": "Miketz"
+  },
+  {
+    "date": "2026-12-08",
+    "dow": "mar",
+    "hebrew": "28 Kislev 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Janucá"
+    ],
+    "sober": false,
+    "parasha": "Miketz"
+  },
+  {
+    "date": "2026-12-09",
+    "dow": "mié",
+    "hebrew": "29 Kislev 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Janucá"
+    ],
+    "sober": false,
+    "parasha": "Miketz"
+  },
+  {
+    "date": "2026-12-10",
+    "dow": "jue",
+    "hebrew": "30 Kislev 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Bienvenida de mes",
+    "anchors": [
+      "Chag HaBanot",
+      "Janucá",
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Miketz"
+  },
+  {
+    "date": "2026-12-11",
+    "dow": "vie",
+    "hebrew": "1 Tevet 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Bienvenida de mes",
+    "anchors": [
+      "Janucá",
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Miketz"
+  },
+  {
+    "date": "2026-12-12",
+    "dow": "sáb",
+    "hebrew": "2 Tevet 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Janucá"
+    ],
+    "sober": false,
+    "parasha": "Miketz"
+  },
+  {
+    "date": "2026-12-13",
+    "dow": "dom",
+    "hebrew": "3 Tevet 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayigash"
+  },
+  {
+    "date": "2026-12-14",
+    "dow": "lun",
+    "hebrew": "4 Tevet 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayigash"
+  },
+  {
+    "date": "2026-12-15",
+    "dow": "mar",
+    "hebrew": "5 Tevet 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayigash"
+  },
+  {
+    "date": "2026-12-16",
+    "dow": "mié",
+    "hebrew": "6 Tevet 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayigash"
+  },
+  {
+    "date": "2026-12-17",
+    "dow": "jue",
+    "hebrew": "7 Tevet 5787",
+    "publish": true,
+    "feed": "Parashá **Vayigash** — bajada a la semana",
+    "story": "Parashá Vayigash: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayigash"
+  },
+  {
+    "date": "2026-12-18",
+    "dow": "vie",
+    "hebrew": "8 Tevet 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayigash"
+  },
+  {
+    "date": "2026-12-19",
+    "dow": "sáb",
+    "hebrew": "9 Tevet 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayigash"
+  },
+  {
+    "date": "2026-12-20",
+    "dow": "dom",
+    "hebrew": "10 Tevet 5787",
+    "publish": true,
+    "feed": "Ayuno — reflexión sobria y breve",
+    "story": "Nota sobria (sin encuesta festiva)",
+    "anchors": [
+      "Asará BeTevet (10 de Tevet)"
+    ],
+    "sober": true,
+    "parasha": "Vayechi"
+  },
+  {
+    "date": "2026-12-21",
+    "dow": "lun",
+    "hebrew": "11 Tevet 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayechi"
+  },
+  {
+    "date": "2026-12-22",
+    "dow": "mar",
+    "hebrew": "12 Tevet 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayechi"
+  },
+  {
+    "date": "2026-12-23",
+    "dow": "mié",
+    "hebrew": "13 Tevet 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayechi"
+  },
+  {
+    "date": "2026-12-24",
+    "dow": "jue",
+    "hebrew": "14 Tevet 5787",
+    "publish": true,
+    "feed": "Parashá **Vayechi** — bajada a la semana",
+    "story": "Parashá Vayechi: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayechi"
+  },
+  {
+    "date": "2026-12-25",
+    "dow": "vie",
+    "hebrew": "15 Tevet 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayechi"
+  },
+  {
+    "date": "2026-12-26",
+    "dow": "sáb",
+    "hebrew": "16 Tevet 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayechi"
+  },
+  {
+    "date": "2026-12-27",
+    "dow": "dom",
+    "hebrew": "17 Tevet 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shemot"
+  },
+  {
+    "date": "2026-12-28",
+    "dow": "lun",
+    "hebrew": "18 Tevet 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shemot"
+  },
+  {
+    "date": "2026-12-29",
+    "dow": "mar",
+    "hebrew": "19 Tevet 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shemot"
+  },
+  {
+    "date": "2026-12-30",
+    "dow": "mié",
+    "hebrew": "20 Tevet 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shemot"
+  },
+  {
+    "date": "2026-12-31",
+    "dow": "jue",
+    "hebrew": "21 Tevet 5787",
+    "publish": true,
+    "feed": "Parashá **Shemot** — bajada a la semana",
+    "story": "Parashá Shemot: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shemot"
+  },
+  {
+    "date": "2027-01-01",
+    "dow": "vie",
+    "hebrew": "22 Tevet 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shemot"
+  },
+  {
+    "date": "2027-01-02",
+    "dow": "sáb",
+    "hebrew": "23 Tevet 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shemot"
+  },
+  {
+    "date": "2027-01-03",
+    "dow": "dom",
+    "hebrew": "24 Tevet 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaera"
+  },
+  {
+    "date": "2027-01-04",
+    "dow": "lun",
+    "hebrew": "25 Tevet 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaera"
+  },
+  {
+    "date": "2027-01-05",
+    "dow": "mar",
+    "hebrew": "26 Tevet 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaera"
+  },
+  {
+    "date": "2027-01-06",
+    "dow": "mié",
+    "hebrew": "27 Tevet 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaera"
+  },
+  {
+    "date": "2027-01-07",
+    "dow": "jue",
+    "hebrew": "28 Tevet 5787",
+    "publish": true,
+    "feed": "Parashá **Vaera** — bajada a la semana",
+    "story": "Parashá Vaera: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaera"
+  },
+  {
+    "date": "2027-01-08",
+    "dow": "vie",
+    "hebrew": "29 Tevet 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaera"
+  },
+  {
+    "date": "2027-01-09",
+    "dow": "sáb",
+    "hebrew": "1 Sh'vat 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Vaera"
+  },
+  {
+    "date": "2027-01-10",
+    "dow": "dom",
+    "hebrew": "2 Sh'vat 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bo"
+  },
+  {
+    "date": "2027-01-11",
+    "dow": "lun",
+    "hebrew": "3 Sh'vat 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bo"
+  },
+  {
+    "date": "2027-01-12",
+    "dow": "mar",
+    "hebrew": "4 Sh'vat 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bo"
+  },
+  {
+    "date": "2027-01-13",
+    "dow": "mié",
+    "hebrew": "5 Sh'vat 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bo"
+  },
+  {
+    "date": "2027-01-14",
+    "dow": "jue",
+    "hebrew": "6 Sh'vat 5787",
+    "publish": true,
+    "feed": "Parashá **Bo** — bajada a la semana",
+    "story": "Parashá Bo: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bo"
+  },
+  {
+    "date": "2027-01-15",
+    "dow": "vie",
+    "hebrew": "7 Sh'vat 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bo"
+  },
+  {
+    "date": "2027-01-16",
+    "dow": "sáb",
+    "hebrew": "8 Sh'vat 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bo"
+  },
+  {
+    "date": "2027-01-17",
+    "dow": "dom",
+    "hebrew": "9 Sh'vat 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beshalach"
+  },
+  {
+    "date": "2027-01-18",
+    "dow": "lun",
+    "hebrew": "10 Sh'vat 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beshalach"
+  },
+  {
+    "date": "2027-01-19",
+    "dow": "mar",
+    "hebrew": "11 Sh'vat 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beshalach"
+  },
+  {
+    "date": "2027-01-20",
+    "dow": "mié",
+    "hebrew": "12 Sh'vat 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beshalach"
+  },
+  {
+    "date": "2027-01-21",
+    "dow": "jue",
+    "hebrew": "13 Sh'vat 5787",
+    "publish": true,
+    "feed": "Parashá **Beshalach** — bajada a la semana",
+    "story": "Parashá Beshalach: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beshalach"
+  },
+  {
+    "date": "2027-01-22",
+    "dow": "vie",
+    "hebrew": "14 Sh'vat 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beshalach"
+  },
+  {
+    "date": "2027-01-23",
+    "dow": "sáb",
+    "hebrew": "15 Sh'vat 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Tu BiShvat",
+      "Shabat Shirá"
+    ],
+    "sober": false,
+    "parasha": "Beshalach"
+  },
+  {
+    "date": "2027-01-24",
+    "dow": "dom",
+    "hebrew": "16 Sh'vat 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Yitro"
+  },
+  {
+    "date": "2027-01-25",
+    "dow": "lun",
+    "hebrew": "17 Sh'vat 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Yitro"
+  },
+  {
+    "date": "2027-01-26",
+    "dow": "mar",
+    "hebrew": "18 Sh'vat 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Yitro"
+  },
+  {
+    "date": "2027-01-27",
+    "dow": "mié",
+    "hebrew": "19 Sh'vat 5787",
+    "publish": true,
+    "feed": "MEMORIAL — reflexión sobria (ner neshamá)",
+    "story": "\"Enciende una vela por su memoria\" (sin gamificar)",
+    "anchors": [
+      "Día Internacional en Memoria del Holocausto"
+    ],
+    "sober": true,
+    "parasha": "Yitro"
+  },
+  {
+    "date": "2027-01-28",
+    "dow": "jue",
+    "hebrew": "20 Sh'vat 5787",
+    "publish": true,
+    "feed": "Parashá **Yitro** — bajada a la semana",
+    "story": "Parashá Yitro: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Yitro"
+  },
+  {
+    "date": "2027-01-29",
+    "dow": "vie",
+    "hebrew": "21 Sh'vat 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Yitro"
+  },
+  {
+    "date": "2027-01-30",
+    "dow": "sáb",
+    "hebrew": "22 Sh'vat 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Yitro"
+  },
+  {
+    "date": "2027-01-31",
+    "dow": "dom",
+    "hebrew": "23 Sh'vat 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Mishpatim"
+  },
+  {
+    "date": "2027-02-01",
+    "dow": "lun",
+    "hebrew": "24 Sh'vat 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Mishpatim"
+  },
+  {
+    "date": "2027-02-02",
+    "dow": "mar",
+    "hebrew": "25 Sh'vat 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Mishpatim"
+  },
+  {
+    "date": "2027-02-03",
+    "dow": "mié",
+    "hebrew": "26 Sh'vat 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Mishpatim"
+  },
+  {
+    "date": "2027-02-04",
+    "dow": "jue",
+    "hebrew": "27 Sh'vat 5787",
+    "publish": true,
+    "feed": "Parashá **Mishpatim** — bajada a la semana",
+    "story": "Parashá Mishpatim: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Mishpatim"
+  },
+  {
+    "date": "2027-02-05",
+    "dow": "vie",
+    "hebrew": "28 Sh'vat 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Mishpatim"
+  },
+  {
+    "date": "2027-02-06",
+    "dow": "sáb",
+    "hebrew": "29 Sh'vat 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Mishpatim"
+  },
+  {
+    "date": "2027-02-07",
+    "dow": "dom",
+    "hebrew": "30 Sh'vat 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Terumah"
+  },
+  {
+    "date": "2027-02-08",
+    "dow": "lun",
+    "hebrew": "1 Adar I 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Terumah"
+  },
+  {
+    "date": "2027-02-09",
+    "dow": "mar",
+    "hebrew": "2 Adar I 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Terumah"
+  },
+  {
+    "date": "2027-02-10",
+    "dow": "mié",
+    "hebrew": "3 Adar I 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Terumah"
+  },
+  {
+    "date": "2027-02-11",
+    "dow": "jue",
+    "hebrew": "4 Adar I 5787",
+    "publish": true,
+    "feed": "Parashá **Terumah** — bajada a la semana",
+    "story": "Parashá Terumah: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Terumah"
+  },
+  {
+    "date": "2027-02-12",
+    "dow": "vie",
+    "hebrew": "5 Adar I 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Terumah"
+  },
+  {
+    "date": "2027-02-13",
+    "dow": "sáb",
+    "hebrew": "6 Adar I 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Terumah"
+  },
+  {
+    "date": "2027-02-14",
+    "dow": "dom",
+    "hebrew": "7 Adar I 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tetzaveh"
+  },
+  {
+    "date": "2027-02-15",
+    "dow": "lun",
+    "hebrew": "8 Adar I 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tetzaveh"
+  },
+  {
+    "date": "2027-02-16",
+    "dow": "mar",
+    "hebrew": "9 Adar I 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tetzaveh"
+  },
+  {
+    "date": "2027-02-17",
+    "dow": "mié",
+    "hebrew": "10 Adar I 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tetzaveh"
+  },
+  {
+    "date": "2027-02-18",
+    "dow": "jue",
+    "hebrew": "11 Adar I 5787",
+    "publish": true,
+    "feed": "Parashá **Tetzaveh** — bajada a la semana",
+    "story": "Parashá Tetzaveh: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tetzaveh"
+  },
+  {
+    "date": "2027-02-19",
+    "dow": "vie",
+    "hebrew": "12 Adar I 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tetzaveh"
+  },
+  {
+    "date": "2027-02-20",
+    "dow": "sáb",
+    "hebrew": "13 Adar I 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tetzaveh"
+  },
+  {
+    "date": "2027-02-21",
+    "dow": "dom",
+    "hebrew": "14 Adar I 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [
+      "Purim Katán"
+    ],
+    "sober": false,
+    "parasha": "Ki Tisa"
+  },
+  {
+    "date": "2027-02-22",
+    "dow": "lun",
+    "hebrew": "15 Adar I 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Shushán Purim"
+    ],
+    "sober": false,
+    "parasha": "Ki Tisa"
+  },
+  {
+    "date": "2027-02-23",
+    "dow": "mar",
+    "hebrew": "16 Adar I 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tisa"
+  },
+  {
+    "date": "2027-02-24",
+    "dow": "mié",
+    "hebrew": "17 Adar I 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tisa"
+  },
+  {
+    "date": "2027-02-25",
+    "dow": "jue",
+    "hebrew": "18 Adar I 5787",
+    "publish": true,
+    "feed": "Parashá **Ki Tisa** — bajada a la semana",
+    "story": "Parashá Ki Tisa: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tisa"
+  },
+  {
+    "date": "2027-02-26",
+    "dow": "vie",
+    "hebrew": "19 Adar I 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tisa"
+  },
+  {
+    "date": "2027-02-27",
+    "dow": "sáb",
+    "hebrew": "20 Adar I 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tisa"
+  },
+  {
+    "date": "2027-02-28",
+    "dow": "dom",
+    "hebrew": "21 Adar I 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayakhel"
+  },
+  {
+    "date": "2027-03-01",
+    "dow": "lun",
+    "hebrew": "22 Adar I 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayakhel"
+  },
+  {
+    "date": "2027-03-02",
+    "dow": "mar",
+    "hebrew": "23 Adar I 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayakhel"
+  },
+  {
+    "date": "2027-03-03",
+    "dow": "mié",
+    "hebrew": "24 Adar I 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayakhel"
+  },
+  {
+    "date": "2027-03-04",
+    "dow": "jue",
+    "hebrew": "25 Adar I 5787",
+    "publish": true,
+    "feed": "Parashá **Vayakhel** — bajada a la semana",
+    "story": "Parashá Vayakhel: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayakhel"
+  },
+  {
+    "date": "2027-03-05",
+    "dow": "vie",
+    "hebrew": "26 Adar I 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayakhel"
+  },
+  {
+    "date": "2027-03-06",
+    "dow": "sáb",
+    "hebrew": "27 Adar I 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat Shekalim"
+    ],
+    "sober": false,
+    "parasha": "Vayakhel"
+  },
+  {
+    "date": "2027-03-07",
+    "dow": "dom",
+    "hebrew": "28 Adar I 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pekudei"
+  },
+  {
+    "date": "2027-03-08",
+    "dow": "lun",
+    "hebrew": "29 Adar I 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pekudei"
+  },
+  {
+    "date": "2027-03-09",
+    "dow": "mar",
+    "hebrew": "30 Adar I 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca) · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Pekudei"
+  },
+  {
+    "date": "2027-03-10",
+    "dow": "mié",
+    "hebrew": "1 Adar II 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Pekudei"
+  },
+  {
+    "date": "2027-03-11",
+    "dow": "jue",
+    "hebrew": "2 Adar II 5787",
+    "publish": true,
+    "feed": "Parashá **Pekudei** — bajada a la semana",
+    "story": "Parashá Pekudei: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pekudei"
+  },
+  {
+    "date": "2027-03-12",
+    "dow": "vie",
+    "hebrew": "3 Adar II 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pekudei"
+  },
+  {
+    "date": "2027-03-13",
+    "dow": "sáb",
+    "hebrew": "4 Adar II 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pekudei"
+  },
+  {
+    "date": "2027-03-14",
+    "dow": "dom",
+    "hebrew": "5 Adar II 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayikra"
+  },
+  {
+    "date": "2027-03-15",
+    "dow": "lun",
+    "hebrew": "6 Adar II 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayikra"
+  },
+  {
+    "date": "2027-03-16",
+    "dow": "mar",
+    "hebrew": "7 Adar II 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayikra"
+  },
+  {
+    "date": "2027-03-17",
+    "dow": "mié",
+    "hebrew": "8 Adar II 5787",
+    "publish": true,
+    "feed": "MEMORIAL — reflexión sobria (ner neshamá)",
+    "story": "\"Enciende una vela por su memoria\" (sin gamificar)",
+    "anchors": [
+      "Atentado a la Embajada de Israel (Buenos Aires, 1992)"
+    ],
+    "sober": true,
+    "parasha": "Vayikra"
+  },
+  {
+    "date": "2027-03-18",
+    "dow": "jue",
+    "hebrew": "9 Adar II 5787",
+    "publish": true,
+    "feed": "Parashá **Vayikra** — bajada a la semana",
+    "story": "Parashá Vayikra: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayikra"
+  },
+  {
+    "date": "2027-03-19",
+    "dow": "vie",
+    "hebrew": "10 Adar II 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vayikra"
+  },
+  {
+    "date": "2027-03-20",
+    "dow": "sáb",
+    "hebrew": "11 Adar II 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat Zajor"
+    ],
+    "sober": false,
+    "parasha": "Vayikra"
+  },
+  {
+    "date": "2027-03-21",
+    "dow": "dom",
+    "hebrew": "12 Adar II 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tzav"
+  },
+  {
+    "date": "2027-03-22",
+    "dow": "lun",
+    "hebrew": "13 Adar II 5787",
+    "publish": true,
+    "feed": "Ayuno — reflexión sobria y breve",
+    "story": "Nota sobria (sin encuesta festiva)",
+    "anchors": [
+      "Taanit Ester",
+      "Erev Purim"
+    ],
+    "sober": true,
+    "parasha": "Tzav"
+  },
+  {
+    "date": "2027-03-23",
+    "dow": "mar",
+    "hebrew": "14 Adar II 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Purim"
+    ],
+    "sober": false,
+    "parasha": "Tzav"
+  },
+  {
+    "date": "2027-03-24",
+    "dow": "mié",
+    "hebrew": "15 Adar II 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Shushán Purim"
+    ],
+    "sober": false,
+    "parasha": "Tzav"
+  },
+  {
+    "date": "2027-03-25",
+    "dow": "jue",
+    "hebrew": "16 Adar II 5787",
+    "publish": true,
+    "feed": "Parashá **Tzav** — bajada a la semana",
+    "story": "Parashá Tzav: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tzav"
+  },
+  {
+    "date": "2027-03-26",
+    "dow": "vie",
+    "hebrew": "17 Adar II 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tzav"
+  },
+  {
+    "date": "2027-03-27",
+    "dow": "sáb",
+    "hebrew": "18 Adar II 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat Pará"
+    ],
+    "sober": false,
+    "parasha": "Tzav"
+  },
+  {
+    "date": "2027-03-28",
+    "dow": "dom",
+    "hebrew": "19 Adar II 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shmini"
+  },
+  {
+    "date": "2027-03-29",
+    "dow": "lun",
+    "hebrew": "20 Adar II 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shmini"
+  },
+  {
+    "date": "2027-03-30",
+    "dow": "mar",
+    "hebrew": "21 Adar II 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shmini"
+  },
+  {
+    "date": "2027-03-31",
+    "dow": "mié",
+    "hebrew": "22 Adar II 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shmini"
+  },
+  {
+    "date": "2027-04-01",
+    "dow": "jue",
+    "hebrew": "23 Adar II 5787",
+    "publish": true,
+    "feed": "Parashá **Shmini** — bajada a la semana",
+    "story": "Parashá Shmini: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shmini"
+  },
+  {
+    "date": "2027-04-02",
+    "dow": "vie",
+    "hebrew": "24 Adar II 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shmini"
+  },
+  {
+    "date": "2027-04-03",
+    "dow": "sáb",
+    "hebrew": "25 Adar II 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat HaJodesh"
+    ],
+    "sober": false,
+    "parasha": "Shmini"
+  },
+  {
+    "date": "2027-04-04",
+    "dow": "dom",
+    "hebrew": "26 Adar II 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tazria"
+  },
+  {
+    "date": "2027-04-05",
+    "dow": "lun",
+    "hebrew": "27 Adar II 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tazria"
+  },
+  {
+    "date": "2027-04-06",
+    "dow": "mar",
+    "hebrew": "28 Adar II 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tazria"
+  },
+  {
+    "date": "2027-04-07",
+    "dow": "mié",
+    "hebrew": "29 Adar II 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tazria"
+  },
+  {
+    "date": "2027-04-08",
+    "dow": "jue",
+    "hebrew": "1 Nisan 5787",
+    "publish": true,
+    "feed": "Parashá **Tazria** — bajada a la semana",
+    "story": "Parashá Tazria: \"¿qué detalle te incomoda?\" · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Tazria"
+  },
+  {
+    "date": "2027-04-09",
+    "dow": "vie",
+    "hebrew": "2 Nisan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tazria"
+  },
+  {
+    "date": "2027-04-10",
+    "dow": "sáb",
+    "hebrew": "3 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Tazria"
+  },
+  {
+    "date": "2027-04-11",
+    "dow": "dom",
+    "hebrew": "4 Nisan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Metzora"
+  },
+  {
+    "date": "2027-04-12",
+    "dow": "lun",
+    "hebrew": "5 Nisan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Metzora"
+  },
+  {
+    "date": "2027-04-13",
+    "dow": "mar",
+    "hebrew": "6 Nisan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Metzora"
+  },
+  {
+    "date": "2027-04-14",
+    "dow": "mié",
+    "hebrew": "7 Nisan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Metzora"
+  },
+  {
+    "date": "2027-04-15",
+    "dow": "jue",
+    "hebrew": "8 Nisan 5787",
+    "publish": true,
+    "feed": "Parashá **Metzora** — bajada a la semana",
+    "story": "Parashá Metzora: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Metzora"
+  },
+  {
+    "date": "2027-04-16",
+    "dow": "vie",
+    "hebrew": "9 Nisan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Metzora"
+  },
+  {
+    "date": "2027-04-17",
+    "dow": "sáb",
+    "hebrew": "10 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat HaGadol",
+      "Yom HaAliyah"
+    ],
+    "sober": false,
+    "parasha": "Metzora"
+  },
+  {
+    "date": "2027-04-18",
+    "dow": "dom",
+    "hebrew": "11 Nisan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-19",
+    "dow": "lun",
+    "hebrew": "12 Nisan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-20",
+    "dow": "mar",
+    "hebrew": "13 Nisan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-21",
+    "dow": "mié",
+    "hebrew": "14 Nisan 5787",
+    "publish": true,
+    "feed": "Ayuno — reflexión sobria y breve",
+    "story": "Nota sobria (sin encuesta festiva)",
+    "anchors": [
+      "Taanit Bejorot",
+      "Finish eating chametz: 11:02",
+      "Biur Chametz: 11:57",
+      "Erev Pésaj"
+    ],
+    "sober": true,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-22",
+    "dow": "jue",
+    "hebrew": "15 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-23",
+    "dow": "vie",
+    "hebrew": "16 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-24",
+    "dow": "sáb",
+    "hebrew": "17 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-25",
+    "dow": "dom",
+    "hebrew": "18 Nisan 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Omer 3 (\"contamos juntos\")",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-26",
+    "dow": "lun",
+    "hebrew": "19 Nisan 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Omer 4 (\"contamos juntos\")",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-27",
+    "dow": "mar",
+    "hebrew": "20 Nisan 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Omer 5 (\"contamos juntos\")",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-28",
+    "dow": "mié",
+    "hebrew": "21 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-29",
+    "dow": "jue",
+    "hebrew": "22 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Pésaj"
+    ],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-04-30",
+    "dow": "vie",
+    "hebrew": "23 Nisan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas · + Omer 8 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-05-01",
+    "dow": "sáb",
+    "hebrew": "24 Nisan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Achrei Mot"
+  },
+  {
+    "date": "2027-05-02",
+    "dow": "dom",
+    "hebrew": "25 Nisan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Omer 10 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Kedoshim"
+  },
+  {
+    "date": "2027-05-03",
+    "dow": "lun",
+    "hebrew": "26 Nisan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Omer 11 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Kedoshim"
+  },
+  {
+    "date": "2027-05-04",
+    "dow": "mar",
+    "hebrew": "27 Nisan 5787",
+    "publish": true,
+    "feed": "MEMORIAL — reflexión sobria (ner neshamá)",
+    "story": "\"Enciende una vela por su memoria\" (sin gamificar) · + Omer 12 (\"contamos juntos\")",
+    "anchors": [
+      "Yom HaShoá"
+    ],
+    "sober": true,
+    "parasha": "Kedoshim"
+  },
+  {
+    "date": "2027-05-05",
+    "dow": "mié",
+    "hebrew": "28 Nisan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Omer 13 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Kedoshim"
+  },
+  {
+    "date": "2027-05-06",
+    "dow": "jue",
+    "hebrew": "29 Nisan 5787",
+    "publish": true,
+    "feed": "Parashá **Kedoshim** — bajada a la semana",
+    "story": "Parashá Kedoshim: \"¿qué detalle te incomoda?\" · + Omer 14 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Kedoshim"
+  },
+  {
+    "date": "2027-05-07",
+    "dow": "vie",
+    "hebrew": "30 Nisan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas · + Bienvenida de mes · + Omer 15 (\"contamos juntos\")",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Kedoshim"
+  },
+  {
+    "date": "2027-05-08",
+    "dow": "sáb",
+    "hebrew": "1 Iyyar 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Kedoshim"
+  },
+  {
+    "date": "2027-05-09",
+    "dow": "dom",
+    "hebrew": "2 Iyyar 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Omer 17 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Emor"
+  },
+  {
+    "date": "2027-05-10",
+    "dow": "lun",
+    "hebrew": "3 Iyyar 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Omer 18 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Emor"
+  },
+  {
+    "date": "2027-05-11",
+    "dow": "mar",
+    "hebrew": "4 Iyyar 5787",
+    "publish": true,
+    "feed": "MEMORIAL — reflexión sobria (ner neshamá)",
+    "story": "\"Enciende una vela por su memoria\" (sin gamificar) · + Omer 19 (\"contamos juntos\")",
+    "anchors": [
+      "Yom HaZikarón"
+    ],
+    "sober": true,
+    "parasha": "Emor"
+  },
+  {
+    "date": "2027-05-12",
+    "dow": "mié",
+    "hebrew": "5 Iyyar 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Omer 20 (\"contamos juntos\")",
+    "anchors": [
+      "Yom Ha’atzmaut"
+    ],
+    "sober": false,
+    "parasha": "Emor"
+  },
+  {
+    "date": "2027-05-13",
+    "dow": "jue",
+    "hebrew": "6 Iyyar 5787",
+    "publish": true,
+    "feed": "Parashá **Emor** — bajada a la semana",
+    "story": "Parashá Emor: \"¿qué detalle te incomoda?\" · + Omer 21 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Emor"
+  },
+  {
+    "date": "2027-05-14",
+    "dow": "vie",
+    "hebrew": "7 Iyyar 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas · + Omer 22 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Emor"
+  },
+  {
+    "date": "2027-05-15",
+    "dow": "sáb",
+    "hebrew": "8 Iyyar 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Emor"
+  },
+  {
+    "date": "2027-05-16",
+    "dow": "dom",
+    "hebrew": "9 Iyyar 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Omer 24 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Behar"
+  },
+  {
+    "date": "2027-05-17",
+    "dow": "lun",
+    "hebrew": "10 Iyyar 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Omer 25 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Behar"
+  },
+  {
+    "date": "2027-05-18",
+    "dow": "mar",
+    "hebrew": "11 Iyyar 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca) · + Omer 26 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Behar"
+  },
+  {
+    "date": "2027-05-19",
+    "dow": "mié",
+    "hebrew": "12 Iyyar 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Omer 27 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Behar"
+  },
+  {
+    "date": "2027-05-20",
+    "dow": "jue",
+    "hebrew": "13 Iyyar 5787",
+    "publish": true,
+    "feed": "Parashá **Behar** — bajada a la semana",
+    "story": "Parashá Behar: \"¿qué detalle te incomoda?\" · + Omer 28 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Behar"
+  },
+  {
+    "date": "2027-05-21",
+    "dow": "vie",
+    "hebrew": "14 Iyyar 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas · + Omer 29 (\"contamos juntos\")",
+    "anchors": [
+      "Pésaj Shení"
+    ],
+    "sober": false,
+    "parasha": "Behar"
+  },
+  {
+    "date": "2027-05-22",
+    "dow": "sáb",
+    "hebrew": "15 Iyyar 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Behar"
+  },
+  {
+    "date": "2027-05-23",
+    "dow": "dom",
+    "hebrew": "16 Iyyar 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Omer 31 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bechukotai"
+  },
+  {
+    "date": "2027-05-24",
+    "dow": "lun",
+    "hebrew": "17 Iyyar 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Omer 32 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bechukotai"
+  },
+  {
+    "date": "2027-05-25",
+    "dow": "mar",
+    "hebrew": "18 Iyyar 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Omer 33 (\"contamos juntos\")",
+    "anchors": [
+      "Lag BaÓmer"
+    ],
+    "sober": false,
+    "parasha": "Bechukotai"
+  },
+  {
+    "date": "2027-05-26",
+    "dow": "mié",
+    "hebrew": "19 Iyyar 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Omer 34 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bechukotai"
+  },
+  {
+    "date": "2027-05-27",
+    "dow": "jue",
+    "hebrew": "20 Iyyar 5787",
+    "publish": true,
+    "feed": "Parashá **Bechukotai** — bajada a la semana",
+    "story": "Parashá Bechukotai: \"¿qué detalle te incomoda?\" · + Omer 35 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bechukotai"
+  },
+  {
+    "date": "2027-05-28",
+    "dow": "vie",
+    "hebrew": "21 Iyyar 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas · + Omer 36 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bechukotai"
+  },
+  {
+    "date": "2027-05-29",
+    "dow": "sáb",
+    "hebrew": "22 Iyyar 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bechukotai"
+  },
+  {
+    "date": "2027-05-30",
+    "dow": "dom",
+    "hebrew": "23 Iyyar 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Omer 38 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bamidbar"
+  },
+  {
+    "date": "2027-05-31",
+    "dow": "lun",
+    "hebrew": "24 Iyyar 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Omer 39 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bamidbar"
+  },
+  {
+    "date": "2027-06-01",
+    "dow": "mar",
+    "hebrew": "25 Iyyar 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca) · + Omer 40 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bamidbar"
+  },
+  {
+    "date": "2027-06-02",
+    "dow": "mié",
+    "hebrew": "26 Iyyar 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Omer 41 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bamidbar"
+  },
+  {
+    "date": "2027-06-03",
+    "dow": "jue",
+    "hebrew": "27 Iyyar 5787",
+    "publish": true,
+    "feed": "Parashá **Bamidbar** — bajada a la semana",
+    "story": "Parashá Bamidbar: \"¿qué detalle te incomoda?\" · + Omer 42 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bamidbar"
+  },
+  {
+    "date": "2027-06-04",
+    "dow": "vie",
+    "hebrew": "28 Iyyar 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Omer 43 (\"contamos juntos\")",
+    "anchors": [
+      "Yom Yerushalayim"
+    ],
+    "sober": false,
+    "parasha": "Bamidbar"
+  },
+  {
+    "date": "2027-06-05",
+    "dow": "sáb",
+    "hebrew": "29 Iyyar 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Bamidbar"
+  },
+  {
+    "date": "2027-06-06",
+    "dow": "dom",
+    "hebrew": "1 Sivan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta · + Bienvenida de mes · + Omer 45 (\"contamos juntos\")",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-07",
+    "dow": "lun",
+    "hebrew": "2 Sivan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Omer 46 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-08",
+    "dow": "mar",
+    "hebrew": "3 Sivan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca) · + Omer 47 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-09",
+    "dow": "mié",
+    "hebrew": "4 Sivan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Omer 48 (\"contamos juntos\")",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-10",
+    "dow": "jue",
+    "hebrew": "5 Sivan 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS) · + Omer 49 (\"contamos juntos\")",
+    "anchors": [
+      "Erev Shavuot"
+    ],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-11",
+    "dow": "vie",
+    "hebrew": "6 Sivan 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Shavuot"
+    ],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-12",
+    "dow": "sáb",
+    "hebrew": "7 Sivan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shavuot"
+    ],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-13",
+    "dow": "dom",
+    "hebrew": "8 Sivan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-14",
+    "dow": "lun",
+    "hebrew": "9 Sivan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-15",
+    "dow": "mar",
+    "hebrew": "10 Sivan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-16",
+    "dow": "mié",
+    "hebrew": "11 Sivan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-17",
+    "dow": "jue",
+    "hebrew": "12 Sivan 5787",
+    "publish": true,
+    "feed": "Parashá **Nasso** — bajada a la semana",
+    "story": "Parashá Nasso: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-18",
+    "dow": "vie",
+    "hebrew": "13 Sivan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-19",
+    "dow": "sáb",
+    "hebrew": "14 Sivan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nasso"
+  },
+  {
+    "date": "2027-06-20",
+    "dow": "dom",
+    "hebrew": "15 Sivan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beha’alotcha"
+  },
+  {
+    "date": "2027-06-21",
+    "dow": "lun",
+    "hebrew": "16 Sivan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beha’alotcha"
+  },
+  {
+    "date": "2027-06-22",
+    "dow": "mar",
+    "hebrew": "17 Sivan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beha’alotcha"
+  },
+  {
+    "date": "2027-06-23",
+    "dow": "mié",
+    "hebrew": "18 Sivan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beha’alotcha"
+  },
+  {
+    "date": "2027-06-24",
+    "dow": "jue",
+    "hebrew": "19 Sivan 5787",
+    "publish": true,
+    "feed": "Parashá **Beha’alotcha** — bajada a la semana",
+    "story": "Parashá Beha’alotcha: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beha’alotcha"
+  },
+  {
+    "date": "2027-06-25",
+    "dow": "vie",
+    "hebrew": "20 Sivan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beha’alotcha"
+  },
+  {
+    "date": "2027-06-26",
+    "dow": "sáb",
+    "hebrew": "21 Sivan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Beha’alotcha"
+  },
+  {
+    "date": "2027-06-27",
+    "dow": "dom",
+    "hebrew": "22 Sivan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Sh’lach"
+  },
+  {
+    "date": "2027-06-28",
+    "dow": "lun",
+    "hebrew": "23 Sivan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Sh’lach"
+  },
+  {
+    "date": "2027-06-29",
+    "dow": "mar",
+    "hebrew": "24 Sivan 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Sh’lach"
+  },
+  {
+    "date": "2027-06-30",
+    "dow": "mié",
+    "hebrew": "25 Sivan 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Sh’lach"
+  },
+  {
+    "date": "2027-07-01",
+    "dow": "jue",
+    "hebrew": "26 Sivan 5787",
+    "publish": true,
+    "feed": "Parashá **Sh’lach** — bajada a la semana",
+    "story": "Parashá Sh’lach: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Sh’lach"
+  },
+  {
+    "date": "2027-07-02",
+    "dow": "vie",
+    "hebrew": "27 Sivan 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Sh’lach"
+  },
+  {
+    "date": "2027-07-03",
+    "dow": "sáb",
+    "hebrew": "28 Sivan 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Sh’lach"
+  },
+  {
+    "date": "2027-07-04",
+    "dow": "dom",
+    "hebrew": "29 Sivan 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Korach"
+  },
+  {
+    "date": "2027-07-05",
+    "dow": "lun",
+    "hebrew": "30 Sivan 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Korach"
+  },
+  {
+    "date": "2027-07-06",
+    "dow": "mar",
+    "hebrew": "1 Tamuz 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca) · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Korach"
+  },
+  {
+    "date": "2027-07-07",
+    "dow": "mié",
+    "hebrew": "2 Tamuz 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Korach"
+  },
+  {
+    "date": "2027-07-08",
+    "dow": "jue",
+    "hebrew": "3 Tamuz 5787",
+    "publish": true,
+    "feed": "Parashá **Korach** — bajada a la semana",
+    "story": "Parashá Korach: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Korach"
+  },
+  {
+    "date": "2027-07-09",
+    "dow": "vie",
+    "hebrew": "4 Tamuz 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Korach"
+  },
+  {
+    "date": "2027-07-10",
+    "dow": "sáb",
+    "hebrew": "5 Tamuz 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Korach"
+  },
+  {
+    "date": "2027-07-11",
+    "dow": "dom",
+    "hebrew": "6 Tamuz 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chukat-Balak"
+  },
+  {
+    "date": "2027-07-12",
+    "dow": "lun",
+    "hebrew": "7 Tamuz 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chukat-Balak"
+  },
+  {
+    "date": "2027-07-13",
+    "dow": "mar",
+    "hebrew": "8 Tamuz 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chukat-Balak"
+  },
+  {
+    "date": "2027-07-14",
+    "dow": "mié",
+    "hebrew": "9 Tamuz 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chukat-Balak"
+  },
+  {
+    "date": "2027-07-15",
+    "dow": "jue",
+    "hebrew": "10 Tamuz 5787",
+    "publish": true,
+    "feed": "Parashá **Chukat-Balak** — bajada a la semana",
+    "story": "Parashá Chukat-Balak: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chukat-Balak"
+  },
+  {
+    "date": "2027-07-16",
+    "dow": "vie",
+    "hebrew": "11 Tamuz 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chukat-Balak"
+  },
+  {
+    "date": "2027-07-17",
+    "dow": "sáb",
+    "hebrew": "12 Tamuz 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Chukat-Balak"
+  },
+  {
+    "date": "2027-07-18",
+    "dow": "dom",
+    "hebrew": "13 Tamuz 5787",
+    "publish": true,
+    "feed": "MEMORIAL — reflexión sobria (ner neshamá)",
+    "story": "\"Enciende una vela por su memoria\" (sin gamificar)",
+    "anchors": [
+      "Atentado a la AMIA (Buenos Aires, 1994)"
+    ],
+    "sober": true,
+    "parasha": "Pinchas"
+  },
+  {
+    "date": "2027-07-19",
+    "dow": "lun",
+    "hebrew": "14 Tamuz 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pinchas"
+  },
+  {
+    "date": "2027-07-20",
+    "dow": "mar",
+    "hebrew": "15 Tamuz 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pinchas"
+  },
+  {
+    "date": "2027-07-21",
+    "dow": "mié",
+    "hebrew": "16 Tamuz 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pinchas"
+  },
+  {
+    "date": "2027-07-22",
+    "dow": "jue",
+    "hebrew": "17 Tamuz 5787",
+    "publish": true,
+    "feed": "Ayuno — reflexión sobria y breve",
+    "story": "Nota sobria (sin encuesta festiva)",
+    "anchors": [
+      "Ayuno del 17 de Tamuz"
+    ],
+    "sober": true,
+    "parasha": "Pinchas"
+  },
+  {
+    "date": "2027-07-23",
+    "dow": "vie",
+    "hebrew": "18 Tamuz 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pinchas"
+  },
+  {
+    "date": "2027-07-24",
+    "dow": "sáb",
+    "hebrew": "19 Tamuz 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Pinchas"
+  },
+  {
+    "date": "2027-07-25",
+    "dow": "dom",
+    "hebrew": "20 Tamuz 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Matot-Masei"
+  },
+  {
+    "date": "2027-07-26",
+    "dow": "lun",
+    "hebrew": "21 Tamuz 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Matot-Masei"
+  },
+  {
+    "date": "2027-07-27",
+    "dow": "mar",
+    "hebrew": "22 Tamuz 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Matot-Masei"
+  },
+  {
+    "date": "2027-07-28",
+    "dow": "mié",
+    "hebrew": "23 Tamuz 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Matot-Masei"
+  },
+  {
+    "date": "2027-07-29",
+    "dow": "jue",
+    "hebrew": "24 Tamuz 5787",
+    "publish": true,
+    "feed": "Parashá **Matot-Masei** — bajada a la semana",
+    "story": "Parashá Matot-Masei: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Matot-Masei"
+  },
+  {
+    "date": "2027-07-30",
+    "dow": "vie",
+    "hebrew": "25 Tamuz 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Matot-Masei"
+  },
+  {
+    "date": "2027-07-31",
+    "dow": "sáb",
+    "hebrew": "26 Tamuz 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Matot-Masei"
+  },
+  {
+    "date": "2027-08-01",
+    "dow": "dom",
+    "hebrew": "27 Tamuz 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Devarim"
+  },
+  {
+    "date": "2027-08-02",
+    "dow": "lun",
+    "hebrew": "28 Tamuz 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Devarim"
+  },
+  {
+    "date": "2027-08-03",
+    "dow": "mar",
+    "hebrew": "29 Tamuz 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Devarim"
+  },
+  {
+    "date": "2027-08-04",
+    "dow": "mié",
+    "hebrew": "1 Av 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Devarim"
+  },
+  {
+    "date": "2027-08-05",
+    "dow": "jue",
+    "hebrew": "2 Av 5787",
+    "publish": true,
+    "feed": "Parashá **Devarim** — bajada a la semana",
+    "story": "Parashá Devarim: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Devarim"
+  },
+  {
+    "date": "2027-08-06",
+    "dow": "vie",
+    "hebrew": "3 Av 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Devarim"
+  },
+  {
+    "date": "2027-08-07",
+    "dow": "sáb",
+    "hebrew": "4 Av 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat Jazón"
+    ],
+    "sober": false,
+    "parasha": "Devarim"
+  },
+  {
+    "date": "2027-08-08",
+    "dow": "dom",
+    "hebrew": "5 Av 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2027-08-09",
+    "dow": "lun",
+    "hebrew": "6 Av 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2027-08-10",
+    "dow": "mar",
+    "hebrew": "7 Av 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2027-08-11",
+    "dow": "mié",
+    "hebrew": "8 Av 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Erev Tishá BeAv"
+    ],
+    "sober": true,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2027-08-12",
+    "dow": "jue",
+    "hebrew": "9 Av 5787",
+    "publish": false,
+    "feed": "— silencio (Yom Tov) —",
+    "story": "—",
+    "anchors": [
+      "Tishá BeAv"
+    ],
+    "sober": true,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2027-08-13",
+    "dow": "vie",
+    "hebrew": "10 Av 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2027-08-14",
+    "dow": "sáb",
+    "hebrew": "11 Av 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Shabat Najamú"
+    ],
+    "sober": false,
+    "parasha": "Vaetchanan"
+  },
+  {
+    "date": "2027-08-15",
+    "dow": "dom",
+    "hebrew": "12 Av 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2027-08-16",
+    "dow": "lun",
+    "hebrew": "13 Av 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2027-08-17",
+    "dow": "mar",
+    "hebrew": "14 Av 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2027-08-18",
+    "dow": "mié",
+    "hebrew": "15 Av 5787",
+    "publish": true,
+    "feed": "FESTIVIDAD — lámina de saludo + bajada",
+    "story": "Dinámica de la festividad (ver DINAMICAS)",
+    "anchors": [
+      "Tu BeAv"
+    ],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2027-08-19",
+    "dow": "jue",
+    "hebrew": "16 Av 5787",
+    "publish": true,
+    "feed": "Parashá **Eikev** — bajada a la semana",
+    "story": "Parashá Eikev: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2027-08-20",
+    "dow": "vie",
+    "hebrew": "17 Av 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2027-08-21",
+    "dow": "sáb",
+    "hebrew": "18 Av 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Eikev"
+  },
+  {
+    "date": "2027-08-22",
+    "dow": "dom",
+    "hebrew": "19 Av 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2027-08-23",
+    "dow": "lun",
+    "hebrew": "20 Av 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2027-08-24",
+    "dow": "mar",
+    "hebrew": "21 Av 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2027-08-25",
+    "dow": "mié",
+    "hebrew": "22 Av 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2027-08-26",
+    "dow": "jue",
+    "hebrew": "23 Av 5787",
+    "publish": true,
+    "feed": "Parashá **Re’eh** — bajada a la semana",
+    "story": "Parashá Re’eh: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2027-08-27",
+    "dow": "vie",
+    "hebrew": "24 Av 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2027-08-28",
+    "dow": "sáb",
+    "hebrew": "25 Av 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Re’eh"
+  },
+  {
+    "date": "2027-08-29",
+    "dow": "dom",
+    "hebrew": "26 Av 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2027-08-30",
+    "dow": "lun",
+    "hebrew": "27 Av 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2027-08-31",
+    "dow": "mar",
+    "hebrew": "28 Av 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2027-09-01",
+    "dow": "mié",
+    "hebrew": "29 Av 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2027-09-02",
+    "dow": "jue",
+    "hebrew": "30 Av 5787",
+    "publish": true,
+    "feed": "Parashá **Shoftim** — bajada a la semana",
+    "story": "Parashá Shoftim: \"¿qué detalle te incomoda?\" · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2027-09-03",
+    "dow": "vie",
+    "hebrew": "1 Elul 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas · + Bienvenida de mes",
+    "anchors": [
+      "Rosh Hashaná de los animales",
+      "Rosh Jodesh"
+    ],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2027-09-04",
+    "dow": "sáb",
+    "hebrew": "2 Elul 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Shoftim"
+  },
+  {
+    "date": "2027-09-05",
+    "dow": "dom",
+    "hebrew": "3 Elul 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2027-09-06",
+    "dow": "lun",
+    "hebrew": "4 Elul 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2027-09-07",
+    "dow": "mar",
+    "hebrew": "5 Elul 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2027-09-08",
+    "dow": "mié",
+    "hebrew": "6 Elul 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2027-09-09",
+    "dow": "jue",
+    "hebrew": "7 Elul 5787",
+    "publish": true,
+    "feed": "Parashá **Ki Teitzei** — bajada a la semana",
+    "story": "Parashá Ki Teitzei: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2027-09-10",
+    "dow": "vie",
+    "hebrew": "8 Elul 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2027-09-11",
+    "dow": "sáb",
+    "hebrew": "9 Elul 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Teitzei"
+  },
+  {
+    "date": "2027-09-12",
+    "dow": "dom",
+    "hebrew": "10 Elul 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2027-09-13",
+    "dow": "lun",
+    "hebrew": "11 Elul 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2027-09-14",
+    "dow": "mar",
+    "hebrew": "12 Elul 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2027-09-15",
+    "dow": "mié",
+    "hebrew": "13 Elul 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2027-09-16",
+    "dow": "jue",
+    "hebrew": "14 Elul 5787",
+    "publish": true,
+    "feed": "Parashá **Ki Tavo** — bajada a la semana",
+    "story": "Parashá Ki Tavo: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2027-09-17",
+    "dow": "vie",
+    "hebrew": "15 Elul 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2027-09-18",
+    "dow": "sáb",
+    "hebrew": "16 Elul 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Ki Tavo"
+  },
+  {
+    "date": "2027-09-19",
+    "dow": "dom",
+    "hebrew": "17 Elul 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2027-09-20",
+    "dow": "lun",
+    "hebrew": "18 Elul 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2027-09-21",
+    "dow": "mar",
+    "hebrew": "19 Elul 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2027-09-22",
+    "dow": "mié",
+    "hebrew": "20 Elul 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2027-09-23",
+    "dow": "jue",
+    "hebrew": "21 Elul 5787",
+    "publish": true,
+    "feed": "Parashá **Nitzavim-Vayeilech** — bajada a la semana",
+    "story": "Parashá Nitzavim-Vayeilech: \"¿qué detalle te incomoda?\"",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2027-09-24",
+    "dow": "vie",
+    "hebrew": "22 Elul 5787",
+    "publish": true,
+    "feed": "Preparando Shabat",
+    "story": "\"Sube tus velas\" + cuenta regresiva a las velas",
+    "anchors": [],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2027-09-25",
+    "dow": "sáb",
+    "hebrew": "23 Elul 5787",
+    "publish": false,
+    "feed": "— silencio (Shabat) —",
+    "story": "—",
+    "anchors": [
+      "Noche de Selijot"
+    ],
+    "sober": false,
+    "parasha": "Nitzavim-Vayeilech"
+  },
+  {
+    "date": "2027-09-26",
+    "dow": "dom",
+    "hebrew": "24 Elul 5787",
+    "publish": true,
+    "feed": "Figura del día / Tzadik — \"un eslabón\"",
+    "story": "Palabra hebrea + encuesta",
+    "anchors": [],
+    "sober": false,
+    "parasha": null
+  },
+  {
+    "date": "2027-09-27",
+    "dow": "lun",
+    "hebrew": "25 Elul 5787",
+    "publish": true,
+    "feed": "Mitzvá / concepto (rigor con calidez)",
+    "story": "\"¿Sabías que…?\" del concepto",
+    "anchors": [],
+    "sober": false,
+    "parasha": null
+  },
+  {
+    "date": "2027-09-28",
+    "dow": "mar",
+    "hebrew": "26 Elul 5787",
+    "publish": true,
+    "feed": "Berajá del momento (Barkai)",
+    "story": "\"¿Qué ves ahora? hay una berajá\" (toca)",
+    "anchors": [],
+    "sober": false,
+    "parasha": null
+  },
+  {
+    "date": "2027-09-29",
+    "dow": "mié",
+    "hebrew": "27 Elul 5787",
+    "publish": true,
+    "feed": "3.000 años (Reloj) / efeméride",
+    "story": "Historia en 3 tarjetas",
+    "anchors": [],
+    "sober": false,
+    "parasha": null
+  }
+]
