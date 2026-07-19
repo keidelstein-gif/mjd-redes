@@ -28,4 +28,5 @@ Este documento lo dejé (y fui actualizando) mientras trabajaba de noche. Léelo
 _(se actualiza a medida que avanzo)_
 
 - ✅ Programa anual escrito y subido.
-- ⏳ …
+- ✅ **Semana 01 de contenido** lista (`social/plan/contenido/semana-01.md`): 6 días (dom–vie) con feed + story en ES+EN, voz Rav Shmuel, evergreen. Domingo Rashí, lunes bikur jolim, martes berajá del trueno (Barkai), miércoles "el día empieza de noche" (Reloj), jueves la parashá, viernes preparando Shabat. Sábado en silencio.
+- ⏳ Siguiente: más semanas de contenido, luego intento de capturas del simulador y gráficas en Claude Design.
