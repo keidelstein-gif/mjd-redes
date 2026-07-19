@@ -1,0 +1,14 @@
+[
+  {
+    "id": "2026-07-18-welcome",
+    "datetime": "2026-07-17T12:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "welcome",
+    "media": "social/media/2026-07/2026-07-18-welcome-en.jpg",
+    "caption": "Welcome to My Jewish Day — your Jewish identity, every day. You are a link in a chain three thousand years long.",
+    "alt": "My Jewish Day welcome card.",
+    "source": "docs/assets/redes/daily_companion_light_en.png",
+    "status": "approved"
+  }
+]
