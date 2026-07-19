@@ -2,7 +2,7 @@ name: Publicar en redes
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '5 13 * * *'   # ~09:05 en Santiago (UTC-4). Ajustar según horario/DST.
+    - cron: '0 14 * * *'   # 10:00 en Santiago (UTC-4, invierno). Ajustar por DST.
 permissions:
   contents: write
   issues: write

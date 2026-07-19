@@ -14,7 +14,7 @@
   {
     "id": "2026-07-19-nueve-dias-feed-es",
     "datetime": "2026-07-19T09:00:00-04:00",
-    "networks": ["instagram_feed", "facebook"],
+    "networks": ["instagram_feed"],
     "lang": "es",
     "type": "nueve-dias",
     "media": "social/media/2026-07/2026-07-19-nueve-dias-feed-es.jpg",
@@ -25,7 +25,7 @@
   {
     "id": "2026-07-19-nueve-dias-feed-en",
     "datetime": "2026-07-19T09:00:00-04:00",
-    "networks": ["instagram_feed", "facebook"],
+    "networks": ["instagram_feed"],
     "lang": "en",
     "type": "nueve-dias",
     "media": "social/media/2026-07/2026-07-19-nueve-dias-feed-en.jpg",
@@ -53,6 +53,50 @@
     "media": "social/media/2026-07/2026-07-19-nueve-dias-story-en.jpg",
     "caption": "The moon is waxing — but this week it waits.",
     "alt": "A veiled moon over the Old City of Jerusalem.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-20-akiva-feed-es",
+    "datetime": "2026-07-20T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-20-nueve-dias-feed-es.jpg",
+    "caption": "Cuenta el Talmud (Makot 24b) que cuatro sabios subieron a las ruinas del Monte del Templo y vieron una zorra salir del lugar donde había estado el Kódesh HaKodashim, el Lugar Santísimo. Tres se pusieron a llorar. El cuarto, Rabí Akiva, se rió. «¿Cómo puedes reírte?», le preguntaron. Y respondió: los mismos profetas que anunciaron la destrucción —«Sión será arada como un campo» (Mijá 3:12)— también anunciaron el consuelo: «todavía se sentarán ancianos y ancianas en las plazas de Jerusalén» (Zejariá 8:4). «Ahora que vi cumplirse la primera profecía, sé con certeza que la segunda también.» Le dijeron: «Akiva, nos consolaste.» En estos Nueve Días la tradición te da permiso para las dos cosas a la vez: llorar la ruina y confiar en que la misma historia que se rompió promete repararse. La zorra corre entre las piedras — y aun así, el consuelo ya está escrito.\n\n#NueveDías #TisháBeAv #RabíAkiva #MiDíaJudío",
+    "alt": "Ruinas antiguas al anochecer; una zorra solitaria entre las piedras y un amanecer en el horizonte.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-20-akiva-feed-en",
+    "datetime": "2026-07-20T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-20-nueve-dias-feed-en.jpg",
+    "caption": "The Talmud (Makkot 24b) tells that four sages climbed to the ruins of the Temple Mount and saw a fox running out of the place where the Holy of Holies had stood. Three of them wept. The fourth, Rabbi Akiva, laughed. «How can you laugh?» they asked. He answered: the same prophets who foretold the destruction —«Zion shall be plowed like a field» (Micah 3:12)— also foretold the comfort: «old men and women shall yet sit in the streets of Jerusalem» (Zechariah 8:4). «Now that I have seen the first prophecy come true, I am certain the second will too.» They said to him: «Akiva, you have comforted us.» In these Nine Days the tradition lets you hold both at once: to mourn the ruin, and to trust that the same story which broke also promises to mend. The fox runs among the stones — and even so, the comfort is already written.\n\n#NineDays #RabbiAkiva #Hope #MyJewishDay",
+    "alt": "Ancient ruins at dusk; a lone fox among the stones and a sunrise on the horizon.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-20-akiva-story-es",
+    "datetime": "2026-07-20T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-20-nueve-dias-story-es.jpg",
+    "caption": "Los sabios lloraron; Rabí Akiva se rió.",
+    "alt": "Un brote verde saliendo de una grieta en la piedra al anochecer.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-20-akiva-story-en",
+    "datetime": "2026-07-20T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-20-nueve-dias-story-en.jpg",
+    "caption": "The sages wept; Rabbi Akiva laughed.",
+    "alt": "A green sprout rising from a crack in the stone at dusk.",
     "status": "approved"
   }
 ]
