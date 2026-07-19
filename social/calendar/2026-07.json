@@ -10,5 +10,49 @@
     "alt": "My Jewish Day welcome card.",
     "source": "docs/assets/redes/daily_companion_light_en.png",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-19-nueve-dias-feed-es",
+    "datetime": "2026-07-19T09:00:00-04:00",
+    "networks": ["instagram_feed", "facebook"],
+    "lang": "es",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-19-nueve-dias-feed-es.jpg",
+    "caption": "Estamos en los Nueve Días — el tramo más triste del año judío, que baja desde Rosh Jódesh de Av hasta Tishá BeAv, este jueves. Es un duelo que se prepara: se aparta la carne y el vino, no se estrenan cosas, la música baja. No es tristeza porque sí: es hacerle lugar en el cuerpo a una herida vieja, la caída de los dos Templos de Jerusalén. Y el Talmud se atreve a nombrar de qué murió el segundo: no de un imperio, sino de sinat jinam, el odio gratuito entre hermanos (Yomá 9b). Por eso estos días no son solo para llorar hacia atrás — son una pista de aterrizaje: cuatro días para practicar lo contrario, ahavat jinam, un cariño sin motivo, antes de que llegue el jueves. A quien dejaste de saludar, salúdalo esta semana. Así, cuando caiga Tishá BeAv, la memoria no será solo dolor: será un puente.\n\n#NueveDías #TisháBeAv #Zajor #MiDíaJudío",
+    "alt": "El Kotel de noche; una mano de hoy sobre las piedras milenarias. Nueve Días.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-19-nueve-dias-feed-en",
+    "datetime": "2026-07-19T09:00:00-04:00",
+    "networks": ["instagram_feed", "facebook"],
+    "lang": "en",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-19-nueve-dias-feed-en.jpg",
+    "caption": "We are in the Nine Days — the saddest stretch of the Jewish year, descending from Rosh Chodesh Av to Tisha B'Av this Thursday. It is a mourning we prepare for: we set aside meat and wine, we don't begin new things, the music quiets. It isn't sadness for its own sake: it's making room in the body for an old wound — the fall of both Temples of Jerusalem. And the Talmud dares to name what the second one died of: not an empire, but sinat chinam, baseless hatred between brothers (Yoma 9b). So these days aren't only for weeping backward — they're a runway: four days to practice the opposite, ahavat chinam, affection for no reason, before Thursday comes. The person you stopped greeting — greet them this week. Then, when Tisha B'Av arrives, the memory won't be only pain: it will be a bridge.\n\n#NineDays #TishaBAv #WeRemember #MyJewishDay",
+    "alt": "The Kotel at night; a hand of today on the ancient stones. The Nine Days.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-19-nueve-dias-story-es",
+    "datetime": "2026-07-19T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-19-nueve-dias-story-es.jpg",
+    "caption": "La luna crece — pero esta semana espera.",
+    "alt": "Luna velada sobre la Ciudad Vieja de Jerusalén.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-19-nueve-dias-story-en",
+    "datetime": "2026-07-19T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-19-nueve-dias-story-en.jpg",
+    "caption": "The moon is waxing — but this week it waits.",
+    "alt": "A veiled moon over the Old City of Jerusalem.",
+    "status": "approved"
   }
 ]
