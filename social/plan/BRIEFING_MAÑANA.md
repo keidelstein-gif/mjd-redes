@@ -33,4 +33,37 @@ _(se actualiza a medida que avanzo)_
 - 🔴 **Capturas frescas de MJD y Barkai: necesitan tu mano.** Correr las apps frías en el simulador mostraría onboarding/login vacíos (necesitan sesión + backend para ver el contenido bueno), y compilar tocaría tus repos (que me pediste no tocar). Los QA de MJD están vacíos; los de Barkai son mockups de Claude Design. **Lo hacemos juntas:** tú abres la app con tu sesión y yo capturo las pantallas que queramos, o me dices qué screenshots existentes usar. Los mockups de Barkai (`APP Beraja/design_handoff/`) sí sirven como referencia de estilo.
 - ✅ **Semana 02 de contenido** lista (`semana-02.md`): domingo Rambam, lunes shemirat halashón, martes berajá del mar (Barkai), miércoles Rosh Jódesh y la luna (Reloj), jueves la parashá en círculo, viernes la neshamá yeterá de Shabat.
 - ✅ **Semana 03 de contenido** lista (`semana-03.md`): domingo Sara Schenirer, lunes hajnasat orjim, martes shehecheyanu (Barkai), miércoles las horas que siguen al sol (Reloj), jueves shnáim mikrá, viernes las 39 melajot de Shabat.
-- ⏳ Siguiente: semana 04, luego intento de gráficas en Claude Design.
+- ✅ **Semana 04 de contenido** lista (`semana-04.md`): domingo Rut, lunes kibud av va'em, martes modé aní (Barkai), miércoles los dos bordes de la semana (Reloj), jueves la parashá, viernes recibir a la novia (Lejá Dodí). **Mes completo: 4 semanas.**
+- ✅ **Claude Design: confirmado accesible y funcionando** (entré con tu sesión). Vi tus proyectos: "Diseño global con comunidades", "Gráficas para tiendas Android y Apple", "Claude design app Beraja", "Reloj judaico design prompt".
+- 🔴 **No generé gráficas sola** — a propósito. El diseño es donde tienes la vara alta y quieres tu ojo; conviene hacerlo contigo, con tu design system, iterando. Prompt listo abajo para la primera.
+
+---
+
+## Prompt listo para la primera gráfica (pégalo en Claude Design → "Make a pitch")
+> Gráfica cuadrada 1080×1080 para el feed de Instagram de la comunidad judía **My Jewish Day**. Tema: **Rashí, "un eslabón de la cadena de 3.000 años"**. Estética editorial premium, con alma, nada de plantilla genérica ni tono motivacional. Paleta: fondo noche profunda (índigo #1B2050 → #101430 → #050816) **o** crema #FAF6EE. Tipografía: título en sans geométrica (Plus Jakarta Sans), cita/hebreo en serif (Frank Ruhl Libre italic). Isotipo hebreo discreto (letra ח o חי, "vida/chai"). Título: **"Rashí — un eslabón"**. Bajada corta de una línea. Mucho aire, jerarquía clara, sensación de tres mil años. Footer discreto: midiajudio.com. Que respire, que toque el alma.
+
+(El caption ES/EN ya está escrito en `semana-01.md`, domingo.)
+
+---
+
+## 🌅 RESUMEN FINAL DE LA NOCHE
+
+**Todo esto quedó LISTO y sólido:**
+1. Robot vivo y probado (GitHub `keidelstein-gif/mjd-redes`): feed + stories + Facebook, ruteo por idioma, no duplica, no publica en Shabat.
+2. **4 cuentas conectadas con tokens PERMANENTES** (ES @midiajudio + FB Mi Día Judío · EN @myjewishday + FB My Jewish Day).
+3. **Programa anual de contenido** (`PROGRAMA_ANUAL_CONTENIDO.md`).
+4. **Un mes de contenido escrito** (`contenido/semana-01…04.md`): 24 piezas, feed + story, ES+EN, voz Rav Shmuel, evergreen, listas para diseñar y aprobar.
+5. Screenshots reales del **Reloj** recogidos.
+6. Claude Design confirmado funcionando + prompt listo.
+
+**Lo que necesita TUS manos (🔴):**
+- Capturas frescas de **MJD y Barkai** (sesión + backend; las hacemos juntas).
+- **Diseñar las gráficas** en Claude Design (tu ojo + tu design system).
+- **Aprobar el primer lote** antes de que el robot publique.
+
+**Próximos 3 pasos (mañana, rápido):**
+1. Elegir 2-3 piezas de `semana-01.md` y diseñarlas en Claude Design (feed + story, ES+EN).
+2. Exportar a JPEG, cargarlas al calendario del robot, poner fecha (fuera de Shabat).
+3. Aprobar → el robot publica en las 4 cuentas. 🚀
+
+_Buenos días. Fue un día enorme. — con cariño._
