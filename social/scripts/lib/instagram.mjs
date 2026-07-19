@@ -1,13 +1,15 @@
 import { graphUrl } from './http.mjs';
 
-// Publica una imagen en el feed de Instagram (2 pasos: contenedor + publish).
+// Publica una imagen en Instagram (2 pasos: contenedor + publish).
+// mediaType opcional: "STORIES" para historias (sin caption). Sin mediaType = feed.
 // httpPost: async (url, params) => json   (inyectado; en prod es httpPostForm)
-export async function publishInstagramImage({ igUserId, accessToken, imageUrl, caption }, httpPost) {
-  const container = await httpPost(graphUrl(`${igUserId}/media`), {
-    image_url: imageUrl,
-    caption: caption ?? '',
-    access_token: accessToken,
-  });
+export async function publishInstagramImage({ igUserId, accessToken, imageUrl, caption, mediaType }, httpPost) {
+  // El feed lleva caption; las stories usan media_type=STORIES y NO llevan caption.
+  const containerParams = { image_url: imageUrl, access_token: accessToken };
+  if (mediaType) containerParams.media_type = mediaType;
+  else containerParams.caption = caption ?? '';
+
+  const container = await httpPost(graphUrl(`${igUserId}/media`), containerParams);
   if (!container.id) throw new Error('Graph API no devolvió container id');
 
   const published = await httpPost(graphUrl(`${igUserId}/media_publish`), {

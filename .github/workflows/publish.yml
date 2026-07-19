@@ -18,8 +18,14 @@ jobs:
         run: npm test
       - name: Publicar posts vencidos y aprobados
         env:
+          IG_USER_ID_EN: ${{ secrets.IG_USER_ID_EN }}
+          IG_ACCESS_TOKEN_EN: ${{ secrets.IG_ACCESS_TOKEN_EN }}
           IG_USER_ID_ES: ${{ secrets.IG_USER_ID_ES }}
           IG_ACCESS_TOKEN_ES: ${{ secrets.IG_ACCESS_TOKEN_ES }}
+          FB_PAGE_ID_EN: ${{ secrets.FB_PAGE_ID_EN }}
+          FB_PAGE_TOKEN_EN: ${{ secrets.FB_PAGE_TOKEN_EN }}
+          FB_PAGE_ID_ES: ${{ secrets.FB_PAGE_ID_ES }}
+          FB_PAGE_TOKEN_ES: ${{ secrets.FB_PAGE_TOKEN_ES }}
           PAGES_BASE_URL: ${{ secrets.PAGES_BASE_URL }}
         run: node social/scripts/publish.mjs
       - name: Guardar el estado (commit del log)

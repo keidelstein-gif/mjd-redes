@@ -6,22 +6,27 @@ import { duePublishTasks } from './lib/calendar.mjs';
 import { markPublished } from './lib/state.mjs';
 import { publicMediaUrl } from './lib/media.mjs';
 import { publishInstagramImage } from './lib/instagram.mjs';
+import { publishFacebookPhoto } from './lib/facebook.mjs';
 import { httpPostForm } from './lib/http.mjs';
 
-// Orquestación pura: publica cada tarea vencida con el publisher de su red.
-// publishers: { [network]: async ({ post, imageUrl }) => remoteId }
-export async function runPublish({ posts, published, now, baseUrl, publishers }) {
+// Orquestación pura: publica cada tarea vencida con el publisher que resuelve
+// `resolvePublisher(network, lang)`. Si devuelve null (sin credenciales para
+// esa red/idioma), la tarea se OMITE (no es error) y queda pendiente para
+// cuando se configure.
+// resolvePublisher: (network, lang) => (async ({post, imageUrl}) => remoteId) | null
+export async function runPublish({ posts, published, now, baseUrl, resolvePublisher }) {
   const tasks = duePublishTasks({ posts, published, now });
   let state = published;
   const results = [];
   for (const { postId, post, network } of tasks) {
-    const publisher = publishers[network];
     const ts = now.toISOString();
+    const publisher = resolvePublisher(network, post.lang);
     if (!publisher) {
-      const error = `Sin publisher para ${network}`;
-      results.push({ postId, network, ok: false, error });
-      state = markPublished(state, postId, network, { status: 'error', error, ts });
-      continue;
+      results.push({
+        postId, network, ok: false, skipped: true,
+        reason: `sin credenciales para ${network}/${post.lang}`,
+      });
+      continue; // no marca publicado: se reintenta cuando se configure
     }
     try {
       const imageUrl = publicMediaUrl(post.media, baseUrl);
@@ -34,6 +39,37 @@ export async function runPublish({ posts, published, now, baseUrl, publishers })
     }
   }
   return { published: state, results };
+}
+
+// Arma el publisher real para cada (red, idioma) leyendo credenciales de env.
+// Idioma en MAYÚSCULAS: es -> ES, en -> EN. Credenciales ausentes -> null (skip).
+export function resolvePublisherFromEnv(network, lang, env = process.env) {
+  const L = String(lang || '').toUpperCase();
+
+  if (network === 'instagram_feed' || network === 'instagram_stories') {
+    const igUserId = env[`IG_USER_ID_${L}`];
+    const accessToken = env[`IG_ACCESS_TOKEN_${L}`];
+    if (!igUserId || !accessToken) return null;
+    const mediaType = network === 'instagram_stories' ? 'STORIES' : undefined;
+    return ({ post, imageUrl }) =>
+      publishInstagramImage(
+        { igUserId, accessToken, imageUrl, caption: post.caption, mediaType },
+        httpPostForm,
+      );
+  }
+
+  if (network === 'facebook') {
+    const pageId = env[`FB_PAGE_ID_${L}`];
+    const accessToken = env[`FB_PAGE_TOKEN_${L}`];
+    if (!pageId || !accessToken) return null;
+    return ({ post, imageUrl }) =>
+      publishFacebookPhoto(
+        { pageId, accessToken, imageUrl, caption: post.caption },
+        httpPostForm,
+      );
+  }
+
+  return null; // red desconocida
 }
 
 function requireEnv(name) {
@@ -51,8 +87,6 @@ async function readJsonOr(file, fallback) {
 }
 
 async function main() {
-  const igUserId = requireEnv('IG_USER_ID_ES');
-  const accessToken = requireEnv('IG_ACCESS_TOKEN_ES');
   const baseUrl = requireEnv('PAGES_BASE_URL');
 
   const month = new Date().toISOString().slice(0, 7); // YYYY-MM
@@ -62,29 +96,27 @@ async function main() {
   const posts = await readJsonOr(calendarPath, []);
   const published = await readJsonOr(statePath, {});
 
-  const publishers = {
-    instagram_feed: ({ post, imageUrl }) =>
-      publishInstagramImage(
-        { igUserId, accessToken, imageUrl, caption: post.caption },
-        httpPostForm,
-      ),
-  };
-
   const { published: nextState, results } = await runPublish({
-    posts, published, now: new Date(), baseUrl, publishers,
+    posts, published, now: new Date(), baseUrl,
+    resolvePublisher: (network, lang) => resolvePublisherFromEnv(network, lang),
   });
 
   await writeFile(statePath, JSON.stringify(nextState, null, 2) + '\n');
 
   for (const r of results) {
-    console.log(r.ok ? `OK  ${r.postId} ${r.network} -> ${r.id}` : `ERR ${r.postId} ${r.network}: ${r.error}`);
+    if (r.ok) console.log(`OK   ${r.postId} ${r.network} -> ${r.id}`);
+    else if (r.skipped) console.log(`SKIP ${r.postId} ${r.network}: ${r.reason}`);
+    else console.log(`ERR  ${r.postId} ${r.network}: ${r.error}`);
   }
-  const failures = results.filter((r) => !r.ok);
+
+  const failures = results.filter((r) => !r.ok && !r.skipped);
   if (failures.length) {
     console.error(`${failures.length} publicación(es) fallaron`);
     process.exit(1);
   }
-  console.log(`Listo: ${results.length} tarea(s) procesada(s).`);
+  const okCount = results.filter((r) => r.ok).length;
+  const skipCount = results.filter((r) => r.skipped).length;
+  console.log(`Listo: ${okCount} publicada(s), ${skipCount} omitida(s) por falta de credenciales.`);
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

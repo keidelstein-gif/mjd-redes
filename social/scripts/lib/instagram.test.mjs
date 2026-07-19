@@ -31,3 +31,21 @@ test('lanza si no vuelve container id', async () => {
     /container/,
   );
 });
+
+test('story: envía media_type=STORIES y sin caption', async () => {
+  const calls = [];
+  const httpPost = async (url, params) => {
+    calls.push({ url, params });
+    if (url.endsWith('/media')) return { id: 'C1' };
+    if (url.endsWith('/media_publish')) return { id: 'S1' };
+    throw new Error('url inesperada: ' + url);
+  };
+  const id = await publishInstagramImage(
+    { igUserId: '99', accessToken: 'T', imageUrl: 'https://x/s.jpg', caption: 'no va', mediaType: 'STORIES' },
+    httpPost,
+  );
+  assert.equal(id, 'S1');
+  assert.equal(calls[0].params.media_type, 'STORIES');
+  assert.equal(calls[0].params.caption, undefined);
+  assert.equal(calls[0].params.image_url, 'https://x/s.jpg');
+});
