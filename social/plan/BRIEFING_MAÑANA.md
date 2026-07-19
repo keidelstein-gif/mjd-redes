@@ -29,4 +29,6 @@ _(se actualiza a medida que avanzo)_
 
 - ✅ Programa anual escrito y subido.
 - ✅ **Semana 01 de contenido** lista (`social/plan/contenido/semana-01.md`): 6 días (dom–vie) con feed + story en ES+EN, voz Rav Shmuel, evergreen. Domingo Rashí, lunes bikur jolim, martes berajá del trueno (Barkai), miércoles "el día empieza de noche" (Reloj), jueves la parashá, viernes preparando Shabat. Sábado en silencio.
-- ⏳ Siguiente: más semanas de contenido, luego intento de capturas del simulador y gráficas en Claude Design.
+- ✅ **Capturas del Reloj recogidas** (10 reales de tienda, EN+ES) → `social/media/screenshots/reloj/`. Sirven directo para las gráficas del Reloj.
+- 🔴 **Capturas frescas de MJD y Barkai: necesitan tu mano.** Correr las apps frías en el simulador mostraría onboarding/login vacíos (necesitan sesión + backend para ver el contenido bueno), y compilar tocaría tus repos (que me pediste no tocar). Los QA de MJD están vacíos; los de Barkai son mockups de Claude Design. **Lo hacemos juntas:** tú abres la app con tu sesión y yo capturo las pantallas que queramos, o me dices qué screenshots existentes usar. Los mockups de Barkai (`APP Beraja/design_handoff/`) sí sirven como referencia de estilo.
+- ⏳ Siguiente: más semanas de contenido (02, 03, 04), luego intento de gráficas en Claude Design.
