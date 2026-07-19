@@ -32,4 +32,5 @@ _(se actualiza a medida que avanzo)_
 - ✅ **Capturas del Reloj recogidas** (10 reales de tienda, EN+ES) → `social/media/screenshots/reloj/`. Sirven directo para las gráficas del Reloj.
 - 🔴 **Capturas frescas de MJD y Barkai: necesitan tu mano.** Correr las apps frías en el simulador mostraría onboarding/login vacíos (necesitan sesión + backend para ver el contenido bueno), y compilar tocaría tus repos (que me pediste no tocar). Los QA de MJD están vacíos; los de Barkai son mockups de Claude Design. **Lo hacemos juntas:** tú abres la app con tu sesión y yo capturo las pantallas que queramos, o me dices qué screenshots existentes usar. Los mockups de Barkai (`APP Beraja/design_handoff/`) sí sirven como referencia de estilo.
 - ✅ **Semana 02 de contenido** lista (`semana-02.md`): domingo Rambam, lunes shemirat halashón, martes berajá del mar (Barkai), miércoles Rosh Jódesh y la luna (Reloj), jueves la parashá en círculo, viernes la neshamá yeterá de Shabat.
-- ⏳ Siguiente: semanas 03 y 04, luego intento de gráficas en Claude Design.
+- ✅ **Semana 03 de contenido** lista (`semana-03.md`): domingo Sara Schenirer, lunes hajnasat orjim, martes shehecheyanu (Barkai), miércoles las horas que siguen al sol (Reloj), jueves shnáim mikrá, viernes las 39 melajot de Shabat.
+- ⏳ Siguiente: semana 04, luego intento de gráficas en Claude Design.
