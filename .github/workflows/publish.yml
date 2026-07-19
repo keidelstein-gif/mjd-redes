@@ -1,0 +1,43 @@
+name: Publicar en redes
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '5 13 * * *'   # ~09:05 en Santiago (UTC-4). Ajustar según horario/DST.
+permissions:
+  contents: write
+  issues: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Correr la suite de tests
+        run: npm test
+      - name: Publicar posts vencidos y aprobados
+        env:
+          IG_USER_ID_ES: ${{ secrets.IG_USER_ID_ES }}
+          IG_ACCESS_TOKEN_ES: ${{ secrets.IG_ACCESS_TOKEN_ES }}
+          PAGES_BASE_URL: ${{ secrets.PAGES_BASE_URL }}
+        run: node social/scripts/publish.mjs
+      - name: Guardar el estado (commit del log)
+        if: always()
+        run: |
+          git config user.name "mjd-bot"
+          git config user.email "bot@myjewishday.com"
+          git add social/state/published.json
+          git diff --staged --quiet || git commit -m "chore(redes): actualiza estado de publicación [skip ci]"
+          git push
+      - name: Abrir issue si falló
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Falló la publicación de redes (${new Date().toISOString().slice(0, 10)})`,
+              body: `El robot de publicación falló. Revisa el run: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+            });
