@@ -24,6 +24,17 @@ Nacieron revisando las primeras láminas reales con Karen (Nueve Días, jul 2026
    (Rigor extra: una creciente fina es objeto de **atardecer**, baja y al **oeste** — no
    alta en medianoche.)
 
-5. **Recordatorio del ADN** (no se negocia): dos registros (cálido saludos / sobrio
+5. **Sin iconografía ni referencia cristiana — NUNCA.** La cuenta habla **desde adentro
+   del judaísmo**, en sus propios términos. Prohibido cualquier eco del arte o la
+   simbología cristiana: composición tipo **«La última cena»** (mesa larga con todos
+   sentados al fondo), cruces o formas cruciformes, halos/nimbo, poses de crucifixión,
+   arquitectura de iglesia/basílica/catedral/campanario, vitrales, íconos bizantinos,
+   gestos de bendición cristianos. Para un banquete o escena de la antigüedad judía:
+   **mesa en U o triclinio, ángulos oblicuos, la antigüedad judía en sus propios
+   términos** — nunca la plantilla renacentista. Todo prompt lleva esto en su lista de
+   «Evitar». (Nació con la lámina de Kamtza, jul 2026: esa se publicó, pero **no se
+   repite** — decisión de Karen.)
+
+6. **Recordatorio del ADN** (no se negocia): dos registros (cálido saludos / sobrio
    solemne), DUSK + oro, hebreo en serif + frase-insight itálica, **feed ≠ story**,
    el umbral (antiguo + hoy). **Nunca shmuel-design.**

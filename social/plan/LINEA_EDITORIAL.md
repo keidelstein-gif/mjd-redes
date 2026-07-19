@@ -80,6 +80,7 @@ por plataforma e idioma) para pulir el año siguiente.
 - [ ] ¿Distingue **fuente histórica de síntesis**? ¿Cero atribuciones falsas?
 - [ ] ¿**HaShem/D-os** (nunca «Dios»), **sin voseo**, sin emojis, sentence case?
 - [ ] ¿**Feed ≠ Story** (pieza y dinámica propias)?
+- [ ] ¿**Sin iconografía ni referencia cristiana** (composición «última cena», cruces, halos, poses de crucifixión, arquitectura de iglesia/vitral) y cumple `REGLAS_DISENO.md` (חי arriba-derecha, sin Cúpula de la Roca en duelo, luna sin lado)?
 - [ ] ¿Va a la **cuenta e idioma correctos**, con hashtags de ese idioma?
 - [ ] ¿Cae **fuera de Shabat/Yom Tov** (o en el erev)?
 - [ ] Si es memorial, ¿**sobrio**, sin gamificar ni hashtags festivos?
