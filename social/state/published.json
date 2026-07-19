@@ -5,5 +5,43 @@
       "id": "18149823889452008",
       "ts": "2026-07-19T03:35:25.906Z"
     }
+  },
+  "2026-07-19-nueve-dias-feed-es": {
+    "instagram_feed": {
+      "status": "ok",
+      "id": "17937295731302154",
+      "ts": "2026-07-19T17:54:51.658Z"
+    },
+    "facebook": {
+      "status": "error",
+      "error": "Graph API error: (#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "ts": "2026-07-19T17:54:51.658Z"
+    }
+  },
+  "2026-07-19-nueve-dias-feed-en": {
+    "instagram_feed": {
+      "status": "ok",
+      "id": "18069946196705571",
+      "ts": "2026-07-19T17:54:51.658Z"
+    },
+    "facebook": {
+      "status": "error",
+      "error": "Graph API error: (#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.",
+      "ts": "2026-07-19T17:54:51.658Z"
+    }
+  },
+  "2026-07-19-nueve-dias-story-es": {
+    "instagram_stories": {
+      "status": "ok",
+      "id": "18009982643928840",
+      "ts": "2026-07-19T17:54:51.658Z"
+    }
+  },
+  "2026-07-19-nueve-dias-story-en": {
+    "instagram_stories": {
+      "status": "ok",
+      "id": "18009641573923529",
+      "ts": "2026-07-19T17:54:51.658Z"
+    }
   }
 }
