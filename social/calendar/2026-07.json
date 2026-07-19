@@ -98,5 +98,49 @@
     "caption": "The sages wept; Rabbi Akiva laughed.",
     "alt": "A green sprout rising from a crack in the stone at dusk.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-21-kamtza-feed-es",
+    "datetime": "2026-07-21T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-21-kamtza-feed-es.jpg",
+    "caption": "El Talmud es brutalmente honesto sobre por qué cayó el Segundo Templo, y no culpa a Roma: culpa a una cena. Un hombre dio un banquete y mandó a su sirviente a invitar a su amigo Kamtza; por error, invitó a Bar Kamtza, su enemigo. Al verlo, el anfitrión lo echó delante de todos. Bar Kamtza le rogó: «déjame quedarme, pago mi parte»; «pago la mitad del banquete»; «pago el banquete entero». Lo sacó igual. Y los sabios que estaban ahí no dijeron nada (Gitín 55b–56a). Humillado por su gente y abandonado por los que debían defenderlo, Bar Kamtza fue a delatar a los judíos ante el emperador — y de ahí se soltó el hilo que terminó en las llamas. El Templo no cayó por una gran herejía: cayó por una humillación en una fiesta que todos miraron en silencio. Por eso sinat jinam, el odio gratuito, no es un pecado abstracto: es el que echa, y el que calla. Esta semana, cuando alguien esté siendo humillado —en la mesa, en el grupo de mensajes—, el silencio también cuenta. Di algo.\n\n#NueveDías #TisháBeAv #SinatJinam #MiDíaJudío",
+    "alt": "Un banquete antiguo de noche; en el borde, un hombre siendo echado por la puerta mientras los demás desvían la mirada.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-21-kamtza-feed-en",
+    "datetime": "2026-07-21T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-21-kamtza-feed-en.jpg",
+    "caption": "The Talmud is brutally honest about why the Second Temple fell, and it doesn't blame Rome: it blames a dinner. A man threw a banquet and sent his servant to invite his friend Kamtza; by mistake, the servant invited Bar Kamtza, his enemy. Seeing him, the host threw him out in front of everyone. Bar Kamtza begged: «let me stay, I'll pay my share»; «I'll pay for half the feast»; «I'll pay for the whole feast». He was thrown out anyway. And the sages who were there said nothing (Gittin 55b–56a). Humiliated by his own and abandoned by those who should have defended him, Bar Kamtza went and slandered the Jews to the emperor — and from there the thread unspooled that ended in flames. The Temple didn't fall for some great heresy: it fell over a humiliation at a party that everyone watched in silence. That's why sinat chinam, baseless hatred, isn't an abstract sin: it's the one who casts out, and the one who stays quiet. This week, when someone is being humiliated — at the table, in the group chat — the silence counts too. Say something.\n\n#NineDays #BaselessHatred #TishaBAv #MyJewishDay",
+    "alt": "An ancient banquet at night; at the edge, a man being cast out through the door as the others look away.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-21-kamtza-story-es",
+    "datetime": "2026-07-21T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-21-kamtza-story-es.jpg",
+    "caption": "El que echa — y el que calla.",
+    "alt": "Una silla de madera vacía, corrida hacia atrás, al borde de una mesa apenas iluminada.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-21-kamtza-story-en",
+    "datetime": "2026-07-21T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "nueve-dias",
+    "media": "social/media/2026-07/2026-07-21-kamtza-story-en.jpg",
+    "caption": "The one who casts out — and the one who stays silent.",
+    "alt": "An empty wooden chair pushed back at the edge of a barely-lit table.",
+    "status": "approved"
   }
 ]
