@@ -186,5 +186,93 @@
     "caption": "Tonight Tisha B'Av begins. Light a candle and read one line of Eichah.",
     "alt": "A single candle flame in the darkness.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-23-tisha-feed-es",
+    "datetime": "2026-07-23T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "tisha-beav",
+    "media": "social/media/2026-07/2026-07-23-tisha-feed-es.jpg",
+    "caption": "Hoy es Tishá BeAv. Hace más de dos mil años, en este mismo día, cayeron los dos Templos de Jerusalén. Hoy el pueblo judío ayuna, se sienta en el suelo y lee Eijá. No trabajamos como cualquier día, no nos saludamos como si nada: hoy el calendario se detiene a recordar. Recordar no es vivir en el pasado — es negarse a que el olvido tenga la última palabra. Zajor. Que la memoria de lo perdido nos vuelva más suaves con lo que todavía tenemos.\n\n#TisháBeAv #Zajor",
+    "alt": "Una sola llama de vela entre piedras antiguas, en la oscuridad.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-23-tisha-feed-en",
+    "datetime": "2026-07-23T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "tisha-beav",
+    "media": "social/media/2026-07/2026-07-23-tisha-feed-en.jpg",
+    "caption": "Today is Tisha B'Av. More than two thousand years ago, on this very day, both Temples of Jerusalem fell. Today the Jewish people fasts, sits on the ground, and reads Eichah. We don't work as on any other day, we don't greet each other as if nothing were wrong: today the calendar stops to remember. To remember is not to live in the past — it is to refuse to let forgetting have the last word. Zachor. May the memory of what was lost make us gentler with what we still have.\n\n#TishaBAv #WeRemember",
+    "alt": "A single candle flame among ancient stones, in the darkness.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-23-tisha-story-es",
+    "datetime": "2026-07-23T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "tisha-beav",
+    "media": "social/media/2026-07/2026-07-23-tisha-story-es.jpg",
+    "caption": "Hoy ayunamos y recordamos.",
+    "alt": "Una vela de memoria encendida en negro profundo.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-23-tisha-story-en",
+    "datetime": "2026-07-23T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "tisha-beav",
+    "media": "social/media/2026-07/2026-07-23-tisha-story-en.jpg",
+    "caption": "Today we fast and we remember.",
+    "alt": "A memorial candle burning in deep black.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-24-najamu-feed-es",
+    "datetime": "2026-07-24T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "najamu",
+    "media": "social/media/2026-07/2026-07-24-najamu-feed-es.jpg",
+    "caption": "Pasó lo más oscuro, y el calendario judío hace algo hermoso: no te deja en las ruinas. El Shabat inmediatamente después de Tishá BeAv se llama Shabat Najamú, «consuelo», por las primeras palabras de su haftará: «Najamú, najamú amí» — «Consuélense, consuélense, pueblo mío» (Ishaiahu 40:1). Empiezan siete semanas seguidas de haftarot de consolación, un puente que te lleva desde el duelo de Av hasta la esperanza de Rosh Hashaná. El judaísmo sabe algo profundo sobre el dolor: no lo apura, pero tampoco te abandona en él — le pone fecha de salida. Este viernes, cuando enciendas las velas, deja que entre el consuelo. Te lo ganaste. Shabat shalom a toda la mishpajá.\n\n#ShabatNajamú #ShabatShalom #Consuelo #MiDíaJudío",
+    "alt": "Un olivo y un arco de piedra antigua con la luz cálida del sol entrando a través.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-24-najamu-feed-en",
+    "datetime": "2026-07-24T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "najamu",
+    "media": "social/media/2026-07/2026-07-24-najamu-feed-en.jpg",
+    "caption": "The darkest has passed, and the Jewish calendar does something beautiful: it doesn't leave you in the ruins. The Shabbat right after Tisha B'Av is called Shabbat Nachamu, «comfort», after the opening words of its haftarah: «Nachamu, nachamu ami» — «Comfort, comfort my people» (Isaiah 40:1). Seven straight weeks of consolation haftarot begin now, a bridge that carries you from the mourning of Av to the hope of Rosh Hashanah. Judaism knows something deep about pain: it doesn't rush it, but it doesn't abandon you in it either — it gives it an exit date. This Friday, when you light the candles, let the comfort in. You've earned it. Shabbat shalom to the whole mishpacha.\n\n#ShabbatNachamu #ShabbatShalom #Comfort #MyJewishDay",
+    "alt": "An olive tree and an ancient stone arch with warm sunlight streaming through.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-24-najamu-story-es",
+    "datetime": "2026-07-24T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "najamu",
+    "media": "social/media/2026-07/2026-07-24-najamu-story-es.jpg",
+    "caption": "Deja entrar el consuelo. Shabat shalom.",
+    "alt": "Dos velas de Shabat recién encendidas en la penumbra.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-24-najamu-story-en",
+    "datetime": "2026-07-24T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "najamu",
+    "media": "social/media/2026-07/2026-07-24-najamu-story-en.jpg",
+    "caption": "Let the comfort in. Shabbat shalom.",
+    "alt": "Two Shabbat candles newly lit in the dim.",
+    "status": "approved"
   }
 ]
