@@ -3,6 +3,14 @@
 Reglas duras del lenguaje visual, además del `ADN_EDITORIAL.md`. **Toda lámina las cumple.**
 Nacieron revisando las primeras láminas reales con Karen (Nueve Días, jul 2026).
 
+> **Cómo se escriben los prompts (desde jul 2026).** La marca la resuelve la **matriz de
+> Karen** en el generador: el sello חי y su posición, el footer/wordmark, las URLs, los
+> badges, la paleta y las tipografías **ya están fijos ahí**. El prompt **NO los repite** —
+> repetirlos confunde al generador y lo hace pelear con la matriz. El prompt lleva solo:
+> **formato · escena y ánimo · textos variables** (eyebrow · hebreo + translit · frase ·
+> sticker) **· lista corta de «Evitar»**. Las reglas 1 y 2 siguen siendo verdad de marca,
+> pero las cumple la matriz, no el prompt.
+
 1. **Sello חי — SIEMPRE en la esquina superior derecha.** Posición fija, para
    reconocimiento de marca. Nunca a la izquierda, nunca en cartucho/mezuzá suelto: el
    mismo חי, mismo lugar, en toda pieza (feed y story).
@@ -35,6 +43,16 @@ Nacieron revisando las primeras láminas reales con Karen (Nueve Días, jul 2026
    «Evitar». (Nació con la lámina de Kamtza, jul 2026: esa se publicó, pero **no se
    repite** — decisión de Karen.)
 
-6. **Recordatorio del ADN** (no se negocia): dos registros (cálido saludos / sobrio
+6. **El CRUCE TEMPORAL es la composición por defecto — es el sello.** La lámina MJD no es
+   un objeto con atmósfera (una vela, una silla, una llama): es **el link hecho imagen —
+   la misma acción, dos épocas, en un solo cuadro**. Figura antigua y figura de hoy en el
+   MISMO acto: la misma mano tapando los ojos en el Shemá; la misma ronda de baile que
+   atraviesa dos mil años; el mismo pan partiéndose de una mesa de piedra a una de cocina.
+   El objeto solo (naturaleza muerta con ánimo) **se permite únicamente cuando el duelo lo
+   exige** (Tishá BeAv, memoriales) y **nunca dos semanas seguidas**.
+   **Prueba:** si esa lámina la podría postear cualquier marca, no es nuestra.
+   (Nota de Karen, jul 2026: «más inteligentes, como los cruces temporales — no solo una vela».)
+
+7. **Recordatorio del ADN** (no se negocia): dos registros (cálido saludos / sobrio
    solemne), DUSK + oro, hebreo en serif + frase-insight itálica, **feed ≠ story**,
    el umbral (antiguo + hoy). **Nunca shmuel-design.**
