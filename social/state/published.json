@@ -81,9 +81,9 @@
   },
   "2026-07-21-kamtza-feed-en": {
     "instagram_feed": {
-      "status": "error",
-      "error": "Graph API error: Media ID is not available",
-      "ts": "2026-07-21T15:46:45.455Z"
+      "status": "ok",
+      "id": "17923488690163624",
+      "ts": "2026-07-21T21:06:57.323Z"
     }
   },
   "2026-07-21-kamtza-story-es": {
@@ -95,9 +95,9 @@
   },
   "2026-07-21-kamtza-story-en": {
     "instagram_stories": {
-      "status": "error",
-      "error": "Graph API error: Media ID is not available",
-      "ts": "2026-07-21T15:46:45.455Z"
+      "status": "ok",
+      "id": "18106072022042231",
+      "ts": "2026-07-21T21:06:57.323Z"
     }
   }
 }
