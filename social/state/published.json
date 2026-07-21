@@ -71,5 +71,33 @@
       "id": "18006022907950542",
       "ts": "2026-07-20T15:54:16.627Z"
     }
+  },
+  "2026-07-21-kamtza-feed-es": {
+    "instagram_feed": {
+      "status": "ok",
+      "id": "17976200505080135",
+      "ts": "2026-07-21T15:46:45.455Z"
+    }
+  },
+  "2026-07-21-kamtza-feed-en": {
+    "instagram_feed": {
+      "status": "error",
+      "error": "Graph API error: Media ID is not available",
+      "ts": "2026-07-21T15:46:45.455Z"
+    }
+  },
+  "2026-07-21-kamtza-story-es": {
+    "instagram_stories": {
+      "status": "ok",
+      "id": "17942409807266794",
+      "ts": "2026-07-21T15:46:45.455Z"
+    }
+  },
+  "2026-07-21-kamtza-story-en": {
+    "instagram_stories": {
+      "status": "error",
+      "error": "Graph API error: Media ID is not available",
+      "ts": "2026-07-21T15:46:45.455Z"
+    }
   }
 }
