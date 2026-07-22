@@ -274,5 +274,49 @@
     "caption": "Let the comfort in. Shabbat shalom.",
     "alt": "Two Shabbat candles newly lit in the dim.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-26-consuelo-feed-es",
+    "datetime": "2026-07-26T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "consuelo",
+    "media": "social/media/2026-07/2026-07-26-consuelo-feed-es.jpg",
+    "caption": "El Shabat pasado, apenas terminado el duelo de Tishá BeAv, la tradición abrió las siete semanas de consolación: siete haftarot seguidas del profeta Ishaiahu que empiezan con «Najamú, najamú amí» — «Consuélense, consuélense, pueblo mío» (Ishaiahu 40:1). No es casualidad que sean siete y que terminen justo en Rosh Hashaná. El judaísmo entiende algo del dolor que casi nadie dice en voz alta: no se apura, pero tampoco es para siempre. A la tristeza se le pone fecha de salida, y se camina hacia ella de a poco, semana a semana, hasta el año nuevo. Esta semana es la primera. Si estás cargando un duelo propio —de los que no salen en el calendario—, que te sirva saber que la tradición ya te reservó el camino de vuelta.\n\n#Najamú #SieteSemanas #Consuelo #MiDíaJudío",
+    "alt": "Una figura de la antigüedad y una persona de hoy asomadas a la misma ventana de piedra, mirando Jerusalén al amanecer.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-26-consuelo-feed-en",
+    "datetime": "2026-07-26T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "consuelo",
+    "media": "social/media/2026-07/2026-07-26-consuelo-feed-en.jpg",
+    "caption": "Last Shabbat, just as the mourning of Tisha B'Av ended, tradition opened the seven weeks of consolation: seven straight haftarot from the prophet Isaiah that begin with «Nachamu, nachamu ami» — «Comfort, comfort my people» (Isaiah 40:1). It's no accident that there are seven, and that they end exactly at Rosh Hashanah. Judaism understands something about pain that few say out loud: it isn't rushed, but it isn't forever either. Sadness is given an exit date, and you walk toward it slowly, week by week, until the new year. This week is the first. If you're carrying a grief of your own — the kind that doesn't show up on any calendar — let it help to know the tradition already set aside your road back.\n\n#Nachamu #SevenWeeks #Comfort #MyJewishDay",
+    "alt": "An ancient figure and a person of today leaning at the same stone window, looking out at Jerusalem at dawn.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-26-consuelo-story-es",
+    "datetime": "2026-07-26T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "consuelo",
+    "media": "social/media/2026-07/2026-07-26-consuelo-story-es.jpg",
+    "caption": "Empiezan siete semanas de consuelo, de Najamú a Rosh Hashaná.",
+    "alt": "Un camino de piedra que baja hacia Jerusalén al amanecer.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-26-consuelo-story-en",
+    "datetime": "2026-07-26T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "consuelo",
+    "media": "social/media/2026-07/2026-07-26-consuelo-story-en.jpg",
+    "caption": "Seven weeks of comfort begin, from Nachamu to Rosh Hashanah.",
+    "alt": "A stone path descending toward Jerusalem at dawn.",
+    "status": "approved"
   }
 ]
