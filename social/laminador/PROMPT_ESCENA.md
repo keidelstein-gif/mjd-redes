@@ -14,9 +14,14 @@ lea «antes y ahora» — no que parezcan el mismo tiempo.
 Cálida, MUY luminosa, luz de día. Deja el TERCIO INFERIOR despejado y tranquilo
 (mesón / pared / suelo simple) para poner el texto después.
 
-Importante: CERO texto en la imagen y CERO marca.
-Evitar: iconografía o referencia cristiana; la Cúpula de la Roca en piezas de duelo.
+Importante: CERO texto en la imagen y CERO marca. SOLO personas ADULTAS.
+Evitar: iconografía o referencia cristiana; la Cúpula de la Roca en piezas de duelo; menores de edad.
 ```
+
+> **Regla dura — SOLO ADULTOS.** ChatGPT/GPT-Image **bloquea** la generación de niños,
+> niñas y adolescentes («infringe nuestras medidas sobre representaciones de menores»,
+> jul 2026). Si la escena pedía un menor (un nieto, una niña), se reescribe con un **adulto
+> joven**. Nunca pedir menores.
 
 ## Notas de Karen (jul 2026)
 
