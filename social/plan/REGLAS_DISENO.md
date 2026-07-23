@@ -52,6 +52,11 @@ Nacieron revisando las primeras láminas reales con Karen (Nueve Días, jul 2026
    exige** (Tishá BeAv, memoriales) y **nunca dos semanas seguidas**.
    **Prueba:** si esa lámina la podría postear cualquier marca, no es nuestra.
    (Nota de Karen, jul 2026: «más inteligentes, como los cruces temporales — no solo una vela».)
+   **El contraste de época debe ser OBVIO:** un lado claramente del pasado (antigüedad/shtetl),
+   el otro claramente de hoy (ropa/objetos actuales). Si a la primera parecen el mismo tiempo,
+   se rehace (Karen, jul 2026). **El texto y la marca NO los pone la IA:** se componen aparte
+   con `social/laminador/` (foto sin texto → tipografías reales en navegador → overlay canónico),
+   porque la IA descoloca el hebreo/yidish. La foto se pide siempre SIN texto y SIN marca.
 
 7. **Recordatorio del ADN** (no se negocia): dos registros (cálido saludos / sobrio
    solemne), DUSK + oro, hebreo en serif + frase-insight itálica, **feed ≠ story**,
