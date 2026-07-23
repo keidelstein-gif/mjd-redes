@@ -318,5 +318,27 @@
     "caption": "Seven weeks of comfort begin, from Nachamu to Rosh Hashanah.",
     "alt": "A stone path descending toward Jerusalem at dawn.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-28-bobe-feed-es",
+    "datetime": "2026-07-28T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "bobe",
+    "media": "social/media/2026-07/2026-07-28-bobe-feed-es.jpg",
+    "caption": "«Es, es, du bist tsu dar» — «come, come, estás muy flaco». Es la frase más repetida de la cocina judía, y nunca fue sobre la comida. Cuando la bobe que cruzó el océano te servía de más, no te estaba alimentando: te estaba diciendo, en el único idioma que le quedaba entero, «nunca más vas a pasar lo que yo pasé». Cada plato lleno era una promesa contra un hambre que ella sí conoció. Por eso hoy, cuando alguien de tu familia insiste en que comas otro poco, no discutas: déjate querer. Es memoria haciéndose comida. Y si ella ya no está, sírvete tú ese poco de más — y acuérdate de dónde viene.\n\n#EnBocaDeLaBobe #Yidish #Bobe #MiDíaJudío",
+    "alt": "Cruce de dos épocas en una cocina luminosa: una bobe de antaño y una abuela de hoy sirviendo un plato humeante. El yidish «Es, es, du bist tsu dar».",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-28-bobe-feed-en",
+    "datetime": "2026-07-28T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "bobe",
+    "media": "social/media/2026-07/2026-07-28-bobe-feed-en.jpg",
+    "caption": "«Es, es, du bist tsu dar» — «eat, eat, you're too thin.» It's the most repeated line in the Jewish kitchen, and it was never about the food. When the bobe who crossed the ocean served you too much, she wasn't feeding you: she was telling you, in the only language she had left whole, «you will never go through what I went through.» Every full plate was a promise against a hunger she actually knew. So today, when someone in your family insists you take a little more, don't argue: let yourself be loved. It's memory turning into food. And if she's gone, serve yourself that little bit more — and remember where it comes from.\n\n#WhatTheBobeSaid #Yiddish #Bobe #MyJewishDay",
+    "alt": "Two eras cross in a sunlit kitchen: an old-world bobe and a grandmother of today serving a steaming plate. The Yiddish «Es, es, du bist tsu dar».",
+    "status": "approved"
   }
 ]
