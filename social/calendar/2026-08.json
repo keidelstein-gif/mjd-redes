@@ -86,5 +86,27 @@
     "caption": "The challah is covered so the bread isn't shamed. Sensitivity is rehearsed in the small. Who do you never want to leave in second place?",
     "alt": "Close-up of a braided challah half-covered with an embroidered lace cloth on a wooden table; the Hebrew לֶחֶם.",
     "status": "approved"
+  },
+  {
+    "id": "2026-08-04-bivas-feed-es",
+    "datetime": "2026-08-04T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "ladino",
+    "media": "social/media/2026-08/2026-08-04-bivas-feed-es.jpg",
+    "caption": "Hay un idioma que suena a español antiguo y a mar: el ladino, el judeoespañol que los judíos sacaron de Sefarad en la expulsión de 1492 y guardaron casi intacto durante cinco siglos, de Salónica a Estambul, de mano en mano y de boca en boca. Y tiene una bendición que vale más que mil «feliz cumpleaños»: «Bivas, kreskas, engrandeskas, komo un peshiko en aguas freskas» — «que vivas, crezcas y te engrandezcas, como un pececito en aguas frescas». Fíjate que no desea suerte ni cosas: desea movimiento. Vivir, crecer, hacerse grande, y sobre todo mantenerse fresco, ágil, sin estancarse, como un pez en agua limpia. Es lo que una abuela sefaradí le decía al nieto pasándole la mano por la cara. Esta semana, a alguien que empieza algo —un trabajo, una etapa, un año más—, en vez de «suerte», deséale esto. Que viva, que crezca, que se engrandezca.\n\nUna joya así cada día —ladino, yiddish, la palabra de la bobe— en Mi Día Judío. Gratis en Android (iPhone, muy pronto). Búscala como «Mi Día Judío».\n\n#Ladino #Sefarad #Bendición #MiDíaJudío",
+    "alt": "Cruce de dos épocas: una abuela sefaradí de antaño con pañuelo en un patio de piedra y una abuela de hoy en una casa moderna, ambas acariciando la mejilla de una mujer joven adulta; el ladino «Bivas, kreskas, engrandeskas».",
+    "status": "approved"
+  },
+  {
+    "id": "2026-08-04-bivas-feed-en",
+    "datetime": "2026-08-04T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "ladino",
+    "media": "social/media/2026-08/2026-08-04-bivas-feed-en.jpg",
+    "caption": "There's a language that sounds like old Spanish and like the sea: Ladino, the Judeo-Spanish that Jews carried out of Sepharad in the expulsion of 1492 and kept almost intact for five centuries, from Salonica to Istanbul, hand to hand and mouth to mouth. And it has a blessing worth more than a thousand «happy birthdays»: «Bivas, kreskas, engrandeskas, komo un peshiko en aguas freskas» — «may you live, grow, and become great, like a little fish in fresh waters.» Notice it doesn't wish luck or things: it wishes movement. To live, to grow, to become great, and above all to stay fresh, nimble, unstuck, like a fish in clean water. It's what a Sephardic grandmother would say to her grandchild, running a hand along the cheek. This week, to someone starting something —a job, a chapter, another year— instead of «good luck», wish them this. May they live, grow, and become great.\n\nA gem like this every day —Ladino, Yiddish, the bobe's word— in My Jewish Day. Free on Android (iPhone soon). Search «My Jewish Day».\n\n#Ladino #Sephardic #Blessing #MyJewishDay",
+    "alt": "Two eras cross: a Sephardic grandmother of old with a headscarf in a stone courtyard and a grandmother of today in a modern home, both cupping the cheek of a young adult woman; the Ladino «Bivas, kreskas, engrandeskas».",
+    "status": "approved"
   }
 ]

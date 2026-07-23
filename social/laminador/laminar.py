@@ -43,6 +43,9 @@ def build(p):
                     " 0 3px 22px rgba(0,0,0,0.55)")
         scrim = SCRIM
 
+    # big_ltr=true -> el "big" es texto latino (ladino/yiddish translit), no hebreo: dirección LTR.
+    bigdir = "ltr" if p.get("big_ltr") else "rtl"
+
     inner = '<div class="eyebrow">%s</div>' % esc(p["eyebrow"])
     inner += '<div class="big">%s</div>' % esc(p["big"])
     if p.get("translit"):
@@ -63,7 +66,7 @@ html,body{width:%(W)spx;height:%(H)spx;overflow:hidden;}
   text-shadow:%(edshadow)s;}
 .eyebrow{font-weight:700;font-size:%(eyesz)spx;letter-spacing:7px;text-transform:uppercase;color:%(c_eye)s;}
 .big{font-family:'Frank Ruhl Libre',serif;font-weight:700;font-size:%(bigsz)spx;color:%(c_big)s;
-  direction:rtl;line-height:1.12;margin-top:16px;letter-spacing:1px;}
+  direction:%(bigdir)s;line-height:1.12;margin-top:16px;letter-spacing:1px;}
 .translit{font-weight:700;font-size:%(trsz)spx;letter-spacing:6px;text-transform:uppercase;color:%(c_tr)s;margin-top:13px;}
 .frase{font-family:'Frank Ruhl Libre',serif;font-style:italic;font-weight:500;font-size:%(frsz)spx;
   color:%(c_fr)s;line-height:1.3;margin-top:26px;max-width:%(maxw)spx;}
@@ -72,7 +75,7 @@ html,body{width:%(W)spx;height:%(H)spx;overflow:hidden;}
 .overlay{position:absolute;inset:0;width:%(W)spx;height:%(H)spx;}
 """ % dict(W=W, H=H, scene=scene, bgpos=bgpos, scrim=scrim, top=top,
            eyesz=eyesz, bigsz=bigsz, trsz=trsz, frsz=frsz, maxw=maxw,
-           edshadow=edshadow, c_eye=c_eye, c_big=c_big, c_tr=c_tr, c_fr=c_fr)
+           edshadow=edshadow, c_eye=c_eye, c_big=c_big, c_tr=c_tr, c_fr=c_fr, bigdir=bigdir)
 
     return ("<!doctype html><html lang='%s'><head><meta charset='utf-8'>%s<style>%s</style></head>"
             "<body><div class='canvas'><div class='scene'></div><div class='scrim'></div>"
