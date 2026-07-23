@@ -47,7 +47,8 @@ html,body{width:%(W)spx;height:%(H)spx;overflow:hidden;}
 .scene{position:absolute;inset:0;background:url('%(scene)s') %(bgpos)s / cover no-repeat;}
 .scrim{position:absolute;inset:0;background:%(scrim)s;}
 .editorial{position:absolute;left:0;right:0;top:%(top)s;display:flex;flex-direction:column;
-  align-items:center;text-align:center;padding:0 92px;text-shadow:0 2px 18px rgba(16,10,3,0.62);}
+  align-items:center;text-align:center;padding:0 92px;
+  text-shadow:0 0 5px rgba(0,0,0,0.60), 0 2px 5px rgba(0,0,0,0.88), 0 3px 22px rgba(0,0,0,0.55);}
 .eyebrow{font-weight:700;font-size:%(eyesz)spx;letter-spacing:7px;text-transform:uppercase;color:#F8EFDC;}
 .big{font-family:'Frank Ruhl Libre',serif;font-weight:700;font-size:%(bigsz)spx;color:#FCF6E8;
   direction:rtl;line-height:1.12;margin-top:16px;letter-spacing:1px;}
