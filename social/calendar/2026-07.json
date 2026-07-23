@@ -494,5 +494,27 @@
     "caption": "One of the happiest days of the year. Tag the person who never let you be embarrassed.",
     "alt": "A white dress hanging from a vine branch, swaying, with the golden vineyard at sunset.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-30-rambam-story-es",
+    "datetime": "2026-07-30T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "mussar",
+    "media": "social/media/2026-07/2026-07-30-rambam-story-es.jpg",
+    "caption": "La tzedaká que no avergüenza. ¿Qué te cuesta más: dar, o dejar que te den?",
+    "alt": "Una moneda antigua apoyada en el borde de una abertura de piedra, con luz dorada de sol entrando por detrás.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-30-rambam-story-en",
+    "datetime": "2026-07-30T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "mussar",
+    "media": "social/media/2026-07/2026-07-30-rambam-story-en.jpg",
+    "caption": "The tzedakah that doesn't shame. Which is harder: giving, or letting someone give to you?",
+    "alt": "An ancient coin resting on the edge of a stone opening, with golden sunlight streaming behind it.",
+    "status": "approved"
   }
 ]
