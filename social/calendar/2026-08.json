@@ -350,5 +350,27 @@
     "caption": "«Hamelech basadeh»: in Elul, the King comes out to the field. The closeness that costs all year is, this month, on your own road. What would you say if you met Him today?",
     "alt": "A golden wheat field with a dirt path leading toward the setting sun; the Hebrew הַמֶּלֶךְ בַּשָּׂדֶה.",
     "status": "approved"
+  },
+  {
+    "id": "2026-08-11-shofar-feed-es",
+    "datetime": "2026-08-11T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "el-porque",
+    "media": "social/media/2026-08/2026-08-11-shofar-feed-es.jpg",
+    "caption": "Desde el primer día de Elul, en muchas comunidades suena algo cada mañana después de rezar: el shofar, el cuerno de carnero, un sonido ronco y antiguo que no se parece a ningún instrumento. ¿Por qué, si Rosh Hashaná todavía está a un mes? El Rambam lo explica con una imagen que no envejece: el shofar es un despertador. «Despierten, dormidos, de su sueño; examinen sus actos, vuelvan.» No es una alarma de miedo —es el ruido que te saca del piloto automático. Piénsalo: pasamos meses corriendo medio dormidos, haciendo las cosas por inercia, sin mirar de verdad a la gente que queremos ni a la vida que llevamos. El shofar de Elul no te exige cambiarlo todo hoy: te da treinta mañanas para ir despertando de a poco, para llegar a Rosh Hashaná con los ojos abiertos y no de golpe. Esta semana, aunque no oigas un shofar, busca tu propio despertador: un momento al día para salir del automático y preguntarte «¿estoy despierto en esto?».\n\nEl porqué de cada costumbre judía, explicado simple, cada día en Mi Día Judío. Gratis en Android (iPhone, muy pronto). Búscala como «Mi Día Judío».\n\n#Elul #Shofar #Despertar #MiDíaJudío",
+    "alt": "Cruce de dos épocas: una mano de la antigüedad hebrea con manto de flecos y una mano de hoy con camisa alzan juntas el mismo shofar contra un cielo dorado de mañana sobre las colinas; el hebreo שׁוֹפָר.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-08-11-shofar-feed-en",
+    "datetime": "2026-08-11T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "el-porque",
+    "media": "social/media/2026-08/2026-08-11-shofar-feed-en.jpg",
+    "caption": "From the first day of Elul, in many communities something sounds every morning after prayer: the shofar, the ram's horn, a hoarse and ancient sound unlike any instrument. Why, if Rosh Hashanah is still a month away? Rambam explains it with an image that never ages: the shofar is an alarm clock. «Wake up, sleepers, from your sleep; examine your deeds, return.» It isn't an alarm of fear —it's the noise that pulls you off autopilot. Think about it: we spend months running half-asleep, doing things by inertia, not really looking at the people we love or the life we're living. The shofar of Elul doesn't demand you change everything today: it gives you thirty mornings to wake up little by little, to reach Rosh Hashanah with your eyes open and not all at once. This week, even if you don't hear a shofar, find your own alarm clock: one moment a day to step off autopilot and ask yourself «am I awake in this?».\n\nThe why behind every Jewish custom, explained simply, every day in My Jewish Day. Free on Android (iPhone soon). Search «My Jewish Day».\n\n#Elul #Shofar #WakeUp #MyJewishDay",
+    "alt": "Two eras cross: a hand of Hebrew antiquity with a fringed mantle and a hand of today with a shirt raise the same shofar together against a golden morning sky over the hills; the Hebrew שׁוֹפָר.",
+    "status": "approved"
   }
 ]
