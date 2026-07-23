@@ -416,5 +416,27 @@
     "caption": "There's a psalm the Jewish people add twice a day all through this season, from the moment Elul begins: Psalm 27, «LeDavid». It opens with six words worth a whole month of inner work: «Hashem ori v'yish'i, mimi ira» — «Hashem is my light and my salvation, whom shall I fear?». Notice what it does NOT say. It doesn't say «there's nothing to fear» —David knew enemies, betrayals, dark nights. It says something more honest and stronger: I have a light, and so fear doesn't rule. It doesn't deny the darkness; it sets a greater light beside it. That's exactly the return of Elul: not pretending everything is fine, but bringing the light —back to Hashem, back to what matters— alongside the fear, until the fear stops steering. This week, when something grips your chest, don't fight the fear. Ask yourself: «where is my light in this?». And walk toward it.\n\nThe psalm, the word and the story of the day, in My Jewish Day. Free on Android (iPhone soon). Search «My Jewish Day».\n\n#Elul #Psalm27 #Light #MyJewishDay",
     "alt": "Two eras cross: a hand of Hebrew antiquity with a fringed mantle holds a clay oil lamp and a hand of today holds a lit candle; the same warm golden light joins them; the Hebrew ה' אוֹרִי וְיִשְׁעִי.",
     "status": "approved"
+  },
+  {
+    "id": "2026-08-12-ori-story-es",
+    "datetime": "2026-08-12T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "salmo",
+    "media": "social/media/2026-08/2026-08-12-ori-story-es.jpg",
+    "caption": "«HaShem orí veyishí» — HaShem es mi luz y mi salvación, ¿a quién temeré? (Tehilim 27). No niega la oscuridad: le pone al lado una luz más grande. ¿Dónde está tu luz esta semana?",
+    "alt": "Una lámpara de aceite de barro encendida con su llama, en un ambiente cálido dorado; el hebreo ה' אוֹרִי וְיִשְׁעִי.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-08-12-ori-story-en",
+    "datetime": "2026-08-12T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "salmo",
+    "media": "social/media/2026-08/2026-08-12-ori-story-en.jpg",
+    "caption": "«Hashem ori v'yish'i» — Hashem is my light and my salvation, whom shall I fear? (Psalm 27). It doesn't deny the darkness: it sets a greater light beside it. Where is your light this week?",
+    "alt": "A lit clay oil lamp with its flame, in a warm golden setting; the Hebrew ה' אוֹרִי וְיִשְׁעִי.",
+    "status": "approved"
   }
 ]
