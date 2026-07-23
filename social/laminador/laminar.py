@@ -31,6 +31,18 @@ def build(p):
     scene  = p["scene"]
     overlay = "assets/overlay_%s_%s.png" % (fmt, p["lang"])
 
+    # Paleta de texto. fondo="claro" -> tinta AZUL dusk, sin sombra oscura ni scrim (no tapa la foto,
+    # y el azul contrasta sobre fondo claro). Por defecto (fondo oscuro/foto) -> crema + contorno.
+    if p.get("fondo") == "claro":
+        c_eye = c_big = c_fr = "#12315B"; c_tr = "#2C4E82"
+        edshadow = "0 0 6px rgba(255,255,255,0.62), 0 1px 2px rgba(255,255,255,0.55)"
+        scrim = "transparent"
+    else:
+        c_eye, c_big, c_tr, c_fr = "#F8EFDC", "#FCF6E8", "#E8C594", "#F8EFDB"
+        edshadow = ("0 0 5px rgba(0,0,0,0.60), 0 2px 5px rgba(0,0,0,0.88),"
+                    " 0 3px 22px rgba(0,0,0,0.55)")
+        scrim = SCRIM
+
     inner = '<div class="eyebrow">%s</div>' % esc(p["eyebrow"])
     inner += '<div class="big">%s</div>' % esc(p["big"])
     if p.get("translit"):
@@ -48,18 +60,19 @@ html,body{width:%(W)spx;height:%(H)spx;overflow:hidden;}
 .scrim{position:absolute;inset:0;background:%(scrim)s;}
 .editorial{position:absolute;left:0;right:0;top:%(top)s;display:flex;flex-direction:column;
   align-items:center;text-align:center;padding:0 92px;
-  text-shadow:0 0 5px rgba(0,0,0,0.60), 0 2px 5px rgba(0,0,0,0.88), 0 3px 22px rgba(0,0,0,0.55);}
-.eyebrow{font-weight:700;font-size:%(eyesz)spx;letter-spacing:7px;text-transform:uppercase;color:#F8EFDC;}
-.big{font-family:'Frank Ruhl Libre',serif;font-weight:700;font-size:%(bigsz)spx;color:#FCF6E8;
+  text-shadow:%(edshadow)s;}
+.eyebrow{font-weight:700;font-size:%(eyesz)spx;letter-spacing:7px;text-transform:uppercase;color:%(c_eye)s;}
+.big{font-family:'Frank Ruhl Libre',serif;font-weight:700;font-size:%(bigsz)spx;color:%(c_big)s;
   direction:rtl;line-height:1.12;margin-top:16px;letter-spacing:1px;}
-.translit{font-weight:700;font-size:%(trsz)spx;letter-spacing:6px;text-transform:uppercase;color:#E8C594;margin-top:13px;}
+.translit{font-weight:700;font-size:%(trsz)spx;letter-spacing:6px;text-transform:uppercase;color:%(c_tr)s;margin-top:13px;}
 .frase{font-family:'Frank Ruhl Libre',serif;font-style:italic;font-weight:500;font-size:%(frsz)spx;
-  color:#F8EFDB;line-height:1.3;margin-top:26px;max-width:%(maxw)spx;}
+  color:%(c_fr)s;line-height:1.3;margin-top:26px;max-width:%(maxw)spx;}
 .sticker{margin-top:32px;background:rgba(9,13,28,0.82);border:1.5px solid #E8C594;border-radius:22px;
   padding:20px 30px;color:#F1E6CB;font-weight:600;font-size:26px;max-width:720px;line-height:1.36;}
 .overlay{position:absolute;inset:0;width:%(W)spx;height:%(H)spx;}
-""" % dict(W=W, H=H, scene=scene, bgpos=bgpos, scrim=SCRIM, top=top,
-           eyesz=eyesz, bigsz=bigsz, trsz=trsz, frsz=frsz, maxw=maxw)
+""" % dict(W=W, H=H, scene=scene, bgpos=bgpos, scrim=scrim, top=top,
+           eyesz=eyesz, bigsz=bigsz, trsz=trsz, frsz=frsz, maxw=maxw,
+           edshadow=edshadow, c_eye=c_eye, c_big=c_big, c_tr=c_tr, c_fr=c_fr)
 
     return ("<!doctype html><html lang='%s'><head><meta charset='utf-8'>%s<style>%s</style></head>"
             "<body><div class='canvas'><div class='scene'></div><div class='scrim'></div>"
