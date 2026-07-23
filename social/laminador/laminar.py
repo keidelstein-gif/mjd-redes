@@ -2,11 +2,14 @@
 # Laminador MDJ — compone lamina = escena (foto) + texto (fuentes reales) + overlay de marca.
 # El texto lo renderiza el navegador (hebreo/yidish perfectos), no la IA.
 # Uso: python3 laminar.py manifest.json
-import json, subprocess, sys, os, html
+import json, subprocess, sys, os, html, time, shutil
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 ASSETS = os.path.join(BASE, "assets")
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+# Perfil propio: aísla el Chrome headless del laminador del Chrome real del usuario
+# (si comparten perfil, el headless se cuelga por el lock). Ver incidente mié 5.
+PROFILE = os.path.join(BASE, "_chrome_prof")
 FONTLINK = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
             '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
             '<link href="https://fonts.googleapis.com/css2?'
@@ -89,12 +92,32 @@ def main(manifest_path):
         htmlp = os.path.join(BASE, "_tmp_%s.html" % p["id"])
         open(htmlp, "w").write(doc)
         out = p["out"]
-        subprocess.run([CHROME, "--headless=new", "--hide-scrollbars",
+        if os.path.exists(out):
+            try: os.remove(out)
+            except OSError: pass
+        shutil.rmtree(PROFILE, ignore_errors=True)  # perfil limpio: sin SingletonLock
+        # Chrome headless genera el PNG en ~2s pero a veces NO sale (con el Chrome real
+        # del usuario abierto). Estrategia: lanzar, esperar el PNG, y matarlo nosotros.
+        proc = subprocess.Popen([CHROME, "--headless=new", "--hide-scrollbars",
+                        "--no-first-run", "--no-default-browser-check", "--disable-gpu",
+                        "--user-data-dir=%s" % PROFILE,
                         "--force-device-scale-factor=1", "--window-size=%d,%d" % (W, H),
                         "--virtual-time-budget=6000", "--screenshot=%s" % out,
                         "file://%s" % htmlp],
                        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        print("OK", p["id"], "->", out, "(%dx%d)" % (W, H))
+        ok = False
+        for _ in range(80):                      # hasta ~20s
+            if os.path.exists(out) and os.path.getsize(out) > 0:
+                time.sleep(0.5)                  # que termine de escribir el archivo
+                ok = True
+                break
+            time.sleep(0.25)
+        try:
+            proc.terminate(); proc.wait(timeout=5)
+        except Exception:
+            try: proc.kill()
+            except Exception: pass
+        print("OK" if ok else "FAIL", p["id"], "->", out, "(%dx%d)" % (W, H))
 
 if __name__ == "__main__":
     main(sys.argv[1])

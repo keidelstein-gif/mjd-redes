@@ -130,5 +130,27 @@
     "caption": "«Bivas, kreskas, engrandeskas» — may you live, grow, and become great. A 500-year-old Sephardic blessing. Who would you say this to today?",
     "alt": "Two adult hands clasped —one old, one young— on an embroidered cloth in golden Mediterranean light; the Ladino «Bivas, kreskas, engrandeskas».",
     "status": "approved"
+  },
+  {
+    "id": "2026-08-05-hinema-feed-es",
+    "datetime": "2026-08-05T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "cancion",
+    "media": "social/media/2026-08/2026-08-05-hinema-feed-es.jpg",
+    "caption": "Hay seis palabras del Rey David que el pueblo judío no ha dejado de cantar: «Hiné ma tov umá naím, shévet ajim gam iájad» — «Qué bueno y qué agradable es que los hermanos habiten juntos» (Tehilim 133:1). Se canta en las bodas, en los campamentos, alrededor de la mesa, tomados de los hombros. Y cae justo ahora con una fuerza especial: venimos de recordar, en Tishá BeAv, que el Segundo Templo cayó por el odio gratuito entre hermanos. Estamos en las siete semanas de consuelo, y fíjate qué forma tiene el consuelo: no es un discurso, es una canción sobre volver a estar juntos. David no escribió «qué bueno es tener la razón» ni «qué bueno es que me entiendan». Escribió qué bueno es, sencillamente, estar juntos. Esta semana, con alguien de quien te distanciaste, no busques ganar la discusión. Busca volver a sentarte a la misma mesa. Ahí, dice el salmo, cae la bendición.\n\nLa canción, la palabra y la historia de cada día están en Mi Día Judío. Gratis en Android (iPhone, muy pronto). Búscala como «Mi Día Judío».\n\n#HinéMaTov #Consuelo #Juntos #MiDíaJudío",
+    "alt": "Cruce de dos épocas: una ronda de adultos tomados de los hombros, cantando; a la izquierda figuras de la antigüedad con túnicas, a la derecha personas de hoy con una ciudad moderna detrás; el hebreo הִנֵּה מַה טּוֹב.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-08-05-hinema-feed-en",
+    "datetime": "2026-08-05T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "cancion",
+    "media": "social/media/2026-08/2026-08-05-hinema-feed-en.jpg",
+    "caption": "There are six words of King David that the Jewish people have never stopped singing: «Hine ma tov uma naim, shevet achim gam yachad» — «How good and how pleasant it is for brothers to dwell together» (Psalms 133:1). It's sung at weddings, at camps, around the table, arms over shoulders. And it lands right now with special force: we've just remembered, on Tisha B'Av, that the Second Temple fell over baseless hatred between brothers. We're in the seven weeks of consolation, and notice the shape the comfort takes: not a speech, but a song about being together again. David didn't write «how good it is to be right» or «how good it is to be understood». He wrote how good it is, simply, to be together. This week, with someone you drifted from, don't try to win the argument. Try to sit back down at the same table. There, the psalm says, the blessing falls.\n\nThe song, the word and the story of each day are in My Jewish Day. Free on Android (iPhone soon). Search «My Jewish Day».\n\n#HineMaTov #Comfort #Together #MyJewishDay",
+    "alt": "Two eras cross: a row of adults arm in arm, singing; figures of antiquity in tunics on the left, people of today with a modern city behind on the right; the Hebrew הִנֵּה מַה טּוֹב.",
+    "status": "approved"
   }
 ]
