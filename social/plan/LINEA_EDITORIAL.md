@@ -86,3 +86,4 @@ por plataforma e idioma) para pulir el año siguiente.
 - [ ] Si es memorial, ¿**sobrio**, sin gamificar ni hashtags festivos?
 - [ ] ¿Es **una vena distinta** a lo publicado en los últimos 14 días?
 - [ ] ¿Aporta valor antes que producto (~80/20)?
+- [ ] ¿**Cierra con un puente REAL a la app** (una función concreta: hora de velas/zmanim, contenido diario, yahrzeit…), sin tapar la enseñanza? **El fin es la descarga.** Ruteo por plataforma cuando aplique (MJD Android · Kimá iPhone; MJD iOS «muy pronto»).
