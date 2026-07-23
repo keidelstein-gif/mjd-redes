@@ -516,5 +516,27 @@
     "caption": "The tzedakah that doesn't shame. Which is harder: giving, or letting someone give to you?",
     "alt": "An ancient coin resting on the edge of a stone opening, with golden sunlight streaming behind it.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-31-shabat-story-es",
+    "datetime": "2026-07-31T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "shabat",
+    "media": "social/media/2026-07/2026-07-31-shabat-story-es.jpg",
+    "caption": "Shabat shalom a toda la mishpajá. Sube tu jalá de este Shabat.",
+    "alt": "Dos velas de Shabat encendidas junto a una jalá tapada con paño bordado, en luz dorada de viernes.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-31-shabat-story-en",
+    "datetime": "2026-07-31T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "shabat",
+    "media": "social/media/2026-07/2026-07-31-shabat-story-en.jpg",
+    "caption": "Shabbat shalom to the whole mishpacha. Share your challah this Shabbat.",
+    "alt": "Two lit Shabbat candles beside a challah under an embroidered cloth, in golden Friday light.",
+    "status": "approved"
   }
 ]
