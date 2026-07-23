@@ -306,5 +306,27 @@
     "caption": "Teshuvah comes from shuv: to return. Not guilt —coming home. Elul leaves the door open for thirty days. What's your first step back?",
     "alt": "An adult silhouette from behind walks a stone path toward a warmly lit door at golden sunset; the Hebrew תְּשׁוּבָה.",
     "status": "approved"
+  },
+  {
+    "id": "2026-08-10-hamelej-feed-es",
+    "datetime": "2026-08-10T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "es",
+    "type": "jasidut",
+    "media": "social/media/2026-08/2026-08-10-hamelej-feed-es.jpg",
+    "caption": "Hay una parábola jasídica para Elul que lo cambia todo, del Alter Rebe. Dice así: durante casi todo el año, el Rey está en su palacio, en la sala del trono, y quien quiere audiencia necesita permisos, protocolos, atravesar guardias y salones. Pocos llegan. Pero hay un mes —Elul— en que el Rey sale de viaje y cruza el campo a pie, entre la gente común. Y ahí, en el camino de tierra, cualquiera puede acercarse: el campesino, el que no sabe protocolos, el que anda con la ropa de trabajo. El Rey los recibe a todos con rostro amable y los saluda uno por uno. Elul es eso. No te pide escalar hasta el cielo ni tener las palabras perfectas: te dice que la cercanía que el resto del año parece lejana, este mes está en tu propio camino. D-os salió al campo. No tienes que entrar al palacio: solo salir a saludar. Esta semana, una vez, háblale como al Rey que está en tu camino —sin protocolo, con lo que traigas puesto.\n\nUna joya del judaísmo así, cada día, en Mi Día Judío. Gratis en Android (iPhone, muy pronto). Búscala como «Mi Día Judío».\n\n#Elul #Jasidut #ElReyEnElCampo #MiDíaJudío",
+    "alt": "Cruce de dos épocas: una persona de la antigüedad hebrea con túnica y una persona de hoy caminan de espaldas por el mismo sendero de un campo de trigo, hacia el sol, bajo un mismo cielo dorado; el hebreo הַמֶּלֶךְ בַּשָּׂדֶה.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-08-10-hamelej-feed-en",
+    "datetime": "2026-08-10T09:00:00-04:00",
+    "networks": ["instagram_feed"],
+    "lang": "en",
+    "type": "jasidut",
+    "media": "social/media/2026-08/2026-08-10-hamelej-feed-en.jpg",
+    "caption": "There's a Chasidic parable for Elul, from the Alter Rebe, that changes everything. It goes like this: for most of the year, the King is in his palace, in the throne room, and whoever wants an audience needs permits, protocols, to pass guards and halls. Few make it. But there's one month —Elul— when the King goes out traveling and crosses the field on foot, among ordinary people. And there, on the dirt road, anyone can approach: the farmer, the one who knows no protocol, the one still in work clothes. The King receives them all with a kind face and greets them one by one. That's Elul. It doesn't ask you to climb to heaven or to have the perfect words: it tells you that the closeness that seems so distant the rest of the year is, this month, right on your own road. G-d has come out to the field. You don't have to enter the palace: just step out to say hello. This week, once, speak to Him like the King who is on your road —no protocol, in whatever you're wearing.\n\nA gem of Judaism like this, every day, in My Jewish Day. Free on Android (iPhone soon). Search «My Jewish Day».\n\n#Elul #Chasidut #TheKingInTheField #MyJewishDay",
+    "alt": "Two eras cross: a person of Hebrew antiquity in a tunic and a person of today walk from behind along the same wheat-field path toward the sun, under one golden sky; the Hebrew הַמֶּלֶךְ בַּשָּׂדֶה.",
+    "status": "approved"
   }
 ]
