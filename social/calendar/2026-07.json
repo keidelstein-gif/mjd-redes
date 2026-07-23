@@ -428,5 +428,27 @@
     "caption": "In this week's parashah, Eikev, there are three words that changed the Jewish table forever: ve'achalta, vesavata, uverachta — «you shall eat, you shall be satisfied, and you shall bless» (Devarim 8:10). From here comes Birkat HaMazon, the blessing after eating. But notice the order, because that's where all the wisdom is: the Torah doesn't ask you to bless when you're hungry and in need. It asks you to bless when you're already full — which is exactly the moment we all forget. Giving thanks on an empty stomach is easy, almost a reflex. Giving thanks when satisfied, when you lack nothing, that's the mitzvah. This Friday, when you finish eating on Shabbat and you're full and content, take ten seconds before you get up from the table: look at what was there, and bless. Shabbat shalom to the whole mishpacha.\n\n#Eikev #BirkatHamazon #Shabbat #MyJewishDay",
     "alt": "Two eras breaking the same bread: on the left a stone table and an antique embroidered sleeve; on the right a modern kitchen counter and a sleeve of today. Jerusalem through the window.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-27-shema-story-es",
+    "datetime": "2026-07-27T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "parasha",
+    "media": "social/media/2026-07/2026-07-27-shema-story-es.jpg",
+    "caption": "Dos veces al día, hace 3.000 años. ¿Quién te enseñó a decir el Shemá?",
+    "alt": "Primer plano de una mano en luz dorada de casa; el hebreo שְׁמַע y la pregunta: ¿quién te enseñó a decir el Shemá?",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-27-shema-story-en",
+    "datetime": "2026-07-27T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "parasha",
+    "media": "social/media/2026-07/2026-07-27-shema-story-en.jpg",
+    "caption": "Twice a day, for 3,000 years. Who taught you to say the Shema?",
+    "alt": "Close-up of a hand in warm home light; the Hebrew שְׁמַע and the question: who taught you to say the Shema?",
+    "status": "approved"
   }
 ]
