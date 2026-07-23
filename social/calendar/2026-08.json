@@ -108,5 +108,27 @@
     "caption": "There's a language that sounds like old Spanish and like the sea: Ladino, the Judeo-Spanish that Jews carried out of Sepharad in the expulsion of 1492 and kept almost intact for five centuries, from Salonica to Istanbul, hand to hand and mouth to mouth. And it has a blessing worth more than a thousand «happy birthdays»: «Bivas, kreskas, engrandeskas, komo un peshiko en aguas freskas» — «may you live, grow, and become great, like a little fish in fresh waters.» Notice it doesn't wish luck or things: it wishes movement. To live, to grow, to become great, and above all to stay fresh, nimble, unstuck, like a fish in clean water. It's what a Sephardic grandmother would say to her grandchild, running a hand along the cheek. This week, to someone starting something —a job, a chapter, another year— instead of «good luck», wish them this. May they live, grow, and become great.\n\nA gem like this every day —Ladino, Yiddish, the bobe's word— in My Jewish Day. Free on Android (iPhone soon). Search «My Jewish Day».\n\n#Ladino #Sephardic #Blessing #MyJewishDay",
     "alt": "Two eras cross: a Sephardic grandmother of old with a headscarf in a stone courtyard and a grandmother of today in a modern home, both cupping the cheek of a young adult woman; the Ladino «Bivas, kreskas, engrandeskas».",
     "status": "approved"
+  },
+  {
+    "id": "2026-08-04-bivas-story-es",
+    "datetime": "2026-08-04T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "ladino",
+    "media": "social/media/2026-08/2026-08-04-bivas-story-es.jpg",
+    "caption": "«Bivas, kreskas, engrandeskas» — que vivas, crezcas y te engrandezcas. Una bendición sefaradí de 500 años. ¿A quién le dirías esto hoy?",
+    "alt": "Dos manos adultas tomadas —una vieja, una joven— sobre un mantel bordado, con luz mediterránea dorada; el ladino «Bivas, kreskas, engrandeskas».",
+    "status": "approved"
+  },
+  {
+    "id": "2026-08-04-bivas-story-en",
+    "datetime": "2026-08-04T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "ladino",
+    "media": "social/media/2026-08/2026-08-04-bivas-story-en.jpg",
+    "caption": "«Bivas, kreskas, engrandeskas» — may you live, grow, and become great. A 500-year-old Sephardic blessing. Who would you say this to today?",
+    "alt": "Two adult hands clasped —one old, one young— on an embroidered cloth in golden Mediterranean light; the Ladino «Bivas, kreskas, engrandeskas».",
+    "status": "approved"
   }
 ]
