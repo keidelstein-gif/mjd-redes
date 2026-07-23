@@ -450,5 +450,27 @@
     "caption": "Twice a day, for 3,000 years. Who taught you to say the Shema?",
     "alt": "Close-up of a hand in warm home light; the Hebrew שְׁמַע and the question: who taught you to say the Shema?",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-28-bobe-story-es",
+    "datetime": "2026-07-28T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "bobe",
+    "media": "social/media/2026-07/2026-07-28-bobe-story-es.jpg",
+    "caption": "«Es, es» — todavía te sirve de más. ¿Qué frase de tu bobe todavía te suena?",
+    "alt": "Un plato de comida casera humeante sobre la mesa; a los lados, una mano vieja y una joven sin tocarse.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-28-bobe-story-en",
+    "datetime": "2026-07-28T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "bobe",
+    "media": "social/media/2026-07/2026-07-28-bobe-story-en.jpg",
+    "caption": "«Es, es» — she still serves you too much. What line of your bobe's do you still hear?",
+    "alt": "A plate of steaming home-cooked food on the table; on either side, an old hand and a young one, not touching.",
+    "status": "approved"
   }
 ]
