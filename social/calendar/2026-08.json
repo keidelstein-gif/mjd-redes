@@ -152,5 +152,27 @@
     "caption": "There are six words of King David that the Jewish people have never stopped singing: «Hine ma tov uma naim, shevet achim gam yachad» — «How good and how pleasant it is for brothers to dwell together» (Psalms 133:1). It's sung at weddings, at camps, around the table, arms over shoulders. And it lands right now with special force: we've just remembered, on Tisha B'Av, that the Second Temple fell over baseless hatred between brothers. We're in the seven weeks of consolation, and notice the shape the comfort takes: not a speech, but a song about being together again. David didn't write «how good it is to be right» or «how good it is to be understood». He wrote how good it is, simply, to be together. This week, with someone you drifted from, don't try to win the argument. Try to sit back down at the same table. There, the psalm says, the blessing falls.\n\nThe song, the word and the story of each day are in My Jewish Day. Free on Android (iPhone soon). Search «My Jewish Day».\n\n#HineMaTov #Comfort #Together #MyJewishDay",
     "alt": "Two eras cross: a row of adults arm in arm, singing; figures of antiquity in tunics on the left, people of today with a modern city behind on the right; the Hebrew הִנֵּה מַה טּוֹב.",
     "status": "approved"
+  },
+  {
+    "id": "2026-08-05-hinema-story-es",
+    "datetime": "2026-08-05T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "cancion",
+    "media": "social/media/2026-08/2026-08-05-hinema-story-es.jpg",
+    "caption": "«Hiné ma tov» — qué bueno es que los hermanos habiten juntos (Tehilim 133:1). El consuelo tiene forma de canción. ¿Con quién quieres volver a la misma mesa?",
+    "alt": "Un grupo de adultos de espaldas, tomados de los hombros, bajo una luz dorada de celebración; el hebreo הִנֵּה מַה טּוֹב.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-08-05-hinema-story-en",
+    "datetime": "2026-08-05T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "cancion",
+    "media": "social/media/2026-08/2026-08-05-hinema-story-en.jpg",
+    "caption": "«Hine ma tov» — how good it is for brothers to dwell together (Psalms 133:1). Comfort takes the shape of a song. Who do you want to sit back down with?",
+    "alt": "A group of adults seen from behind, arms over shoulders, under warm golden celebration light; the Hebrew הִנֵּה מַה טּוֹב.",
+    "status": "approved"
   }
 ]

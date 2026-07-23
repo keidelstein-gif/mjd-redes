@@ -57,6 +57,15 @@ Nacieron revisando las primeras láminas reales con Karen (Nueve Días, jul 2026
    se rehace (Karen, jul 2026). **El texto y la marca NO los pone la IA:** se componen aparte
    con `social/laminador/` (foto sin texto → tipografías reales en navegador → overlay canónico),
    porque la IA descoloca el hebreo/yidish. La foto se pide siempre SIN texto y SIN marca.
+   **El cielo es lo único atemporal → va CONTINUO.** En un cruce con cielo, el cielo (y la
+   luna/estrellas) NO cambia entre las dos épocas: cruza la costura de lado a lado SIN
+   dividirse, un solo cielo sobre ambos lados. Cambian las personas y los edificios; el cielo
+   es el mismo que estuvo sobre los antiguos. Nada de dos cielos distintos partidos al medio
+   (Karen, jul 2026).
+   **La antigüedad es HEBREA, no grecorromana.** Las figuras del pasado son israelitas
+   bíblicas: túnicas de lana sencillas, mantos con flecos tipo talit, pañuelos/cintas en la
+   cabeza, piedra de Jerusalén, olivos. **NUNCA togas, columnas de Partenón, mármol ni
+   estética griega/romana.** Si «parecen griegos, no hebreos», se rehace (Karen, jul 2026).
 
 7. **Recordatorio del ADN** (no se negocia): dos registros (cálido saludos / sobrio
    solemne), DUSK + oro, hebreo en serif + frase-insight itálica, **feed ≠ story**,
