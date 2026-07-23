@@ -472,5 +472,27 @@
     "caption": "«Es, es» — she still serves you too much. What line of your bobe's do you still hear?",
     "alt": "A plate of steaming home-cooked food on the table; on either side, an old hand and a young one, not touching.",
     "status": "approved"
+  },
+  {
+    "id": "2026-07-29-tubeav-story-es",
+    "datetime": "2026-07-29T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "es",
+    "type": "festividad",
+    "media": "social/media/2026-07/2026-07-29-tubeav-story-es.jpg",
+    "caption": "Uno de los días más alegres del año. Etiqueta a quien nunca te dejó pasar vergüenza.",
+    "alt": "Un vestido blanco colgado de una rama de vid, meciéndose, con el viñedo dorado al atardecer.",
+    "status": "approved"
+  },
+  {
+    "id": "2026-07-29-tubeav-story-en",
+    "datetime": "2026-07-29T09:00:00-04:00",
+    "networks": ["instagram_stories"],
+    "lang": "en",
+    "type": "festividad",
+    "media": "social/media/2026-07/2026-07-29-tubeav-story-en.jpg",
+    "caption": "One of the happiest days of the year. Tag the person who never let you be embarrassed.",
+    "alt": "A white dress hanging from a vine branch, swaying, with the golden vineyard at sunset.",
+    "status": "approved"
   }
 ]
